@@ -1,0 +1,112 @@
+﻿100
+SFX_PAUSE_230
+~z~is costing Rashkovsky enough already.
+PBB_AMAF
+PBB_AJAA
+SFX_PAUSE_250
+PBB_ABAG
+PBB_AAAD
+1100100110000011001001100000110010011000001100100
+~z~The prison bus is set to move.
+100
+~z~Looks like you're clear.
+~z~Sure, we could do that, but it'd cost money. And this is costing us...
+~z~The locals are watching the roads. Take the bus onto the dirt, and you'll have more chance of losing 'em.
+~z~Amazing what they can fit up there. The lifers especially.
+PBB_ABAB
+492010492010492010492
+591
+SFX_PAUSE_260
+492010492010492492010492
+SFX_PAUSE_230
+SFX_PAUSE_330
+492
+SFX_PAUSE_380
+492010492010492010492492010492010492
+PBB_AFAD
+100
+100
+PBB_AKAA
+PBB_AIAA
+SFX_PAUSE_240
+100
+PBB_AGAA
+~z~The bad news is that means there's an armed security detail.
+SFX_PAUSE_220
+~z~It's on the road from the prison to Paleto, and I'm here if you need me.
+PBB_AKAE
+100
+PBB_ABAF
+~z~Take me home! I need the psychotropic or I'll turn into him again!
+PBB_AMAC
+~z~How's the bus?
+~z~So you're hitting the transport, and you're not second guessing us again.
+110010011000001100100110000011001001100000110010011001001100000110010011000001100100
+100
+~z~Take me back to Bolingbroke! Without the drugs, I'll be a monster again.
+~z~They're holding a grade X inmate classed national security risk.
+PBB_AEAA
+PBB_ABAD
+110010011000001100100110000011001001100000110010011001001100000110010011000001100100
+100
+SFX_PAUSE_280
+PBB_AMAG
+SFX_PAUSE_200
+PBB_AMAB
+1100100
+492010
+492010492
+~z~I know what you're thinking. You're thinking it'd be easier to take an old school bus, paint it,
+SFX_PAUSE_290
+~z~You know those games you play, where someone gets out a rocket launcher,
+SFX_PAUSE_220
+492010492
+492010492010492010492492010492010492
+~z~You see that chopper tailing the bus? Local law enforcement are gonna keep on coming unless you down it.
+PBB_ABAA
+1100100
+~z~and people go, "Where was he keeping that? It's so unrealistic"?
+100
+~z~Okay, it's time to "catch" the bus. You can have that.
+~z~Okay. Looks like things are heating up.
+SFX_PAUSE_160
+110010011000001100100
+~z~Cleanest way to do that would be neutralising the driver... just so you know.
+SFX_PAUSE_260
+PBB_AMAD
+PBB_AKAB
+SFX_PAUSE_290
+SFX_PAUSE_230
+SFX_PAUSE_230
+PBB_AMAE
+110010011000001100100
+~z~One of my people will look after it 'til we go in.
+~z~The good news is, the authorities will think we're trying to break him out
+11001001100000110010011000001100100110010011000001100100
+PBB_ABAE
+~z~No one hiding in the back with a cell phone, a carton of cigarettes, a pint of pruno up his ass?
+~z~You'll need to lose the police attention before you come anywhere near us again.
+492
+PBB_AMAA
+PBB_ABAC
+SFX_PAUSE_260
+1102000
+~z~I say to them, "you've clearly not spent much time in the US prison system".
+PBB_AFAA
+~z~bar the windows, and make it smell like blood, bowels, and your brother's high school tube sock.
+~z~Bring the transport to the junkyard outside Sandy Shores.
+~z~and they'll be distracted from what's really going on. You read me?
+SFX_PAUSE_160
+100
+~z~You missed the window. Transport's outta range.
+PBB_AFAB
+~z~Okay, so we need the bus intact.
+PBB_AKAD
+~z~Everyone thinks it's a breakout gone wrong, they're looking in the wrong place.
+~z~Levity and pop culture references are useful tools when trying to gain the trust of new associates.
+PBB_AFAC
+11001001100000
+PBB_AHAA
+PBB_AKAC
+PBB_AAAE
+PBB_AHAB

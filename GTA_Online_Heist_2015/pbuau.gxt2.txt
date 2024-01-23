@@ -1,0 +1,211 @@
+﻿SFX_PAUSE_260
+PBU_AHAB
+~z~Final stretch now. It's a two horse race with two of you in each horse - the ass and the head.
+PBU_BDAC
+492
+~z~That's a confirmed kill. Popov is down.
+PBU_AHAA
+PBU_AYAA
+PBU_AJAC
+492
+100
+1100100
+1100100
+~z~How'd they get in here?
+PBU_ALAB
+PBU_AKAB
+PBU_AGAB
+492
+492
+~z~Looking good so far.
+100
+PBU_BAAA
+PBU_AOAB
+492
+11001001100000110010011000001100100
+PBU_ASAA
+~z~You got everyone. Get out of there and you're done.
+1100100110000011001001100000110010011000001100100
+492
+PBU_AZAA
+492010492492010492
+1100100
+~z~Arghhh!
+100
+100
+591
+1100100
+492
+PBU_AGAA
+PBU_AKAA
+1100100
+100
+492010492010492010492
+492010492010492
+SFX_PAUSE_210
+100
+1100100
+100
+1100100
+492
+PBU_ANAB
+PBU_AMAA
+110010011000001100100110010011000001100100
+~z~Two shots, two kills.
+PBU_AXAA
+~z~Let's clean this up.
+100
+~z~I got money! We can work this out!
+492
+PBU_BIAA
+100
+SFX_PAUSE_230
+100
+SFX_PAUSE_300
+~z~Well done. Now,
+PBU_BBAA
+~z~Target is down. Get out of there now.
+SFX_PAUSE_120
+~z~The other team just cleaned up at Popov's house. Bring the deposition back in.
+1100100
+PBU_BDAB
+492010492
+100
+1100100
+~z~Don't rush this. Stay low, stay quiet.
+~z~put him down quick when he starts running.
+~z~Paranoid, my ass! Who's paranoid now?
+100
+492010492010492
+~z~Sounds like the locals have given up their pursuit. Good work, team.
+1100100
+492
+~z~Here they come. Wait 'til they're out and take the shots at the exact same time.
+1100100
+~z~I've given you pistols with suppressors to get the job done on the QT.
+~z~Okay, you should have visual on Popov now. Let's clean this up.
+PBU_ATAA
+PBU_AUAA
+100
+~z~Before it strikes, a cheetah will spend hours crawling to its prey.
+100
+SFX_PAUSE_290
+~z~Where's my security!
+~z~go down and get their documents, and if the police corner you, make sure you're killed not captured.
+100
+~z~Horse one is going for the lawyers at city hall. Horse two is on the business partner in Richman.
+SFX_PAUSE_220
+1100100
+~z~The most valuable trait in a hunter: patience. Remember that.
+110010011000001100100
+PBU_BDAD
+~z~This whole op gets burned if a guard sees you and sounds the alarm. Do it slow, do it right.
+~z~mainly because I'm trying to kill them... you didn't hear that.
+100
+492
+1100100
+100
+PBU_ARAA
+~z~So, do it slow, do it quiet, do it right. And if you don't,
+1100100
+492
+1100000
+SFX_PAUSE_180
+PBU_AOAA
+~z~Guards! Guards, help!
+~z~Sound good? Get moving.
+1100100
+~z~You got a clear view of the steps?
+110010011000001100100
+1100100
+11001001100000110010011000001100100
+PBU_BGAA
+SFX_PAUSE_130
+~z~Alright, you're going in on the quiet, gain access to the estate, move slowly,
+~z~And he won't appear again anywhere we could possibly get to him. Okay?
+PBU_AJAB
+492010492010492
+100
+100
+PBU_AJAA
+492
+11001001100000110010011000001100100
+~z~Remember, these are paid killers.
+1100100
+100
+492
+PBU_AVAA
+~z~That's a confirmed kill. Popov is down. Now get out of there.
+PBU_AGAC
+~z~take out the guards, and bring down Popov when you get up close.
+492
+492010492
+1100100
+~z~As soon as your associates have evaded the authorities, you're done.
+SFX_PAUSE_260
+PBU_BEAA
+100
+492
+492
+~z~The other team missed a pass at the business partner. He's on the run. Help take him out, or stay out their way.
+~z~That's everyone in the compound. Situation contained. Get out of there.
+PBU_BDAA
+~z~Team one took out the lawyers.
+~z~Okay, take your time.
+100
+~z~Team one have made the drop - documents secure.
+SFX_PAUSE_230
+1100100
+100
+492
+~z~Your target's running. Forget the guards, and take him down.
+100
+~z~Van Der Loop and Sherman are en route in a black Benefactor Schafter,
+PBU_ANAD
+PBU_BKAA
+PBU_BFAA
+~z~Work together, work efficiently.
+492
+~z~If a guard sees you, and sounds the alarm, Popov will run. And then he'll disappear.
+PBU_APAA
+100
+1100100
+~z~Horse one, there's a ladder going up to the roof of the building opposite City Hall.
+100
+PBU_AIAA
+~z~All objectives complete - good work everyone.
+1100100
+PBU_ANAA
+~z~You've got your long range rifles, right?
+100
+SFX_PAUSE_240
+~z~All it takes is one guy seeing you. Keep it cool.
+~z~Climb the ladder, get in position on the rooftop.
+100
+~z~No one I know employs as many bodyguards as he does, and I know some people who need serious protection...
+~z~do not shoot until they are out of the car.
+PBU_BHAA
+PBU_AQAA
+PBU_ALAA
+11001001100100
+~z~The deposition has been secured.
+PBU_AHAC
+~z~The police have given up their pursuit. You are clear to come home.
+~z~Do not bring those documents anywhere near the apartment until you are sure the police are not following you. Copy?
+492
+100
+1100100
+SFX_PAUSE_090
+PBU_AWAA
+100
+492
+~z~Alright, now help the lawyer team secure the deposition, or stay outta their way.
+492492
+492
+~z~We want to minimize risk of failure, so you're taking your kills at exactly the same time. Coordinate your shots.
+PBU_BCAA
+PBU_ANAC
+~z~Horse two, your target is Dima Popov, did I mention he's paranoid, well yeah, he's really paranoid.
+~z~FYI - horse two got the other guy.
+PBU_BJAA
+100

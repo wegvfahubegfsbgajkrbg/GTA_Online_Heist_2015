@@ -1,0 +1,142 @@
+﻿~z~You gotta clear the air before you come back.
+1100100110000011001001100000110010011000001100100
+11001001100000110010011000001100100
+1100000
+~z~You going in the front?
+~z~I'm monitoring closed channels, so I'll let you know if there are any problems on the horizon.
+492010492010492010492
+492
+MPBSV_AMAB
+492010492010492
+SFX_PAUSE_160
+492
+~z~I got the authority to shoot you. Turn around.
+11001001100000110010011000001100100
+MPBSV_ABAC
+1100100
+~z~Your best shot is moving fast, and staying in front of them.
+~z~Why out think the other guy, when you can outspend him. Ideally using someone else's funds.
+MPBSV_ANAC
+1100100
+~z~that's on the off chance there's anything to shoot other than seagulls.
+100
+MPBSV_ACAA
+SFX_PAUSE_210
+~z~That's it. Clear skies. Good work.
+~z~They've dispatched air units, point and pull the triggers, you cannot bring bogeys back to us.
+100
+~z~You can approach Merryweather's position from the front or the back,
+~z~No pass, no entry. Turn around.
+11001001100000110010011000001100100
+~z~Alright, I see you're getting wet - marine assault.
+100
+MPBSV_ADAA
+492
+100
+100
+~z~Bring the chopper down easy. You don't want to mess this up now.
+~z~on land, or by sea, or from both directions.
+110010011000001100100
+SFX_PAUSE_210
+~z~That bird's got a beak and talons, but not many feathers... if you get me?
+MPBSV_AIAA
+MPBSV_AKAA
+~z~My people are waiting to babysit the bird just north of the Alamo Sea. Drop it and you're done.
+MPBSV_ALAB
+SFX_PAUSE_350
+~z~The light armored personnel carriers, the jump jet, now the attack chopper.
+MPBSV_AJAD
+SFX_PAUSE_270
+~z~Move on the chopper. One flying, the rest manning the guns.
+MPBSV_AHAA
+100
+MPBSV_ANAD
+100
+MPBSV_AJAB
+100
+SFX_PAUSE_240
+SFX_PAUSE_230
+~z~Pilot, keep the other helos at a distance. Gunners, make your shots count.
+MPBSV_AAAA
+100
+MPBSV_AAAB
+MPBSV_AEAA
+MPBSV_AJAA
+~z~Minigun positions on either side and a large calibre explosive round gun in the copilot's seat.
+SFX_PAUSE_170
+~z~Expect armed patrols, sniper units, and emergency response teams.
+100
+SFX_PAUSE_140
+492
+492010492
+100
+~z~Oh, we've collected quite a fleet for this op.
+MPBSV_AJAC
+11001001100000110010011000001100100
+~z~So, one of you will fly it, the other three will shoot...
+SFX_PAUSE_320
+~z~Only way you can stay here is with a chalk line around you.
+~z~Get in and move quick. Be in that chopper before they know what's happening.
+~z~Full disclosure here, folks. This is Merryweather Security San Andreas base.
+MPBSV_AOAB
+492010492010492010492
+MPBSV_ANAE
+1100100
+100
+MPBSV_AMAA
+492010492010492
+MPBSV_AKAB
+~z~Looks like you're almost with them.
+~z~Get the chopper and get out - that's the order of the day.
+~z~It's well armed with barely any armor.
+SFX_PAUSE_210
+~z~If they find you coming in their back door, they will come down on you hard.
+MPBSV_ALAC
+1100100
+~z~You know what I say, you can never be too prepared or too well-equipped.
+SFX_PAUSE_290
+MPBSV_AFAA
+MPBSV_ACAB
+590
+MPBSV_AAAC
+MPBSV_AGAA
+MPBSV_AOAA
+492010492010492
+110010011000001100100
+SFX_PAUSE_470
+MPBSV_AKAC
+110010011000001100100110000011001001100000110010011000001100100
+492010492
+492010492010492
+~z~The Valkyrie attack chopper's got three gun placements.
+~z~Okay, remember they know that warehouse better than you.
+SFX_PAUSE_300
+MPBSV_ANAA
+SFX_PAUSE_290
+110010011000001100100
+SFX_PAUSE_220
+~z~They know the hiding spots. Watch your sixes. Watch your threes. Keep it two by two. Over.
+SFX_PAUSE_250
+~z~If you think they take other people's security seriously, you should see how they treat their own turf.
+MPBSV_AIAB
+~z~Countries have been invaded with less. Unsuccessfully.
+MPBSV_ABAA
+100
+MPBSV_ANAB
+~z~Controlled area. Get out of here.
+MPBSV_ALAA
+1100100110000011001001100000110010011000001100100
+~z~Merryweather's channel's blowing up. I'll take that to mean you've made contact.
+MPBSV_AMAC
+SFX_PAUSE_250
+~z~Alright. You on the way to the LS Naval Port?
+100
+100
+MPBSV_ABAB
+SFX_PAUSE_280
+SFX_PAUSE_240
+~z~This area is restricted access.
+SFX_PAUSE_280
+492010492
+MPBSV_ABAD
+492010492010492010492010492

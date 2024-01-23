@@ -1,0 +1,460 @@
+﻿SFX_PAUSE_240
+TUFIN_AAAE
+SFX_PAUSE_200
+TUFIN_ATAA
+1100100
+~z~It doesn't matter how many cops you've got in a convoy behind you.
+TUFIN_ACAM
+TUFIN_ACAD
+~z~Don't go too quick, or it's going to overheat.
+TUFIN_ALAA
+~z~Guy's name is Eddie Toh, he's a professional, he'll take care of everything.
+~z~Then one of you is on crowd control and one is on drilling duty in the safety deposit room.
+TUFIN_BRAA
+~z~You need to hurry this up.
+TUFIN_CHAK
+100
+392010392
+392010392392010392392010392010392010392010392392010392010392
+TUFIN_AVAA
+SFX_PAUSE_270
+100
+~z~really annoyed with you if you don't go through with it.
+TUFIN_ACAH
+TUFIN_ACAE
+SFX_PAUSE_180
+TUFIN_BTAA
+100
+392
+392010392
+1100100
+100
+~z~Keep going. We need that box.
+~z~167 - it's in the back with the other boxes. Just walk back there.
+TUFIN_CEAB
+392
+SFX_PAUSE_270
+SFX_PAUSE_200
+1100100
+TUFIN_CDAA
+1100100
+~z~When you get in the car, you need to get on it, and start breaking into their system.
+~z~Okay. Now, find the safety deposit box.
+TUFIN_CJAA
+110010011000001100100
+TUFIN_ACAK
+TUFIN_BBAA
+~z~You both go in, you go in hard.
+110010011000001100100
+TUFIN_CKAA
+392
+~z~And don't kill any witness, okay. No bodies. Not now.
+~z~I hope so. And not just cause of the money involved.
+TUFIN_CHAC
+TUFIN_CGAA
+1100100
+TUFIN_AZAA
+1100100
+792
+100
+TUFIN_BNAA
+1100100
+SFX_PAUSE_260
+~z~You get the box, come out of there, get in the car, and hit the road.
+TUFIN_BFAB
+~z~Just get to the bridge and we'll deal with it.
+392
+TUFIN_AKAA
+100
+~z~You get the box, come out of there, get in the car, and hit the road.
+1100100
+100
+392010392
+~z~You shoulda shot the cameras. The cops can see you, they're sending extra units.
+110010011000001100100
+TUFIN_CFAA
+392
+TUFIN_AXAB
+SFX_PAUSE_350
+1100100
+100
+792
+1100100
+TUFIN_CHAJ
+1100100
+~z~Hey, come in. This is your getaway guy. Lester tells me you are inbound.
+~z~You want your ride, or not. He won't wait all day.
+~z~Keep driving for the bridge. I got this under control.
+~z~Now get in the car and go!
+TUFIN_BAAA
+100
+1100100
+392010392
+100
+~z~so you can trigger the vault door when you're outside the bank.
+792
+SFX_PAUSE_110
+TUFIN_AGAA
+100
+100
+392
+392010392
+~z~Okay, you're almost on me. We just might do this.
+~z~We've given you pump shotguns to take in. They should be intimidating enough.
+~z~Okay. We're almost there. Car's too hot to bring to my place. Go meet my cleanup guy on Zancudo Bridge.
+1100100
+SFX_PAUSE_150
+392010392010392010392392010392010392010392010392010392392010392010392010392
+~z~The lock on the vault is operated by the cashier,
+TUFIN_AXAA
+392010392
+100
+1100100
+SFX_PAUSE_120
+~z~You think you can manage that? Well, we're all about to find out.
+~z~Okay, time to open the vault. Take out your phone, and trigger the door.
+TUFIN_AYAA
+~z~Get to the bank, wait until the driller's hack is complete then move.
+~z~How's the hack coming? You should have this done by now.
+100
+392
+~z~Last chopper outta Saigon. Let's go.
+100
+TUFIN_AAAG
+~z~I hired the best guy in the business to get you away from the cops.
+1100100
+392
+100
+TUFIN_CHAM
+~z~You got the wheels? Alright, go to the bank.
+392
+~z~Hey. Up here. In the Cargobob. Get under me and I'll pick you up.
+TUFIN_CHAA
+TUFIN_AXAF
+392
+SFX_PAUSE_310
+SFX_PAUSE_140
+TUFIN_AQAA
+TUFIN_AOAA
+100
+SFX_PAUSE_220
+TUFIN_BKAA
+SFX_PAUSE_210
+392010392
+~z~Now find the lock for 167, and use the drill on it.
+~z~That's the box. Be ready to move.
+TUFIN_CMAA
+392
+392
+~z~This shouldn't be taking so long!
+392
+392010392
+TUFIN_ACAI
+TUFIN_CCAA
+1100100
+392
+100
+TUFIN_AHAA
+~z~so put your gun in their face, and get them to open up and take you around back.
+SFX_PAUSE_170
+~z~You want a lift. Get under.
+~z~Stay in control. If they think you're weak, they might try something.
+TUFIN_BSAA
+TUFIN_BIAA
+~z~Driller, start hacking their network. You need to establish a connection before you get to the bank.
+100
+TUFIN_CEAA
+100
+TUFIN_CHAH
+110010011000001100100110000011001001100000110010011000001100100110000011001001100000110010011000001100100110000011001001100000110010011001001100000110010011000001100100
+1100100
+~z~You at the bank? You need to wait until the driller's got into their network before making a move.
+TUFIN_AUAA
+792
+TUFIN_AJAA
+392010392010392010392010392010392392
+100
+392
+392
+TUFIN_ACAP
+~z~Well, we're about to find out.
+100
+TUFIN_AXAD
+100
+~z~Driver, take them out as soon as you walk in the door. Then you're on crowd control.
+SFX_PAUSE_270
+100
+SFX_PAUSE_180
+~z~You don't have time or resources to open the vault door any other way.
+TUFIN_ACAF
+392
+100
+100
+100
+TUFIN_ACAC
+100
+SFX_PAUSE_170
+~z~He wasn't cheap, nor were the expenses he submitted. But, you know, only the best...
+TUFIN_ADAB
+1100100
+SFX_PAUSE_170
+1100100
+392
+100
+392
+SFX_PAUSE_230
+~z~Okay. Here we go. I'm excited for you.
+SFX_PAUSE_200
+110010011000001100100
+~z~Stay on the crowd. Keep 'em under control while your partner's in the back.
+TUFIN_BZAA
+100
+110010011000001100100
+~z~It'd be scarier if I threatened to kill you, wouldn't it?
+TUFIN_CAAA
+~z~How you doing? Eddie can't wait at the bridge forever.
+SFX_PAUSE_230
+100
+392
+TUFIN_AEAB
+~z~Go! Go! Go! You didn't come this far to end up in the back of a squad car.
+TUFIN_APAA
+TUFIN_BCAA
+392
+100
+TUFIN_CBAB
+392
+392010392010392010392010392010392010392010392010392010392392010392010392
+TUFIN_BLAA
+1100100
+~z~Go back to the safety deposit room, and start drilling.
+TUFIN_BQAB
+11001001100000110010011001001100000110010011001001100000110010011000001100100110000011001001100000110010011001001100000110010011000001100100
+TUFIN_CHAI
+TUFIN_AAAD
+392
+1100100
+~z~You know, I'd probably refuse to speak to you for a week, and then spread nasty rumors behind your back,
+~z~Now, shoot the security cams. Come on.
+1100100
+100
+100
+~z~Cops should be there. Hold 'em off.
+392
+392
+TUFIN_CLAA
+TUFIN_AXAI
+~z~Here we go. Put a mask on if you haven't already, and get inside.
+~z~There are four security cameras in the foyer.
+~z~The hacking program's cleaning up after you,
+TUFIN_AIAA
+~z~Burn it, you pricks! Get there!
+1100100
+TUFIN_ASAA
+490
+100
+392
+~z~Lose the cops and this thing's as good as done.
+~z~He wasn't cheap, nor were the expenses he submitted, but...
+TUFIN_AXAH
+100
+392
+TUFIN_AAAC
+~z~When you're out the bank, all you gotta do is get to him, and he'll get you out.
+TUFIN_CHAG
+100
+100
+~z~If you see smoke ease off. If the drill burns out, this whole thing will take too long.
+~z~I should have made a death threat, or, like, at least a mutilation threat,
+~z~Take out the cameras - quick. You'll be broadcasting live to the LSPD if you don't shut 'em down now.
+~z~Alright, now shoot out the security cameras.
+TUFIN_ACAN
+TUFIN_BEAA
+~z~When you're out the bank, all you got to do is get to him, and he'll get you out.
+110010011000001100100
+392
+SFX_PAUSE_180
+110010011000001100100
+1100100
+SFX_PAUSE_200
+~z~Okay, get the car, then move on to the bank.
+100
+~z~But in the age of the internet, when nothing is forgotten, and humiliation is worse than death.
+TUFIN_ARAA
+TUFIN_ANAA
+~z~Let the hostages know what happens to heroes, yeah? This ain't the movies.
+1100100
+TUFIN_BQAA
+TUFIN_CHAL
+~z~Shit!
+1100100
+100
+392
+TUFIN_CHAB
+~z~The hack program will get you a secure connection to their network,
+392
+TUFIN_CCAB
+100
+SFX_PAUSE_210
+TUFIN_ACAG
+A90
+392
+392
+TUFIN_BJAA
+~z~Threaten the cashier, get 'em to open up.
+TUFIN_ACAO
+1100100
+100
+100
+100
+~z~Okay, wait outside the bank. When the hack's done, you'll be ready to move.
+1100100
+1100100
+~z~You know where you left the car.
+~z~The safe door's open, but I can't crack the box for you, I don't have the key.
+~z~Sounds like the cops are on the way. Get ready for it.
+~z~you know, only the best...
+SFX_PAUSE_200
+100
+TUFIN_BHAA
+100
+~z~Great. You did it. The cops don't know where to look. Head back to me.
+TUFIN_BPAA
+TUFIN_BMAA
+TUFIN_AXAC
+TUFIN_CHAE
+1100100
+TUFIN_CIAA
+SFX_PAUSE_130
+~z~There it is. Drill it.
+392
+100
+100
+392
+100
+1100000
+TUFIN_ACAL
+TUFIN_CBAA
+100
+~z~Come on. We gotta go.
+~z~Then you'll be able to trigger the vault door remotely.
+~z~They should look intimidating enough. You both go in, you go in hard.
+392
+~z~The door's open - the safe deposit boxes are in the back.
+SFX_PAUSE_240
+~z~You can't go into the bank until you get into their security system.
+TUFIN_CHAD
+~z~Driller, I'm sending you that hacking program.
+SFX_PAUSE_340
+~z~Now part of the money I put up for this job went to getting you out clean.
+TUFIN_AXAJ
+1100100
+TUFIN_AAAH
+1100100110000011001001100000110010011000001100100110010011000001100100110000011001001100000110010011000001100100110000011001001100100110000011001001100000110010011000001100100
+100
+TUFIN_BYAA
+100
+~z~I've got goose bumps up my arms and butterflies in my stomach and a light film of sweat on my upper lip.
+100
+100
+~z~Oh no, that was me.
+SFX_PAUSE_190
+1100100
+TUFIN_CDAB
+SFX_PAUSE_220
+~z~Like I said, do not move on the bank until you're in their network. Wait on the driller.
+392
+SFX_PAUSE_210
+TUFIN_AMAA
+~z~I told you, the safe door's open. All the boxes are back there.
+1100100
+~z~That drill got another gear? Come on.
+100
+~z~Part of the money I put up for this job went on getting you out clean.
+SFX_PAUSE_250
+792
+TUFIN_AXAM
+~z~We have lift off. Let's go.
+1100100
+1100100
+110010011000001100100
+~z~How you doing with that drill?
+110010011000001100100110000011001001100000110010011000001100100110000011001001100100
+TUFIN_BGAA
+TUFIN_AAAF
+~z~Look, don't worry about the cops, just get to the bridge.
+~z~You found the box? Okay, go in your bag, get out the drill.
+SFX_PAUSE_270
+~z~This is the get out. Come on.
+392
+~z~So, since we're actually doing this, I'm gonna talk you through it one last time.
+TUFIN_AAAI
+100
+392
+1100100
+~z~The next pair of mutes I try to help into a career in crime, I'll make sure I threaten.
+TUFIN_AXAG
+TUFIN_BFAA
+100
+~z~maybe set up a Lifeinvader page about what a creep you are.
+SFX_PAUSE_280
+~z~You weren't drunk on painkillers were you?
+~z~We've given you pump action shotguns to take in.
+~z~Driller, when you're in the network, you'll be able to open the vault door on your phone.
+1100100
+~z~In a way? No it's not, is it?
+TUFIN_ABAD
+~z~I hired the best guy in the business to get you away from the cops.
+TUFIN_AXAL
+1100100
+392
+~z~so you can take as many shots as you want, and they won't know they're being attacked.
+SFX_PAUSE_280
+100
+1100100
+SFX_PAUSE_180
+~z~not that you use your tongue.
+1100100
+392
+~z~Come on, the cameras, the cameras. The cops'll be checking them any second.
+TUFIN_AXAK
+TUFIN_BYAB
+~z~Get under me.
+1100100
+100
+TUFIN_AFAA
+TUFIN_BEAB
+TUFIN_CHAF
+SFX_PAUSE_340
+SFX_PAUSE_220
+~z~The safe deposit boxes are back there - door's open.
+SFX_PAUSE_200
+792
+~z~So, since we're actually doing this, I'm going to talk you through it one last time.
+SFX_PAUSE_260
+SFX_PAUSE_170
+1100100
+1100100
+~z~I've got my getaway guy waiting for you on Zancudo Bridge. He's got a plan for the cops if you can just get there.
+~z~You got it. Get back to the car.
+1100100
+~z~You think you can manage that?
+100
+~z~Come on, people. Eddie's there, but for how long I do not know.
+TUFIN_BZAB
+TUFIN_BDAA
+TUFIN_ACAJ
+~z~Once you walk through those doors, there's no turning back.
+~z~said I'd, you know, cut off your nose or I'd use your ass for an ashtray, or do something with your tongue,
+110010011000001100100
+1100000
+~z~Is the car gonna make it there?
+TUFIN_AWAA
+1100100
+100
+~z~Well, actually, there's no turning back right now because I've put a lot of work into this, and I'll be really,
+~z~At least I hope you do.
+TUFIN_BOAA
+392010392
+SFX_PAUSE_230
+1100100

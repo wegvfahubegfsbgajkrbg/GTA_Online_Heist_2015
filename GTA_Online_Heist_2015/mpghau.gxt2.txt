@@ -1,0 +1,124 @@
+﻿SFX_PAUSE_300
+100
+SFX_PAUSE_240
+SFX_PAUSE_240
+100
+MPGH_AGAA
+~z~Rest assured.
+100
+SFX_PAUSE_240
+MPGH_AMAI
+~z~You'll only be asked to collect what's needed for the larger operation. So,
+MPGH_AMAD
+~z~Okay, let's get these armored vehicles. Get down to Davis Quartz.
+~z~came in electric with driverless capabilities, I might look into the financing options.
+MPGH_AHAD
+SFX_PAUSE_330
+492
+MPGH_APAB
+~z~perfect for militarized police, policeized military, and concerned civilian interests.
+492010492010492010492492
+~z~unless we're taking advantage of a guard's lactose intolerance, you won't be sent to the farmer's market.
+~z~Hey, can we hurry this up? Some of us have got other things to do.
+100
+11001001100100
+~z~Try and hold off engaging for as long as possible though,
+SFX_PAUSE_540
+MPGH_AMAA
+MPGH_AIAA
+~z~Hey, by the way, you mind picking up some milk while you're out? I'm joking.
+~z~Insurgent LAPV mark three integrity test on my signal.
+MPGH_AMAF
+1100100
+MPGH_AOAB
+~z~Looks like you're almost at the quarry.
+MPGH_AKAA
+MPGH_AMAH
+MPGH_AOAC
+MPGH_AGAC
+492492010492010492010492010492010492492010492
+~z~your best chance of success will come if you retain control of the situation.
+MPGH_AMAB
+1100100
+~z~And fire!
+~z~They're going to send people after you,
+492492010492
+~z~We don't want you to have to choose between ability to kill and comfort.
+SFX_PAUSE_240
+~z~It's a live fire test, so expect resistance once you engage.
+1100100110010011000001100100110000011001001100000110010011000001100100
+MPGH_AKAB
+B91010B91
+~z~Merryweather have rented the place to do some tests on the Insurgent LAPVs.
+110010011001001100000110010011000001100100110000011001001100000110010011000001100100110010011000001100100
+~z~Precognition ping pong for LS industry leaders doesn't happen every day, okay?
+~z~These vehicles are fast, armored, all terrain,
+100
+~z~For cars not kids. Who needs it when I can recruit degenerates like you to go on errands?
+MPGH_AMAG
+100
+MPGH_AFAA
+~z~She clearly did not have access to the internet.
+492
+1100100110010011000001100100
+~z~I'll meet you at our safe house on North Calafia Way.
+SFX_PAUSE_360
+MPGH_AGAE
+MPGH_AMAC
+~z~Did I mention you've got an option for leather seats and satellite radio?
+MPGH_AJAC
+MPGH_ALAA
+100
+MPGH_AGAD
+~z~and they aren't going to be nice people. Make sure we get the LAPVs back in one piece.
+~z~How are those LAPVs doing? Come on, folks.
+~z~It's biweekly, and the other one clashes with my rolfing.
+~z~Use the mounted machine gun on one of them if you have to.
+SFX_PAUSE_590
+~z~Who needs the paperwork, right?
+MPGH_AJAA
+11001001100000110010011000001100100110000011001001100100
+MPGH_AOAA
+SFX_PAUSE_170
+MPGH_APAC
+SFX_PAUSE_150
+~z~Get the Insurgents and get out of there!
+SFX_PAUSE_340
+MPGH_AHAF
+100
+110010011000001100100
+~z~Bring them in. I'm waiting.
+100
+492010492010492
+A91A91010A91010A91010A91010A91
+SFX_PAUSE_180
+SFX_PAUSE_300
+~z~This is the age of instant gratification, and I need those Insurgents ten minutes ago.
+1100100
+MPGH_AHAC
+11001001100000110010011000001100100
+MPGH_AHAA
+~z~You know, if these Insurgent LAPVs, light armored personnel vehicles,
+~z~Whether you're driving this into enemy forces in a theatre of war, or a crowd of protestors in Downtown LS,
+492010492010492
+MPGH_ANAA
+11001001100000110010011000001100100
+MPGH_AMAE
+~z~you can rest assured.
+SFX_PAUSE_370
+SFX_PAUSE_270
+MPGH_AJAB
+SFX_PAUSE_240
+MPGH_AHAB
+MPGH_AIAB
+SFX_PAUSE_380
+SFX_PAUSE_210
+492
+MPGH_AGAB
+100
+100
+MPGH_AHAE
+492492
+~z~Use it for the kids' soccer run. Not that I have children... that I know of... officially.
+~z~You know the person who said good things come to those who wait?
+MPGH_APAA

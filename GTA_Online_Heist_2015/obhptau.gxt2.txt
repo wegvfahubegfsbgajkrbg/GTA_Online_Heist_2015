@@ -1,0 +1,167 @@
+﻿OBHPT_AMAA
+100
+OBHPT_AXAA
+~z~I asked you for images of the license plates.
+OBHPT_ASAA
+1100100110000011001001100000
+~z~There we go. I've got all four plates now.
+SFX_PAUSE_220
+OBHPT_APAA
+~z~Trackify uses the signal on your phone to tell you when you're going in the direction of a target,
+OBHPT_AOAB
+110010011000001100100
+392010392010392
+100
+SFX_PAUSE_130
+OBHPT_AUAA
+~z~What am I meant to do with that?
+OBHPT_AUAB
+100
+SFX_PAUSE_260
+1100100
+OBHPT_BAAA
+~z~We've got a limited time before the van we need goes out of circulation.
+~z~Try and do it without attracting attention.
+~z~Okay, here we go.
+110010011000001100100
+110010011000001100100110000011001001100000110010011000001100100
+~z~That's not going to help.
+~z~Argh, the cops are on you. Van driver - lose 'em. Rest of you, you're decoys.
+~z~Oh boy.. sad times indeed.
+392
+~z~Great little app, that Trackify. Hmm? Hmm?
+100
+OBHPT_AMAE
+OBHPT_BEAC
+OBHPT_BEAE
+392
+~z~You should enjoy that version while it's live. The next update installs micro payments.
+OBHPT_BCAB
+110010011000001100100
+SFX_PAUSE_280
+SFX_PAUSE_310
+SFX_PAUSE_250
+392392010390010392
+~z~We're going to make our deadline, right? Do I sound passive aggressive enough?
+100
+SFX_PAUSE_280
+392
+100
+1100100
+100
+392
+~z~I hope you're using our limited time wisely.
+SFX_PAUSE_350
+~z~That works. I can see the plate. Now, get me the last one.
+OBHPT_AVAA
+OBHPT_AZAC
+11001001100000110010011000001100100110000011001001100100
+OBHPT_BBAB
+OBHPT_BEAA
+SFX_PAUSE_280
+11001001100000110010011000001100100
+1100100
+~z~There's just too many of them out there now. I'm immune to sexting.
+OBHPT_BEAD
+~z~The transponder is fixed inside, so you'll have to commandeer the whole van, and bring it to Paige.
+392010392010392010392392
+~z~Leave it under the bridge, and she'll help you with the transponder.
+OBHPT_AYAA
+SFX_PAUSE_270
+392010392
+~z~You people know we're on the clock, right?
+100
+~z~I just want shots of license plates. No filters, and definitely no hashtags.
+~z~When you do find a van, send me an image of its license plate.
+OBHPT_AMAC
+100
+~z~Work in pairs - driver and navigator photographer -
+~z~Bingo. I found our guy. Lemme ping you the location.
+OBHPT_BCAC
+OBHPT_AZAB
+392
+SFX_PAUSE_250
+1100100
+392010392
+~z~Paige will be thrilled you're not bringing a bunch of over stimulated cops with you to the drop.
+~z~If by great I mean barely functional. But we found the vans, so...
+~z~and we can all go back to our clickbait, and tube sites.
+OBHPT_BDAA
+~z~That's good - a clear shot of the plate. Now get me the rest of them.
+110010011000001100100
+SFX_PAUSE_210
+OBHPT_ANAB
+100
+1100100
+~z~Don't send me shots of your privates, or the sunset, or your private bits at sunset,
+100
+100
+~z~When I've got them all, I'll run the numbers against their database, and tell you which van you need to steal.
+~z~Alright. I got another picture. I still need some more though.
+100
+100
+~z~
+SFX_PAUSE_290
+392
+~z~Nah, it doesn't really, but actually probably should...
+110010011001001100000110000011000001100100
+100
+1100100110000011001001100000110010011000001100100
+OBHPT_BCAD
+~z~The clock is running down. Come on.
+SFX_PAUSE_250
+~z~and use the Trackify app on your phone to find the vans.
+OBHPT_AMAB
+~z~I don't mean to sound like a dick, but time is a limited resource here, people.
+100
+~z~The transponder's on one of four Post Op vans making runs around the city.
+~z~Hold on while I run them against their database.
+392010392
+~z~Looks like the van's clear.
+~z~This must be the only time I've specifically asked not to see shots of privates.
+100
+OBHPT_AOAA
+OBHPT_ATAA
+OBHPT_BAAB
+SFX_PAUSE_320
+OBHPT_ARAA
+SFX_PAUSE_170
+~z~but it's not very good on distances.
+100
+OBHPT_AMAD
+~z~You going to send me a dick pic next? Get me the license plates.
+~z~Checking... checking... hold on.
+1100100
+392
+~z~You are almost out of time. Let's do this.
+OBHPT_AZAA
+SFX_PAUSE_380
+OBHPT_ANAD
+OBHPT_BCAA
+392
+1100100
+~z~Paige is waiting for you there there. If you park under the bridge, she'll come and pull the transponder for us.
+~z~Well, I'm glad you feel like you've got enough time to send me pictures like that.
+392010392010392010392010392
+392010392010392010392
+1100100
+SFX_PAUSE_250
+OBHPT_ASAC
+OBHPT_BBAA
+~z~five star rating! Recommend it to your friends!
+~z~I mean, what's happened to me? I used to love privates.
+100
+OBHPT_ASAB
+OBHPT_ANAC
+392010392
+OBHPT_AWAA
+SFX_PAUSE_230
+OBHPT_ANAA
+OBHPT_BEAB
+OBHPT_AQAA
+~z~If the two teams communicate, you should be able to locate them quickly,
+~z~You should put that on snapmatic, asshole. That's no good to me.
+392
+392010392392
+1100100
+~z~Alright, you've got the van. Bring it back to my factory.

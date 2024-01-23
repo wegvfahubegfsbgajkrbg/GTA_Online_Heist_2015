@@ -1,0 +1,91 @@
+﻿OBHCO_AFAJ
+OBHCO_AGAA
+SFX_PAUSE_310
+~z~You can station people at vantage points, block the road, and wait for them to roll into the trap.
+~z~Get ready to take out the Merryweather detail and get the truck.
+100
+~z~You can try to take out all the drivers at once.
+11001001100100110000011001001100000110010011000001100100110000011001001100000110010011000001100100110000011001001100100110000011001001100000110010011000001100100
+OBHCO_ALAA
+100
+1100100
+OBHCO_AMAB
+OBHCO_AFAB
+~z~Ah, okay, so we're going for the charges.
+~z~Okay. Get Paige to find those charges for you and we'll see where we are on the Pacific Standard.
+110010011000001100100
+100
+OBHCO_AIAA
+SFX_PAUSE_290
+~z~Not many places they can go, but plenty of options for you.
+~z~Fucking Merryweather!
+392
+1100100
+100
+~z~You can concentrate really hard and try to make the truck levitate with your minds.
+100
+392010392
+~z~They're on the way. Roll out some flypaper, start thinking some nasty thoughts and do whatever you're gonna do.
+100
+~z~They must have access to satellite imagery, they know where you are and they're coming.
+392
+OBHCO_AFAH
+SFX_PAUSE_320
+392010392
+SFX_PAUSE_180
+SFX_PAUSE_270
+~z~So, you're gonna run what's known in the "bizz" as a highjacking, because you're...
+OBHCO_AFAE
+OBHCO_AFAD
+392
+~z~Do whatever you think will work.
+392
+SFX_PAUSE_220
+~z~well, you're highjacking the Merryweather convoy.
+OBHCO_AFAK
+~z~More guys incoming. They called back up.
+110010011000001100100
+SFX_PAUSE_140
+SFX_PAUSE_190
+OBHCO_AHAA
+SFX_PAUSE_270
+100
+1100100
+~z~You got the truck? Okay, bring it to Paige.
+OBHCO_AEAA
+OBHCO_AFAC
+~z~From your heavy breathing I'm going to guess you didn't blow yourselves up.
+110010011000001100100
+~z~The bridge is a nice, tidy place to get it done.
+OBHCO_AIAB
+~z~This is San Andreas after all.
+OBHCO_ALAB
+OBHCO_AFAM
+OBHCO_AFAI
+110010011000001100100
+~z~I'll be in touch when there is a target about a click out from the bridge.
+OBHCO_AFAF
+392392010392010392010392010392010392010392010392392010392010392010392
+1100100
+OBHCO_AJAA
+OBHCO_AFAG
+~z~You're bringing it to Paige in Grapeseed, so she can dig out the thermal charges.
+100
+~z~But get the truck, and don't let anyone follow it.
+OBHCO_AFAL
+SFX_PAUSE_350
+OBHCO_AKAA
+392010392
+SFX_PAUSE_230
+SFX_PAUSE_340
+SFX_PAUSE_200
+OBHCO_AMAA
+OBHCO_AEAB
+~z~The convoy's almost on you.
+392010392
+~z~You're in position? The convoy is inbound.
+~z~Oh yeah and that reminds me, try not to blow them up. Do not damage that truck at all, okay?
+100
+~z~Head out to Calafia Bridge, and I'll come back with a P.O.A.
+SFX_PAUSE_250
+OBHCO_AFAA

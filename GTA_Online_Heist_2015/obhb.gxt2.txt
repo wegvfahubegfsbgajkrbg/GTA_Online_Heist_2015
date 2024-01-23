@@ -1,0 +1,52 @@
+﻿~z~Sounds like the Lost are mobilising their troops. A wrecked bike is no good to us, people.
+OBHB_AHAB
+OBHB_ADAA
+100
+392
+OBHB_AGAA
+OBHB_AFAA
+~z~Stay out in front of them.
+SFX_PAUSE_170
+OBHB_AEAF
+392
+~z~There's a bike each. We need all four for the job.
+OBHB_AEAA
+SFX_PAUSE_320
+OBHB_AEAC
+1100100
+11001001100000110010011001001100000110010011000001100100110010011000001100100
+~z~Now, you almost there? You're after the sports bikes, not the choppers.
+OBHB_AEAE
+SFX_PAUSE_250
+OBHB_AIAA
+100
+~z~Okay, as always, don't let them know you're breaking in until you want them to know you're breaking in.
+SFX_PAUSE_250
+100
+~z~they wouldn't be able to turn a corner.
+~z~They're not really known for their love of sports bikes, I know, but
+392
+~z~The choppers won't be fast enough to get you away from the cops, and if they were,
+100
+OBHB_AEAD
+100
+110010011000001100100
+392010392
+SFX_PAUSE_230
+SFX_PAUSE_260
+392010392
+OBHB_AHAA
+1100100
+OBHB_AEAB
+~z~I think you are in the clear. Drop the bikes in the alley, and we are nearly a go.
+1100100
+100
+~z~You'll burn the cops, and save the environment while you're at it.
+110010011000001100100
+~z~These bikes use a kinetic energy recovery system,
+~z~When you got 'em, stash them in the alley for the job.
+~z~the Lost Motorcycle Club has the ones you're after at their East LS Clubhouse.
+~z~they store the energy you use braking to accelerate later on.
+392010392392010392010392392010392
+OBHB_ADAB
+OBHB_AEAG

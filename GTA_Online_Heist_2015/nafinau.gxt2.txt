@@ -1,0 +1,424 @@
+﻿~z~Maybe it was time for a change of management, well, more a change of subordinate.
+~z~Drop off's by El Gordo Lighthouse! Let's go!
+1100100
+NAFIN_BVAA
+~z~We mighta done this. We mighta done it.
+~z~Bring down that chopper!
+~z~The CEO don't drive himself!
+NAFIN_BFAA
+291
+290
+~z~When we take care of 'em, we move the product, and then we're done.
+291
+~z~Alright, get ready for it.
+SFX_PAUSE_250
+100
+100
+NAFIN_BKAB
+~z~There's five of us, how many you got?
+~z~I didn't come this far to screw it up!
+~z~All our "seed investors", friends and family who've kicked in to get the business going,
+1100100
+NAFIN_ASAF
+100
+NAFIN_BGAD
+1100100
+100
+SFX_PAUSE_390
+~z~Maybe Ron doesn't need to know this has gone as well as it's gone.
+NAFIN_ASAG
+NAFIN_BNAA
+~z~Product's been loaded into the vans.
+291010291
+~z~Why is selling other people's drugs so difficult?
+SFX_PAUSE_150
+~z~We got some lost looking country boys over here.
+SFX_PAUSE_230
+~z~We gotta lose that bird...
+~z~And remember this, people. You're not just fighting for me. You're not just fighting
+~z~Come get it, assholes!
+~z~Assholes! We beat 'em! We beat the pricks!
+100
+1100100
+1100100
+~z~Next kill gets double stock options.
+1100100
+~z~you're gonna be waist deep in gristle, or you're gonna be dead!
+1100100
+SFX_PAUSE_160
+~z~Or take some Mollis, and I could have a better time. No, no. No! That's not professional.
+~z~Assholes!
+1100100
+1100100
+~z~Give up, assholes! We win!
+291
+291
+1100100
+~z~You better hold the south, or I'll come at you!
+NAFIN_BHAA
+~z~You bag a big one, you can get it stuffed!
+~z~Get rid of these cars, okay?
+~z~North! North! You're on! Do this!
+~z~Where is it? Where's the chopper? I don't wanna hear it any more.
+NAFIN_ANAA
+SFX_PAUSE_200
+~z~Go back to Grapeseed, farmer boy.
+NAFIN_AQAA
+NAFIN_BXAA
+291
+~z~We gotta go!
+100
+1100100
+~z~Where are they? Where are the choppers? I don't wanna hear them anymore.
+1100100
+290010290290010290010290010290290290010290010290010290010290
+~z~Who's driving me?
+~z~You want this product, you can buy it off us!
+110010011000001100100
+SFX_PAUSE_230
+1100100
+1100100
+NAFIN_ASAK
+1100100
+NAFIN_ASAI
+~z~After you're paid of course.
+291
+~z~Leave some for the CEO, okay?
+~z~It's them or you, North Pricks!
+292010292010292010292010292
+100
+~z~for T.P. Industries. You're fighting for the little people, the dreamers,
+100
+NAFIN_ASAC
+~z~South team - here they come!
+NAFIN_ASAB
+1100100
+11001001100000110010011001001100000110010011000001100100110000011001001100100110010011000001100100110000011001001100000110010011000001100100
+~z~Protect the convoy!
+~z~Leave us alone!
+~z~I need two drivers, and two people in the pickup with the gun on it.
+~z~
+100
+~z~We're being watched! Up there. Chopper. Take it out, and anything else they got!
+NAFIN_BCAA
+NAFIN_BHAC
+100
+NAFIN_CAAA
+290
+291
+~z~Just shoot the chopper!
+~z~We gotta lose those choppers...
+NAFIN_ABAE
+291
+291
+SFX_PAUSE_180
+290
+NAFIN_AFAB
+~z~Are we going?
+100
+NAFIN_ABAD
+1100100
+~z~Hold the south! They're on the way!
+1100100
+~z~First thing I do is cut in Ron, then I put something in Brad's commissary.
+100
+NAFIN_AZAA
+1100100
+100
+~z~Chopper's watching us! It's gotta go!
+~z~
+~z~You people wanna get paid? Get down here and help me.
+290
+100
+1100100
+~z~Fuck!
+11001001100000110010011000001100100
+100
+~z~Screw the Lost MC, alright?
+~z~You better hold the south, or I'll come at you!
+~z~Call it a pre-emptive strike on the competition.
+SFX_PAUSE_250
+100
+1100100
+1100100
+NAFIN_ASAA
+NAFIN_BIAA
+~z~I hope you wore your waders 'cause by the end of this
+~z~Anyone else excited?
+100
+~z~they want their seed back. Screw 'em!
+1100100
+290
+~z~South side - they're coming!
+NAFIN_BQAA
+100
+SFX_PAUSE_240
+~z~North team - get ready!
+~z~You don't get paid unless we get there! Remember that!
+SFX_PAUSE_260
+NAFIN_AXAA
+100
+NAFIN_AAAB
+291
+~z~I don't like bikers!
+100
+~z~What a bunch of dicks!
+~z~Down that chopper!
+100
+NAFIN_ACAB
+291
+100
+290
+SFX_PAUSE_450
+100
+~z~Down the choppers!
+1100100
+~z~Ron? I know you're there, Ron. Ron? Ron!
+NAFIN_AKAB
+SFX_PAUSE_185
+NAFIN_AUAA
+~z~Let's do this, you pricks!
+1100100
+~z~Watch our six! They're coming that way!
+~z~We're making light work of it.
+~z~Twelve o 'clock. They're coming at us!
+1100100
+~z~My plans aren't going up in smoke this time!
+~z~Choppers are watching us! They gotta go!
+100
+100
+291
+SFX_PAUSE_210
+291010291010291
+1100100
+NAFIN_AMAA
+100
+NAFIN_BTAA
+NAFIN_ADAA
+100
+NAFIN_ALAA
+100
+~z~From the south, you assholes!
+NAFIN_BIAB
+SFX_PAUSE_280
+SFX_PAUSE_230
+~z~I think this prick hates new business!
+~z~We got their coke, and their pills, and their meds, and their weed, and we're gonna keep 'em.
+~z~
+~z~North! Be ready for this!
+NAFIN_BUAA
+NAFIN_ABAA
+~z~They get any closer, I'm gonna start eating our profits!
+NAFIN_ASAE
+~z~I want this more than you!
+~z~You almost here? Man, I coulda got killed six times by now.
+010291010291010291010291
+1100100
+NAFIN_AEAA
+NAFIN_AIAA
+NAFIN_AAAA
+291
+110010011000001100100
+291
+~z~Now I really hate this town!
+1100100
+290
+291
+~z~This is the start of something big, and I couldn't have done it without you.
+~z~Shit, shit, shit!
+1100100
+~z~This is for the American Dream, asshole!
+292010292
+~z~I seen all kinds o' ugly in the last few minutes.
+NAFIN_BAAA
+~z~Go back to the desert, you biker pricks.
+NAFIN_ABAB
+~z~I'm never coming to Los Santos again!
+NAFIN_ARAA
+NAFIN_BGAA
+~z~We're ready to die for this product! You'll never win!
+291
+SFX_PAUSE_360
+NAFIN_BLAA
+NAFIN_AHAA
+100
+~z~Come on! Let's move!
+100
+~z~North! Be ready for this!
+~z~Do not let them ruin this!
+~z~Oh shit!
+NAFIN_BDAA
+1100100
+100
+1100100
+11000001100100110000011001001100000110010011000001100100
+~z~We got a motley crew coming after us today.
+NAFIN_BRAA
+~z~Someone's here for their kush!
+SFX_PAUSE_360
+~z~I'll be inside, protecting the product, and joining in where I can.
+~z~If we lose the product, I'm killing all of you!
+~z~Don't keep me waiting!
+~z~Cause that's how business empires are born.
+~z~You want your product, come get it!
+100
+NAFIN_ASAD
+100
+291
+100
+1100100
+~z~They're coming from the north!
+NAFIN_BEAA
+~z~Ballas are following us. That must be some good kush!
+100
+NAFIN_AJAA
+NAFIN_BYAA
+1100100
+290
+~z~This is known as delegating, alright?
+NAFIN_BWAA
+NAFIN_AVAA
+~z~Fuck me!
+~z~South! South! There!
+291
+~z~The product's mine now! Mine!
+~z~Ain't nothing here for you, Ballas. Fuck off.
+~z~Look, they're working together, the pricks.
+NAFIN_AYAB
+~z~Arghhh! Being successful is so hard!
+~z~Protect the product!
+SFX_PAUSE_210
+1100100
+~z~The more of these guys you kill, the more I'll pay you for the job.
+100
+11001001100000110010011000001100100
+NAFIN_ASAL
+~z~The Lost just keep on coming. Ram these bikes of the road!
+100
+1100100
+~z~They're lining up to take us down. Come on.
+291
+110010011000001100100110000011001001100000110010011000001100100
+~z~How you doing over there, huh?
+~z~For the love of all that's holy!
+~z~Can't get your dick hard without those pills, bikers? Too bad.
+~z~If there was some speed in this shipment, we'd be taking it!
+NAFIN_BHAB
+~z~We don't make some progress, I'm gonna start cutting pieces off you to throw at them.
+~z~Quicker we do it, the more you'll get. I'm at the warehouse under the LS Freeway.
+100
+~z~Why am I gonna kill you? Because 'capitalism', moron.
+290
+~z~You got some bad information, O'Neil. Ain't no meth juice here.
+NAFIN_AKAC
+~z~Not so tough, are they?
+~z~We're being watched!
+100
+NAFIN_AYAA
+NAFIN_ATAA
+~z~Through lying and wholesale robbery, amiright?
+100
+~z~Whoo! I knew you were a good crew!
+291010291
+~z~I'm gonna rip your arm off and beat you with it!
+~z~two at the south, covering anyone coming in from those directions.
+~z~North side, look out!
+NAFIN_ABAC
+1100100
+~z~and the scammers. All the people that gotta kill and steal to get ahead.
+~z~Lookie here - it's the Ballas!
+~z~Well, without you or... someone else with a very similar skill set.
+~z~Anyone screws up, I use their head for a hood ornament!
+SFX_PAUSE_270
+SFX_PAUSE_290
+SFX_PAUSE_300
+NAFIN_AFAA
+~z~Die, you pricks!
+11001001100000110010011001001100000110010011000001100100
+NAFIN_ACAE
+NAFIN_BBAA
+~z~Ballas be creeping - and no one likes creepy Ballas! Look out!
+100
+~z~I'll take all those drugs before I let you have 'em.
+~z~When you arrive, I'm gonna need two of you at the north of the warehouse and
+100
+~z~Success smells like blood, shit and innards, people!
+290
+NAFIN_ACAC
+291
+~z~Keep it up. Keep on pushing!
+1100100
+SFX_PAUSE_248
+100
+100
+~z~Drop off's up just ahead there. By the house.
+1100100
+~z~Come on! Come on!
+~z~Ron's gonna think we're dead. Doesn't matter.
+NAFIN_CBAA
+~z~They better not scare the buyer off. You better not scare off my buyer!
+NAFIN_BZAA
+100
+~z~Choppers! Up there! Looks like hired guns. Take 'em out and anything else they got.
+100
+~z~Okay? The real people!
+~z~Make 'em crash already! Get rid of 'em!
+1100100
+292010292292010292010292
+~z~Fuck!
+~z~Take out the ballas!
+~z~There's still a bird in the sky.
+~z~Get Lost... Lost. Yeah?
+290
+291010291
+~z~We could take some molly, have a good time.
+291
+291
+291
+~z~Can't a new business catch a break?
+SFX_PAUSE_290
+NAFIN_ASAH
+291
+~z~Let's handle these pricks!
+~z~
+110010011000001100100
+~z~You see, this is why I don't go to Los Santos!
+NAFIN_BMAA
+NAFIN_BGAC
+291
+110010011000001100100
+SFX_PAUSE_784
+NAFIN_BGAB
+100
+291011291011291
+SFX_PAUSE_250
+~z~Okay! Two on the north side, two on the south side. Let's go!
+~z~Keep them away from us!
+1100100
+~z~
+~z~Can you blow that thing up please!?
+NAFIN_AWAA
+NAFIN_BPAA
+~z~Nah, he's been loyal. Loyalty gets rewarded.
+~z~Hold the line people!
+NAFIN_ACAD
+NAFIN_BSAA
+100
+~z~Okay! We got an opening! Let's go.
+100
+291
+100
+100
+291
+~z~We've got an agreement with the buyer. A business is built on reputation.
+291
+~z~Ron? Ron, I know you're there. Roooooon! Fuck.
+SFX_PAUSE_360
+NAFIN_ASAJ
+NAFIN_AKAA
+291
+291
+NAFIN_AOAA
+NAFIN_BOAA
+NAFIN_ACAA
+~z~Stupid hicks, go home.

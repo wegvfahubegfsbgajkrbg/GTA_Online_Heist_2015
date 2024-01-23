@@ -1,0 +1,128 @@
+﻿~z~take 'em out to Vespucci... there's an alley the Vagos use.
+392010392010392010392010392392392
+392010392010392010392010392010392
+11001001100000110010011000001100100110000011001001100000110010011001001100100
+~z~You see, I've split a larger task up into a series of smaller, easily achievable goals.
+11001001100000110010011000001100100
+100
+~z~The rest of you will wait for the driver to go,
+SFX_PAUSE_200
+~z~Shit. Backup's incoming - lead the crew away from the van with their equipment in it...
+100
+OBHSH_ASAA
+1100100
+392010392010392
+SFX_PAUSE_280
+SFX_PAUSE_180
+~z~you gotta collect the van from outside my garment factory.
+OBHSH_APAD
+OBHSH_APAF
+~z~All that's missing from ours is their magic box.
+OBHSH_ALAC
+392010392010392
+~z~Alright, they clear? Now for the bait and switch, move the equipment into our van.
+100
+SFX_PAUSE_230
+SFX_PAUSE_170
+OBHSH_AQAE
+OBHSH_ARAB
+SFX_PAUSE_200
+SFX_PAUSE_200
+1100100
+~z~If you torch the van there, they might think it's a gang thing.
+~z~heist crew that shows up think they've been robbed.
+OBHSH_ATAH
+SFX_PAUSE_180
+~z~So, you're going into the alleyway and swapping their box into our van.
+SFX_PAUSE_120
+OBHSH_AHAA
+~z~Okay, we gonna get this equipment. First up,
+OBHSH_AIAB
+OBHSH_ARAC
+392
+392010392392010392392010392392010392
+~z~Okay, now take out the competition.
+OBHSH_APAB
+OBHSH_APAC
+SFX_PAUSE_230
+OBHSH_AMAA
+SFX_PAUSE_470
+~z~We've got the same remote server set up in the back of this van as the other heist crew has in theirs.
+SFX_PAUSE_210
+100
+OBHSH_AIAC
+OBHSH_ARAA
+392
+392010392
+~z~When you've got the van, I'll come back to you with details on what to do next.
+OBHSH_AQAB
+~z~And the driver lets this heist crew chase the black van, waits until it's clear,
+392010392
+11001001100000110010011000001100100
+100
+OBHSH_ALAB
+~z~Now, we've got the same remote server set up in the back of this van, the white one,
+110010011000001100100
+SFX_PAUSE_420
+OBHSH_ATAC
+SFX_PAUSE_180
+~z~They can't know which van the box is in.
+110010011000001100100110010011000001100100110010011000001100100110010011000001100100
+SFX_PAUSE_180
+OBHSH_ALAA
+OBHSH_AQAC
+OBHSH_ATAA
+392010392010392
+OBHSH_AJAA
+~z~Okay, now one of you is taking our van and bringing it to Paige.
+11001001100000110010011000001100100110000011001001100000110010011000001100100
+110010011000001100100
+OBHSH_AIAA
+~z~which will now be empty. That complicated enough for you? Good.
+OBHSH_AHAB
+OBHSH_AQAD
+~z~as the other heist crew has in the back of their van, the black one. And all that's missing from ours
+~z~Well hey, at least you're not thinking about having to kill people.
+~z~and then make any of the heist crew that show up think you're trying to steal their van...
+100
+~z~is their magic box. So, you're going to drive into the alleyway and swap their box into our van.
+100
+~z~Then the decoys will get in the black van, which is now empty, and drive off, making any
+11001001100000110010011000001100100
+~z~You got the Burrito? Alright, get over to the alley off Vinewood.
+OBHSH_AQAF
+~z~Dammit, I bet that's all you're thinking about now.
+~z~The rest of you are waiting in the alley, taking anyone who shows up on a wild goose chase in the other van.
+392
+SFX_PAUSE_230
+~z~The crew in the alley's gotta go before you swap across the equipment.
+OBHSH_AQAG
+SFX_PAUSE_260
+100
+~z~and brings the equipment in our white van to Paige.
+OBHSH_ATAF
+SFX_PAUSE_170
+SFX_PAUSE_280
+OBHSH_APAA
+100
+~z~do you feel like you're working more effectively?
+SFX_PAUSE_190
+OBHSH_ATAD
+OBHSH_ATAE
+~z~Okay, now take out the competition.
+~z~I got that from a management book. Does it make you like me more or...
+~z~That complicated enough for you? Hmm? Good.
+OBHSH_AOAA
+SFX_PAUSE_320
+100
+OBHSH_ASAB
+~z~We want to get in and out before they call for backup.
+OBHSH_ATAB
+OBHSH_APAE
+OBHSH_ATAG
+~z~Okay, she's got the stuff. Mission complete.
+~z~The crew in the alley's gotta go before you swap across the equipment.
+OBHSH_AQAA
+~z~Then the driver's getting out of there with it before these clowns know what happened.
+1100100
+100

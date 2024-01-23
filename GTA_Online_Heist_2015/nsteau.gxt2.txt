@@ -1,0 +1,146 @@
+﻿NSTE_ALAC
+1100100
+100
+~z~well, let's just say my bedside manner leaves much to be desired.
+NSTE_AWAI
+SFX_PAUSE_310
+100
+NSTE_ANAA
+100
+~z~With those thoughts! A man can love his mother without loving his mother!
+110010011000001100100
+1100000
+110010011000001100100
+SFX_PAUSE_390
+100
+~z~You're bogarting that pipe.
+NSTE_ARAA
+~z~Don't rush it. Whatever you do, do not rush it.
+~z~Do not move on the vans 'til you got all the guards,
+~z~Alright, kids. You're making a pass at the Lost out near my place by the Alamo Sea.
+1100100110000011001001100100
+110010011000001100100
+~z~Lemme in, man. I'm fiending.
+~z~Clean 'em up. Let's do this.
+SFX_PAUSE_350
+~z~I hope you're making 'em suffer. You know, suffer silently.
+~z~I've told Ron you're coming, so you better get there,
+692
+~z~'cause I'm just so plain adjusted, but I went to a therapist one time.
+SFX_PAUSE_350
+NSTE_AOAA
+NSTE_AWAD
+292010292
+~z~Was that a kill? Was it? Hmmm.
+NSTE_AWAK
+SFX_PAUSE_250
+~z~And be careful of the vans! The dolls you got back there are fragile.
+~z~How you doing? When you're close, get out the boat, and creep up on them.
+~z~The plan is to go in when most of them are sleeping, you take out the guards, and take the vans.
+~z~And that lady played the same game as you do.
+NSTE_ATAB
+SFX_PAUSE_260
+~z~I cooked that shit, lemme smoke it.
+NSTE_AOAF
+~z~Lemme in!
+~z~Well. So that, ladies and gentlemen, is how you get kicked out of the Air Force. Now, hurry up!
+~z~and the surprise will be ruined.
+100
+SFX_PAUSE_130
+~z~I got bored of waiting. Pick up the guns, then get in the boat I got moored out back.
+~z~Whisper "uncle Trevor sent me", okay.
+NSTE_ALAB
+NSTE_ASAB
+NSTE_AWAL
+NSTE_AUAA
+~z~They coming after you? Dammit!
+NSTE_AOAE
+NSTE_AVAB
+~z~Okay, well you might not believe this, or you might,
+NSTE_AOAG
+NSTE_AOAB
+~z~What the fuck?
+1100100
+SFX_PAUSE_300
+NSTE_AWAE
+100
+NSTE_AVAC
+NSTE_AOAC
+~z~You're an asshole.
+NSTE_AKAB
+~z~But I was too smart then, and I am too smart now! I'm not falling for it.
+292010292010292010292010292010292010292010292292010292010292010292
+100
+100
+SFX_PAUSE_290
+292010292292
+NSTE_AOAD
+~z~They all gone? Alright.
+NSTE_AWAC
+~z~C'mon, Tina helps me concentrate!
+SFX_PAUSE_250
+SFX_PAUSE_230
+SFX_PAUSE_290
+SFX_PAUSE_210
+292
+292010292
+NSTE_AWAG
+292
+NSTE_AWAH
+691
+110010011000001100100
+NSTE_AWAJ
+SFX_PAUSE_230
+1100100110000011001001100100
+1100100110000011001001100000110010011000001100100110000011001001100000110010011000001100100110000011001001100100110000011001001100000110010011000001100100
+NSTE_ALAA
+~z~Then they wake up in the morning and all their buddies are dead and they're short their stash.
+292
+~z~with your eyes... or... your ears? You're the perverts.
+100
+1100100
+~z~we need 'em all gone before you move.
+SFX_PAUSE_300
+100
+NSTE_AQAA
+NSTE_AKAA
+SFX_PAUSE_240
+292010292292
+100
+SFX_PAUSE_200
+100
+NSTE_ATAA
+NSTE_AMAA
+~z~The appointment would start, I'd come in, take a seat on the couch, and she'd sit there.
+NSTE_APAA
+292010292290010292010292010292010290
+~z~There'll be guys standing around kicking the shit, and guys on patrol.
+~z~Okay, you're there, finally. Take the boat West, past Sandy Shores to the Lost's camp at Stab City.
+292010292
+292010292
+SFX_PAUSE_270
+~z~Get the vans and get going. Ron'll be waiting in a warehouse under the LS Freeway.
+~z~Don't let anyone see you. If you're seen, they'll wake up the other guys,
+SFX_PAUSE_180
+~z~No, ma'am! What right do you got to sit there and ask me about my mom...
+110010011000001100100110010011000001100100110000011001001100000110010011000001100100
+100
+NSTE_AWAA
+SFX_PAUSE_280
+NSTE_AWAB
+1100100
+~z~Where the hell are you?
+~z~In total silence. Like a rock. With glasses and a scribbly little pen.
+~z~or I'll have to find you in whatever jail or hospital they put you in, and well...
+NSTE_AVAA
+~z~Get to the warehouse, and hope you lose 'em on the way.
+~z~One day she'll need me and when she does... alright!
+~z~I wish I was there with you.
+~z~End of story, you sick freaks. Urghhh. Breathe.
+NSTE_ASAA
+NSTE_AMAB
+SFX_PAUSE_290
+~z~If two guys are looking at each other, you're gonna have to take them down at the same time.
+~z~Oh man, it'll be hilarious.
+~z~I've left some silenced weapons in my garage for you, so head here first.
+NSTE_AWAF

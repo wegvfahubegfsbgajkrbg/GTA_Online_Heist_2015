@@ -1,0 +1,414 @@
+﻿~z~It's one of the reasons I don't eat at Cluckin' Bell.
+SFX_PAUSE_680
+SFX_PAUSE_200
+~z~I'm sure you've got an extensive dress up box at home,
+SFX_PAUSE_270
+~z~And until you and me start playing low rent Bonnie and Clyde, that's the way it's got to be.
+~z~She's loading the hardware into the back of a truck.
+~z~of how strange Los Santos has become.
+TUSCO_AJAB
+TUSCO_AJAQ
+TUSCO_AQAC
+TUSCO_AJAM
+SFX_PAUSE_220
+~z~You wanna get out and check, go down the inventory?
+TUSCO_AQAE
+~z~Customers'll probably be thinking how to turn this into a screenplay.
+SFX_PAUSE_270
+~z~And the bonds in the box will be worth more than a few rumpled notes from a till so,
+~z~You're like a child whose parents think it's clever, or the IRS.
+TUSCO_AOAB
+~z~Staff won't give a crap, especially about the deposit boxes.
+SFX_PAUSE_220
+~z~I like to think of it as investing in new talent.
+TUSCO_AOAO
+TUSCO_AHAB
+TUSCO_AFAG
+1100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000
+SFX_PAUSE_180
+TUSCO_ACAB
+TUSCO_AQAG
+TUSCO_AJAA
+110000011000001100000
+~z~Come on. Back to your place.
+SFX_PAUSE_350
+TUSCO_AQAT
+~z~I've written a neat little program that'll do most of the work for you, but
+TUSCO_AKAA
+100
+TUSCO_AOAH
+~z~We want box number 167.
+TUSCO_AQAN
+~z~Hey passenger seat, did you get into their network? No? Well you better do better next time.
+~z~Ah, ah. Yes, yes, this will er...
+~z~And if you're ever caught, you keep your mouths shut. I couldn't resist.
+TUSCO_AOAE
+TUSCO_AQAF
+SFX_PAUSE_230
+TUSCO_AFAE
+TUSCO_AOAR
+TUSCO_AIAC
+TUSCO_AQAO
+TUSCO_AAAA
+SFX_PAUSE_310
+~z~and in one of those safety deposit boxes are some bonds being hidden from the taxman
+TUSCO_AJAE
+TUSCO_AIAD
+TUSCO_AXAD
+SFX_PAUSE_260
+TUSCO_AJAC
+~z~On a job, your attire will depend on the role you're performing.
+~z~Tools for the job, things for you to wear.
+390
+~z~Word of warning, we're on the job right now, so don't let the cops notice you.
+~z~I should be using my cane.
+TUSCO_ARAB
+TUSCO_ARAG
+SFX_PAUSE_320
+TUSCO_AIAA
+~z~We've seen what we're gonna see. Let's go to the garment factory.
+TUSCO_AJAU
+TUSCO_ACAD
+100
+TUSCO_BAAK
+TUSCO_AFAF
+~z~The place looked good. Nothing we weren't expecting...
+SFX_PAUSE_180
+~z~Now it's back to the apartment.
+TUSCO_BAAC
+~z~There she is. We leave my car here, take the truck.
+TUSCO_AHAA
+~z~the minor escalation is worth it... if you can handle it.
+TUSCO_ADAB
+TUSCO_AHAD
+SFX_PAUSE_280
+TUSCO_AXAE
+TUSCO_AJAP
+~z~Nothing like a bourgeois bank robber to remind me
+390010390010390010390010390010390
+SFX_PAUSE_300
+TUSCO_ACAE
+TUSCO_AOAD
+~z~We'll go over there, pick her up, and go back to your place to plan this thing.
+TUSCO_AMAA
+SFX_PAUSE_270
+SFX_PAUSE_330
+TUSCO_AOAK
+1100000
+100
+TUSCO_ARAE
+~z~but when I'm in charge you're going to dress appropriately.
+TUSCO_BAAL
+~z~Take a look at her. That's the one.
+TUSCO_AIAE
+SFX_PAUSE_230
+~z~There it is. Take a look. Drink it in.
+392
+100
+TUSCO_ARAD
+TUSCO_AQAP
+TUSCO_AOAM
+TUSCO_AOAG
+1100000
+SFX_PAUSE_230
+SFX_PAUSE_170
+~z~Get in.
+390
+100
+~z~This is your place, isn't it? Let's go to work.
+~z~I can talk you through the planning board later, that might be helped by a visual aid.
+SFX_PAUSE_220
+SFX_PAUSE_220
+TUSCO_AQAQ
+~z~So, my taciturn friends, I suppose you want to know how we're doing this.
+~z~There's Paige. We're leaving this car, taking the truck.
+TUSCO_AJAT
+SFX_PAUSE_280
+~z~We'd be caught with our pants down and a hard-on out to here.
+~z~Paige, it's Lester...
+~z~As the job get more complicated, so will the uniforms.
+TUSCO_AFAI
+~z~got questions, comments, concerns?
+1100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000
+~z~The boxes are in the back behind a safe door.
+1100000
+390010390390010390010390
+SFX_PAUSE_220
+100
+TUSCO_ALAA
+SFX_PAUSE_170
+1100000
+11000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000
+SFX_PAUSE_270
+1100000
+TUSCO_BAAE
+SFX_PAUSE_190
+TUSCO_ARAK
+TUSCO_ADAD
+TUSCO_ASAD
+TUSCO_ANAA
+SFX_PAUSE_160
+~z~So, you ready? Now, what do you think? You er...
+SFX_PAUSE_250
+TUSCO_AGAA
+~z~But it'll also work for the cops, speed up their response time.
+390
+TUSCO_BAAJ
+TUSCO_BAAF
+~z~The rest is pretty self-explanatory. Listen to me, do what I say.
+~z~then, when you go into the bank, you can choose one that... goes with your eyes.
+TUSCO_BAAI
+~z~cosplay for weekends, fetish-ware for evenings, human skin for a special occasion,
+SFX_PAUSE_600
+TUSCO_AJAS
+~z~What, they gonna charge us with thought crime?
+TUSCO_BAAO
+TUSCO_AJAL
+TUSCO_AJAO
+SFX_PAUSE_160
+~z~Well, funny you should ask. We're driving out to the bank, taking a look at it,
+TUSCO_AJAH
+SFX_PAUSE_220
+TUSCO_ARAH
+~z~She's loading the hardware into the back of a truck.
+SFX_PAUSE_190
+~z~I'm assuming you're a kind of cerebral crew, because otherwise, this whole not talking deal just kind of
+SFX_PAUSE_300
+~z~Yeah. Plus all the equipment we spoke about. I'll be over to collect it with those people...
+TUSCO_AFAL
+390010390010390010390010390010390390010390010390010390390010390390390010390010390390390010390010390
+SFX_PAUSE_390
+~z~do very nicely. Very nice place you've got. Very er... chic.
+390010490010490490010390010490010490490010490010490010390010490010490010390010490010390390010390010490
+TUSCO_ARAC
+TUSCO_BAAD
+~z~Hey.
+TUSCO_AFAA
+~z~there's the added bonus of none of your favorite comic convention outfits being linked to a major crime.
+SFX_PAUSE_300
+100
+TUSCO_ARAJ
+~z~And we come full circle. I'll explain everything when we're up there.
+~z~If you're likely to be seen by civilians, you'll be provided with a couple of masks;
+100
+SFX_PAUSE_370
+TUSCO_ACAF
+~z~Well, we're not getting caught. These are professionals.
+TUSCO_AOAC
+TUSCO_AQAR
+TUSCO_AQAK
+390
+~z~As the jobs get more complicated, so will the uniforms.
+~z~We'll go over there, pick her up, and go back to your place to plan this thing.
+SFX_PAUSE_500
+~z~Take it for a dry run, keep your hands steady, and maybe the wet run won't be a disaster.
+~z~Whoop dee doo.
+TUSCO_AOAF
+100
+~z~Nice to meet you.
+SFX_PAUSE_270
+TUSCO_AUAB
+~z~picking up some equipment, and then heading back to make our plans. Not very complex at all.
+1100000
+SFX_PAUSE_230
+TUSCO_AJAK
+TUSCO_AOAN
+TUSCO_AZAA
+TUSCO_AQAH
+TUSCO_AOAS
+~z~Whoop dee doo.
+SFX_PAUSE_300
+SFX_PAUSE_260
+TUSCO_AXAA
+SFX_PAUSE_180
+SFX_PAUSE_180
+~z~And hey,
+390010390010390010390010390390390010390390
+390
+~z~First she's going to get us what we need, then she's going to saw me in half.
+TUSCO_BAAN
+~z~it's something, it's something er... very big.
+~z~I'm calling Paige. She's my assistant.
+100
+TUSCO_AYAA
+TUSCO_ASAE
+1100000110000011000001100000110000011000001100000110000011000001100000
+SFX_PAUSE_280
+~z~cover the upfront costs. Call it the er...
+~z~Can you get the intel together? Hard copies to go on a notice board...
+~z~It's right on the highway with good access. That works for you, you can get out quick.
+~z~If you're likely to be seen by civilians, you'll be provided with a couple of masks;
+TUSCO_ADAC
+TUSCO_AJAG
+TUSCO_AHAC
+100
+TUSCO_AOAA
+SFX_PAUSE_230
+SFX_PAUSE_370
+~z~puts you on the spectrum, right? Okay, well, how about we just get there and see where we're at.
+~z~Where were we? Masks! Paige! Oh yeah.
+~z~Okay? Okay.
+SFX_PAUSE_290
+TUSCO_AIAB
+490400400400400400400400400400400400400400400400400400400400
+SFX_PAUSE_370
+392010392010392010392392010392010392010392392010392
+100
+~z~Not so much thought as everything-but-the-deed-crime.
+~z~Bullets go in here, come out there.
+110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000
+TUSCO_BAAB
+TUSCO_AFAJ
+TUSCO_AQAM
+~z~Another good question. You're full of good questions.
+~z~Enough of this peeper crap. Let's go to the garment factory.
+SFX_PAUSE_330
+SFX_PAUSE_200
+TUSCO_AJAN
+~z~Take us to the Fleeca on the Western Highway near Chumash.
+~z~we would arrange the job and you would pull it off, but this time I'll er...
+~z~Let's go.
+~z~Where were we? Masks! Paige! Oh yeah.
+100
+TUSCO_AXAC
+TUSCO_AFAK
+SFX_PAUSE_260
+TUSCO_ADAE
+~z~there's the added bonus of none of your favorite comic convention outfits being linked to a major crime.
+~z~No? You didn't like that one? You don't make it easy.
+~z~Hey, there's enough here to make us all look real suspicious.
+TUSCO_ADAF
+TUSCO_ACAA
+TUSCO_BAAH
+~z~And hey,
+SFX_PAUSE_360
+TUSCO_AQAI
+~z~it's probably a good idea for you to familiarize yourselves with it.
+~z~Tools for the job, things for you to wear.
+~z~Plus, you know, the sea view. Nothing like staring at the ocean while you contemplate money and power and
+11000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000
+100
+1100000
+~z~Unless of course you count getting locked up or shot.
+TUSCO_AQAJ
+390
+~z~
+~z~We're not going in, we're not poking it with a stick, we're just sitting back and taking a look.
+TUSCO_AQAS
+~z~Mmm. Charming as ever...
+TUSCO_APAA
+SFX_PAUSE_300
+TUSCO_AJAV
+100
+TUSCO_AFAD
+SFX_PAUSE_250
+SFX_PAUSE_410
+390
+~z~Security should be light, well, relatively light.
+TUSCO_AIAF
+490
+100
+TUSCO_AIAG
+~z~So I hear. The cheapest professionals money can buy.
+~z~Thank you.
+390010390390390
+~z~incarceration, and homicide, all those weighty issues surrounding your first foray into serious armed robbery.
+TUSCO_AJAF
+~z~If they come after us, we call it off.
+SFX_PAUSE_320
+~z~Alright, so why this bank, over all the other banks in the state, why does fortune favor this one?
+TUSCO_AOAJ
+SFX_PAUSE_170
+~z~price of getting a look at you. And there's no risk to you.
+100
+TUSCO_ABAA
+~z~The rest is pretty self-explanatory. Listen to me, do what I say.
+~z~Bullets go in here, come out there.
+~z~What I've got is a Fleeca Bank franchise.
+TUSCO_AQAA
+~z~I like to know where everything I use comes from.
+~z~Nice little conspiracy to commit robbery charge waiting to happen.
+390010390010390010390390010390
+TUSCO_AJAR
+TUSCO_AQAL
+SFX_PAUSE_300
+~z~On a job, your attire will depend on the role you're performing.
+11000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000
+TUSCO_AQAD
+SFX_PAUSE_360
+TUSCO_AXAB
+~z~If they were offended, they would have said something.
+TUSCO_AOAQ
+~z~In my day the psychos at least had the dignity to be psychotic.
+~z~And if you're ever caught, you keep your mouths shut. I couldn't resist.
+~z~You in the passenger seat, I've sent it to your phone.
+SFX_PAUSE_170
+390
+TUSCO_ARAF
+~z~You see, I like my scores like I like my dates -
+TUSCO_ACAC
+TUSCO_BAAG
+TUSCO_AOAP
+~z~Or are you happy sitting there making a perfect butt imprint in your easy-wipe seat?
+TUSCO_BAAM
+SFX_PAUSE_360
+1100000
+~z~It's not quite ready yet, but I wanted to see how you're doing.
+~z~Yeah...
+390010390
+1100000
+SFX_PAUSE_300
+TUSCO_ADAA
+~z~Okay, see you soon.
+~z~that no one's going to report missing. All starting to make sense?
+~z~Light if your day dreams are raids on the Union Depository.
+SFX_PAUSE_260
+110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000
+SFX_PAUSE_260
+~z~Nowadays it's all about er...
+SFX_PAUSE_380
+~z~I've patched into their security feed on my cell. Take a look.
+11000001100000110000011000001100000110000011000001100000
+~z~Quite heavy if your day job is turning over liquor stores and gas stations.
+~z~Well, this bank's got some safety deposit boxes,
+TUSCO_AFAC
+100
+~z~Alright, what are you waiting for? Let's go see this place.
+100
+~z~She didn't mean anything by that, by the way. She's just a little brusque.
+1100000
+~z~Now normally, there would be a buy in, you would put in money up front,
+~z~I think so...
+TUSCO_AOAL
+~z~There's a Fleeca franchise on the Western Highway near Chumash. Take us there.
+~z~then, when you go into the bank, you can choose one that... goes with your eyes.
+~z~home furnishings and going straight. Right, you ready?
+TUSCO_BAAA
+TUSCO_AOAI
+390010390010390010390010390010390010390
+11000001100000110000011000001100000
+~z~It should all be there. The clothes. Guns. Headsets. Holdalls. Masks. The drill.
+~z~I can talk you through the planning board later, that might be helped by a visual aid.
+SFX_PAUSE_230
+390010390010390010390010390390010390390390010390010390390390010390010390
+TUSCO_AQAB
+11000001100000110000011000001100000110000011000001100000110000011000001100000
+SFX_PAUSE_300
+~z~I'll take your word for it.
+100
+~z~Chauffeur. Come on.
+100
+~z~Is it all there?
+~z~Passenger seat, did you get into their network? Good work.
+SFX_PAUSE_310
+100
+~z~What are we looking at? Small joint. Not much security.
+TUSCO_AJAD
+1100000
+100
+~z~Now, when you hit the bank, you're going to need to hack into its security system,
+~z~The files with all the photos and surveillance work.
+~z~It's nothing too complicated, there's no buy in.
+~z~Because this is it. Well, it's... it's not it, but er...
+390
+~z~across the street and unaware they're being watched.

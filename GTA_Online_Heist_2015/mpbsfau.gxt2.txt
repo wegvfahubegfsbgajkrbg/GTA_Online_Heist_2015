@@ -1,0 +1,368 @@
+﻿100
+MPBSF_BCAJ
+MPBSF_COAE
+MPBSF_CMAA
+~z~Chopper team will hold position above the lab,
+~z~All that work, all that money - for everything or nothing.
+1100100
+~z~I hope money's a good motivator for you.
+~z~Good work.
+100
+492010492010492010492010492010492
+SFX_PAUSE_280
+~z~Bring the chopper in, and I'll give you a debrief. You want to be paid don't you?
+1100100
+MPBSF_BDAD
+1100100
+100
+492
+~z~Pilot's taking the controls, aerial gunner gets first choice on position,
+MPBSF_BNAA
+SFX_PAUSE_210
+100
+~z~Keep in mind there's a longer fire return interval on that one.
+1100100
+SFX_PAUSE_380
+~z~Your bird is waiting where you left it, just North of the Alamo Sea.
+MPBSF_BRAA
+MPBSF_BHAA
+1100100
+~z~One - night vision goggles - when we trigger the EMP, the lights go out, and you'll need to be able to see.
+1100100
+~z~Okay? Alright.
+110010011000001100100110000011001001100100110000011001001100000110010011000001100100110000011001001100000110010011000001100100110010011000001100100
+SFX_PAUSE_320
+~z~Transfer's complete. Go down the corridor, get in the elevator.
+~z~You need to insert the key cards into the panels at exactly the same time in order to gain access to the system.
+MPBSF_BGAC
+492
+~z~When you surface, get to the beach and await pickup.
+11001001100000110010011000001100100110000011001001100100110000011001001100000110010011000001100100110000011001001100000110010011000001100100
+MPBSF_BXAA
+~z~Four - parachute for the drop. Five - special carbine with suppressor.
+SFX_PAUSE_170
+100
+100
+MPBSF_BLAA
+100
+MPBSF_BDAB
+100
+MPBSF_CLAA
+MPBSF_BCAI
+~z~Target eliminated.
+492
+100
+~z~power down there goes out, and the ground team can jump.
+MPBSF_CMAK
+SFX_PAUSE_270
+MPBSF_BGAD
+~z~You've done good work, made this country safer, but that does not mean I've got to like you.
+~z~That's what this was about? Not just the shooting and the explosions?
+~z~That's a lot of pressure for four people to shoulder.
+MPBSF_COAA
+100
+~z~so the amount you are paid will depend on how fast it's done.
+1100100
+100
+~z~No matter, stick to the plan.
+SFX_PAUSE_710
+SFX_PAUSE_190
+~z~Lucky for you, the guards dropped some flares by the pool. Look out for them.
+MPBSF_BKAA
+1100100
+SFX_PAUSE_320
+492
+100
+~z~Six - pump shotgun with suppressor. Seven - grenades. Eight - sticky bombs.
+MPBSF_BKAB
+MPBSF_CEAA
+~z~high cal explosive rounds in the copilot's seat.
+~z~Looks like a kill.
+492
+~z~You're all flying in together, so you've all got to go over there.
+SFX_PAUSE_300
+~z~Two - rebreather - you're going out through a cooling tunnel, the rebreather's compact,
+~z~But pressure can turn shit into diamonds, or it can turn diamonds into dust.
+1100100
+100
+MPBSF_BCAB
+~z~Pilot, keep the chopper in position 'til the ground team have breached.
+100
+892010892010892010892010892
+100
+~z~The ground team are making progress. We're almost there.
+MPBSF_CHAB
+MPBSF_CCAA
+MPBSF_BNAB
+1100100
+1100100110000011001001100000110010011000001100100
+~z~Triggering the EMP. Get ready to jump.
+SFX_PAUSE_150
+~z~The ground team will send up a flare, give you a visual on their location.
+MPBSF_BAAB
+492
+492
+492
+MPBSF_BZAA
+MPBSF_BDAF
+1100100
+492010492
+~z~and it'll give you enough oxygen to make the surface.
+~z~We have lost tracking on the ground team. We can't pinpoint their location.
+MPBSF_BGAA
+492010492010492010492492010492010492010492010492010492010492
+MPBSF_CQAA
+492
+MPBSF_CKAA
+1100100
+MPBSF_BMAA
+SFX_PAUSE_440
+~z~Five through eight you should be familiar with already.
+492
+~z~Chopper team, there's movement on the radar to the west of you. Be ready to engage.
+110010011000001100100
+~z~Direct hit.
+492
+~z~Be my tool, one last time.
+11001001100000110010011000001100100
+~z~Okay, you're there.
+MPBSF_BUAA
+MPBSF_BBAB
+MPBSF_BCAA
+492
+100
+MPBSF_BTAA
+~z~There's more coming at you. Look out!
+~z~Keep moving and be ready for resistance. You're no good to us dead... not quite yet.
+492
+SFX_PAUSE_230
+~z~Alright, get the breathing apparatus on and get in the drink.
+~z~You're in a surveillance black spot, and I don't want you drifting out yet.
+492010492492
+MPBSF_CDAA
+MPBSF_BCAC
+110010011000001100100
+SFX_PAUSE_310
+SFX_PAUSE_160
+MPBSF_CMAH
+MPBSF_CJAB
+SFX_PAUSE_290
+492010492
+SFX_PAUSE_380
+SFX_PAUSE_190
+MPBSF_CEAB
+MPBSF_CMAB
+MPBSF_BRAB
+MPBSF_CMAF
+1100100
+~z~Dammit. They've got the power back on already.
+SFX_PAUSE_230
+492
+SFX_PAUSE_300
+100
+MPBSF_BFAC
+~z~As much as you can have faith in a rag tag bunch of reprobates,
+100
+~z~Pilot, gunner - here's what you're carrying.
+~z~They got the data, and they're on the way out. Keep it up.
+~z~She's all yours.
+100
+492010492010492
+100
+100
+MPBSF_CMAE
+~z~Meet my contact at the Land Act Reservoir, and you'll be paid.
+MPBSF_BCAG
+MPBSF_CKAB
+492
+1100100
+~z~Drop any Merryweather units coming after you, then get out of there.
+~z~Their signals will have gone dark, but get ready to pull them out.
+MPBSF_BJAA
+1100100
+SFX_PAUSE_260
+SFX_PAUSE_160
+MPBSF_CBAA
+SFX_PAUSE_540
+~z~Move quickly, get through the lab, and get us that data.
+MPBSF_BEAA
+~z~When they're inside, descend and provide cover.
+MPBSF_CHAA
+~z~Okay, now, fly out to the lab, gaining altitude.
+100
+MPBSF_BCAH
+100
+SFX_PAUSE_410
+~z~Okay. Here we go.
+MPBSF_BOAA
+MPBSF_BVAA
+SFX_PAUSE_280
+MPBSF_CAAB
+100
+MPBSF_COAB
+~z~Ground team, you take the last two positions in the bird, and you get ready to jump.
+SFX_PAUSE_280
+MPBSF_CMAC
+1100100110000011001001100100
+~z~The network infrastructure at that place is state of the art, it won't take you long to pull the data.
+~z~What's it gonna be today? I've got faith in you.
+100
+492010492
+SFX_PAUSE_320
+492
+MPBSF_COAC
+~z~Chopper team, they're coming straight for you.
+SFX_PAUSE_260
+SFX_PAUSE_510
+~z~and for your bird's electrics to be clear of the EMP.
+~z~trying to stop the ground team getting swamped inside.
+110010011000001100100
+~z~Ground team - time to switch to night vision.
+~z~What we need is being stored in a research station in the center of the facility.
+~z~Long as the main switch is off, that won't cause us problems.
+110010011000001100100
+MPBSF_CIAA
+~z~Keep going. You need to get to the cooling tunnel. That'll take you out to the sea.
+1100100
+100
+MPBSF_CGAA
+110010011000001100100
+492010492
+492010492010492
+492
+492010492010492010492
+~z~Chopper team, the ground team are swimming out through the cooling tunnel.
+492
+100
+SFX_PAUSE_240
+100
+~z~You don't talk much, probably don't listen either, but you're effective tools.
+SFX_PAUSE_220
+~z~Ground team's sending up a flare. Get their location, and pick 'em up.
+~z~That one's gone.
+110010011000001100100110000011001001100000110010011000001100100
+11001001100000110010011000001100100
+MPBSF_BBAC
+~z~Merryweather 4x4s en route to the lab.
+MPBSF_BYAA
+100
+MPBSF_CIAC
+MPBSF_BCAF
+492010492010492492010492010492010492010492010492010492492010492
+SFX_PAUSE_230
+492010492
+110010011000001100100
+MPBSF_CJAA
+SFX_PAUSE_210
+100
+MPBSF_CMAI
+MPBSF_BDAE
+~z~Looks like some systems are running on an emergency generator.
+SFX_PAUSE_160
+MPBSF_BCAD
+SFX_PAUSE_160
+~z~Chopper should be in bound. Get ready.
+~z~And we're giving you night vision goggles too.
+MPBSF_CMAG
+~z~You got 'em.
+110010011000001100100
+~z~Okay, you've had your fun.
+1100100
+110010011000001100100
+~z~Three - flare gun - when you make the beach, shoot a flare, and the chopper crew'll fix your coordinates.
+492010492
+100
+MPBSF_COAD
+~z~You should be coming up on the research station.
+MPBSF_BAAA
+MPBSF_BBAA
+~z~You know as well as I do, this operation is the product of hundreds of man hours, and millions of dollars.
+100
+492
+MPBSF_BCAE
+MPBSF_BKAC
+1100100
+SFX_PAUSE_160
+1100100
+~z~hastily assembled, and motivated solely by their greed. Well, their greed and their bloodlust.
+SFX_PAUSE_200
+~z~You'll need to be high for the ground team to hit their drop zone,
+~z~Parachutes - just in case. Grenades - just in case.  And sticky bombs - just in case.
+SFX_PAUSE_190
+~z~More units on the way. You'll have to hold them off, while the ground team gets out.
+100
+100
+SFX_PAUSE_170
+11001001100000110010011000001100100
+MPBSF_BWAA
+100
+11001001100000110010011000001100100110000011001001100000110010011000001100100
+100
+MPBSF_BIAA
+100
+100
+~z~Our people inside won't get out if those reinforcements get there.
+~z~side-facing minigun placements are in the rear,
+100
+MPBSF_BQAA
+492010492
+~z~I want this operation over and forgotten about as quickly as possible,
+MPBSF_BFAA
+100
+492
+492010492
+~z~When you're above the lab, we trigger the pulse,
+SFX_PAUSE_360
+1100100
+MPBSF_BCAK
+MPBSF_BDAC
+~z~Okay, ground team, let's go. Blow the doors, and get into the lab.
+~z~You're clear to drop. Go. Go. Go.
+492010492
+~z~Send up a flare to let them know where you are when you reach land.
+492
+MPBSF_BGAB
+100
+MPBSF_CMAD
+MPBSF_CMAJ
+~z~Let's see if you can plug one last hole for me.
+1100100
+1100100
+~z~You clear? Alright, then I'm done.
+~z~Let's go. Let's go.
+590
+~z~Unless you believe in string theory and an infinite multiverse, this is our only shot at this.
+~z~I got one less blip on my screen.
+MPBSF_CFAA
+SFX_PAUSE_340
+MPBSF_BDAA
+SFX_PAUSE_380
+MPBSF_BSAA
+MPBSF_BPAA
+MPBSF_BCAL
+~z~You know, I've lost a lot of operatives in the field, I'm happy you weren't some of them.
+SFX_PAUSE_390
+~z~Merryweather's dispatched air units. Chopper team, take them down.
+SFX_PAUSE_310
+~z~Target downed.
+1100100
+MPBSF_BUAB
+492010492010492
+~z~R&D says there's enough air for you to reach topside. Let's hope they're right.
+100
+~z~Ground team, I'm gonna run you through your specialized equipment for the mission.
+~z~But it's time to put the toys back in their box, and to go to bed.
+100
+SFX_PAUSE_180
+1100100
+SFX_PAUSE_250
+492
+MPBSF_CNAA
+MPBSF_CPAA
+MPBSF_BFAB
+492
+110010011000001100100
+492
+MPBSF_CIAB
+MPBSF_CAAA
+1100100

@@ -1,0 +1,259 @@
+﻿~z~Looks like you're almost at the cargo ship - get on board, climb the stack, and access the container with the car in it.
+~z~Do not lead the cops to my driver. Lose 'em before you bring the car in.
+~z~unless you're turning yourself in, that is. Lose the cops.
+110010011000001100100
+PBST_BLAA
+492010492010492
+SFX_PAUSE_280
+~z~Let's just hope they do it, 'cause it's "back to the start, do not pass go" if they don't.
+PBST_BDAA
+~z~It's meant to be priceless. And our man's imminent place on the FIB most wanted list
+PBST_APAA
+~z~Maybe one day you'll file a few patents, head up some research projects,
+~z~Anything freaky's gonna be a problem.
+SFX_PAUSE_200
+~z~Good work on the schedule. But now you got to wait 'til the team on the car delivers it.
+000
+000
+110010011000001100100
+PBST_AMAA
+PBST_AWAC
+110010011000001100100
+PBST_BHAB
+SFX_PAUSE_230
+SFX_PAUSE_210
+PBST_BDAB
+~z~The car's a late 50s Lampadati Casco - Rashkovsky says it's a classic,
+000
+110010011000001100100
+~z~and we'll use it to coordinate our break out with a planned inmate drop off.
+PBST_ALAB
+~z~You got it. Once you're sure they're not following, bring it in.
+PBST_AKAA
+PBST_AYAA
+000
+PBST_BFAH
+492010492
+000
+1100100
+PBST_BGAA
+11001001100000110010011000001100100
+110010011000001100100110010011000001100100
+SFX_PAUSE_200
+SFX_PAUSE_230
+492010492
+SFX_PAUSE_180
+~z~Top of the stack. Climb up there and get the car.
+PBST_BIAE
+PBST_AZAA
+110010011000001100100
+11001001100000110010011000001100100
+PBST_BJAA
+PBST_BGAC
+000
+~z~On the way out with the document, I don't know.
+PBST_AHAD
+~z~Blood stains, bullet holes, burn marks - they'll go under general wear and tear.
+000
+110010011000001100100
+PBST_AGAB
+PBST_AGAA
+~z~Docks team - Rashkovsky's car is part of a shipment headed out into the Pacific any day now.
+PBST_ARAA
+000
+PBST_BGAD
+~z~On the way in, you won't have a problem with the cops, unless you act stupid.
+~z~Okay, now bring the car to my driver.
+~z~Pronto, people.
+110010011000001100100
+000
+PBST_AZAC
+~z~Act like you belong there. They got no reason to think you're not what you're dressed as.
+~z~I was worried about it taking damage. Now, I'm worried about how many miles it'll have on the clock.
+110010011000001100100
+492010492
+~z~Make yourselves useful, or make yourselves scarce, okay? Goodbye.
+492010492
+~z~Okay, looks like they're sending people after the Casco.
+SFX_PAUSE_260
+~z~You got it? Alright, get out of there.
+PBST_BDAD
+110010011000001100100110000011001001100000110010011001001100000110010011000001100100
+PBST_BBAB
+492010492
+~z~Well done. She's on the road.
+492
+1100100
+SFX_PAUSE_260
+PBST_BIAF
+SFX_PAUSE_170
+000
+000
+1100100110000011001001100100110000011001001100100
+000
+PBST_ASAA
+PBST_ARAC
+SFX_PAUSE_100
+~z~Okay, one more thing - I'm going to need you to torch the cop car to stop this coming back at us.
+~z~You need to drop these guys before you bring the car back.
+100
+SFX_PAUSE_230
+SFX_PAUSE_250
+~z~I call it leverage, you're going to think it's a pain in the ass.
+PBST_BBAA
+SFX_PAUSE_180
+PBST_AHAC
+~z~You've got the right uniforms,
+SFX_PAUSE_240
+~z~There are some gas cans under the Olympic Freeway in Murrieta Heights that'll do the job.
+PBST_BJAB
+~z~You almost there? My driver's been mainlining Junk Energy drinks and downloading soft rock
+~z~From the looks of it, you're clear. Now, go into the station, and come out with the hard copy.
+~z~Take the schedule back to mission control, and we'll use it to coordinate our break out with a planned inmate drop off.
+110010011000001100100
+~z~bring that knowledge into the boardroom, and be able to afford a car like this yourself.
+1100100
+PBST_AQAA
+~z~The station team have the schedule.
+SFX_PAUSE_320
+492
+SFX_PAUSE_240
+PBST_BIAG
+~z~classics for a forty hour drive to Central America,
+PBST_BIAB
+492
+PBST_BFAG
+492010492
+492010492010492
+000
+PBST_BIAA
+1100100110000011001001100000110010011000001100100
+PBST_BLAB
+~z~Drop as in ice them, or drop as in lose them. I don't mind.
+~z~you'll need to climb up to it, and shoot open the lock.
+000
+SFX_PAUSE_240
+PBST_BMAA
+SFX_PAUSE_240
+110010011000001100100
+000
+SFX_PAUSE_400
+~z~then you can go to the station. And, I shouldn't need to say this, don't get yourselves killed.
+~z~I'm setting up a healthy atmosphere of competitiveness - use that.
+PBST_AOAB
+492010492492010492
+~z~Then bring the car to my people and we'll get it out the country.
+~z~is gonna make him ineligible to make insurance claims.
+100
+~z~These guys are professional thieves with money at stake, so don't expect a walk in Mirror Park.
+~z~You can't turn up at the station while you're wanted by the police...
+1100100
+11001001100000110010011000001100100
+PBST_AUAA
+~z~I would do this quickly, if I were you. Just in case someone adds two and two and makes you.
+492010492
+~z~Looks clean, alright, now take the schedule back to mission control,
+~z~but they'll be no good to you if you turn up on foot or in civilian transportation.
+~z~Get a hold of a cop car using any means necessary,
+~z~The car's in a locked container at the top of the stack,
+SFX_PAUSE_210
+~z~Looks like you're clear.
+PBST_BNAB
+PBST_BKAB
+~z~and she'd really appreciate it if you hurried up and sent her on her way.
+492
+PBST_AXAA
+492
+110010011000001100100
+PBST_BEAH
+492492010492
+11001001100000110010011000001100100
+~z~They usually keep the hard copy of the schedule in the briefing room to the right of the door.
+492010492010492010492
+~z~Plot a course to my driver, and follow it quick.
+~z~You understand? Look after it.
+PBST_AWAB
+000
+SFX_PAUSE_230
+PBST_BHAC
+~z~Okay, we got two teams. Split up and hit your objectives.
+PBST_ATAA
+~z~Until that day comes, don't think about driving around like you own it. Okay?
+000
+PBST_AWAA
+~z~The car's in the container. Shoot the lock to open it up.
+000
+000
+SFX_PAUSE_300
+PBST_ALAA
+SFX_PAUSE_200
+PBST_BKAC
+SFX_PAUSE_210
+1100100
+PBST_AQAB
+SFX_PAUSE_150
+1100100
+492
+~z~You're not taking the cops back to the apartment. Not when we're running this job outta there.
+~z~Look out for their people on the ship, you don't want to start a fight with them until you have to.
+SFX_PAUSE_270
+000
+492
+~z~Station team - you're going for the Bolingbroke transit schedule.
+SFX_PAUSE_300
+PBST_AVAA
+492010492010492
+PBST_BHAA
+~z~There are cans under the Olympic Freeway in Murrieta Heights that'll do the job.
+000
+PBST_BDAC
+~z~You got a car? Okay, make sure no one's following you.
+1100100
+~z~I hope you're looking after his car. There's only so much damage we can blame on the export crew.
+000
+110010011000001100100
+100
+000
+PBST_AHAA
+000
+SFX_PAUSE_130
+PBST_AZAB
+492
+PBST_AHAE
+492010492
+492010492010492
+PBST_BNAA
+492
+PBST_ANAA
+PBST_APAB
+~z~But now you got to wait until the other team's delivered the schedule.
+SFX_PAUSE_200
+PBST_ANAB
+PBST_AOAA
+1100100110010011000001100100
+~z~The car team have the Casco.
+~z~Okay, now I'm going to need you to torch the cop car to stop this coming back at us.
+~z~Should be obvious, but we need this car in good shape to give to Rashkovsky.
+492010492
+SFX_PAUSE_220
+492010492
+PBST_BKAA
+~z~Drop your tails, lose any pavement artists, then you can stash the file.
+000
+~z~Where are you at with that car?
+PBST_ARAB
+000
+PBST_BGAB
+PBST_AHAB
+PBST_BIAD
+PBST_BIAC
+PBST_BMAB
+1100100
+1100100
+492010492
+SFX_PAUSE_290
+000
+SFX_PAUSE_200
+492010492492010492492
+492010492
+492010492010492010492492010492010492

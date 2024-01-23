@@ -1,0 +1,91 @@
+﻿~z~my ex-wife's credit card, so I'd ask you to be just careful with it.
+592010592
+~z~We need you to coordinate your attack from above and below, okay?
+592
+592592
+NACO_AIAA
+NACO_AFAA
+NACO_AJAA
+~z~This chopper you're collecting's a rental and everything's prepaid on my wife...
+SFX_PAUSE_250
+SFX_PAUSE_280
+100
+SFX_PAUSE_310
+~z~Hey, it's Ron, you remember, the CFO, COO, intern, and restroom attendant at the startup?
+NACO_ACAC
+NACO_AMAA
+NACO_AHAC
+NACO_ACAB
+110010011000001100100
+592592010592010592
+~z~And the amount of juice they're on ain't known as a mood stabilizer.
+~z~You got the bird?
+NACO_AGAB
+592010592
+~z~Oh crap, I'm hearing all about it on the police scanner.
+NACO_AMAB
+592010592
+NACO_AEAB
+SFX_PAUSE_260
+~z~The packages are in the cabins and below deck. Clear the guys, then get in there and pick 'em up.
+NACO_ACAD
+~z~Have you got the stuff? Okay, now get outta there.
+NACO_AHAA
+100
+SFX_PAUSE_360
+SFX_PAUSE_280
+NACO_AEAA
+NACO_ACAA
+~z~So, well, I wouldn't expect 'em to roll over. Just so you know.
+~z~The yacht is moored down the coast off Del Perro.
+NACO_AKAA
+NACO_ADAB
+100
+~z~Half of you are going to Vespucci and the other half are going to Higgins Helitours in La Puerta.
+110010011000001100100
+NACO_AMAD
+592592
+~z~Okay, the yacht's moored off Del Perro.
+~z~You gotta lose the heat before you come to me.
+SFX_PAUSE_440
+~z~Just so you know, the frat boys you're going after move weight,
+1100100110000011001001100000110010011000001100100
+~z~so they're likely to have security... armed security.
+~z~From the sounds of it, you've lost the cops. I hope I'm right. Okay, okay.
+~z~This is good. You are inbound.
+NACO_AHAB
+100
+NACO_ADAA
+1100100
+11001001100000110010011000001100100
+~z~Get it and take it out to sea.
+100
+110010011000001100100
+SFX_PAUSE_410
+~z~Okay, so, ah, you're about to go to the boat, right?
+592
+100
+1100100
+11001001100100
+110010011001001100000110010011000001100100
+NACO_AMAC
+100
+SFX_PAUSE_240
+11001001100100
+~z~There's a boat - looks like it's unused, off the shore at Vespucci.
+~z~And when you're on board, clear the boat, and get all the packages from the cabins and below deck.
+592010592010592
+NACO_AKAB
+592010592010592010592
+100
+100
+~z~Trevor's asked you approach it from the sea and the air, okay?
+NACO_AGAA
+100
+1100100
+100
+592
+~z~So, uhh, bring the stuff to me at the warehouse under the Los Santos Freeway in East Vinewood.
+NACO_ALAA
+SFX_PAUSE_310
+NACO_ALAB

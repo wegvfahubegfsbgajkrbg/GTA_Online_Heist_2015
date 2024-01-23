@@ -1,0 +1,1344 @@
+﻿100
+OBHF_DBAA
+1100000
+392
+1100000
+~z~well, crowd control. Get in their faces, shout at them, shoot near them, stop them from calling 911.
+890
+1100000
+~z~Please don't shoot.
+~z~Shit.
+~z~You were warned about the hostages, weren't you? How many times do I have to say something?
+100
+~z~You got the wrong idea. Please.
+OBHF_CYAA
+1100000
+1100000
+890
+~z~You killed 'em!
+OBHF_CGAC
+OBHF_ENAA
+392010
+890
+OBHF_EWAA
+~z~It's company policy, I had to press it!
+OBHF_BEAE
+~z~Time's almost up. You got to start thinking about leaving the money and getting outta there.
+392
+OBHF_EPAA
+~z~I don't wanna die.
+OBHF_CWAA
+~z~Right about now, the CEO of Pac Standard is calling the Mayor,
+SFX_PAUSE_240
+OBHF_ASAB
+OBHF_ATAA
+100
+100
+~z~I'm gonna call the cops!
+100
+~z~They'll be here any minute.
+392010392
+~z~Can I tell my yogilates teacher I'm gonna to be late?
+OBHF_DWAA
+100
+392010392
+OBHF_CIAA
+SFX_PAUSE_210
+392010392
+~z~What's wrong with you?
+890
+OBHF_BVAB
+~z~I'm here to help.
+890
+890
+100
+SFX_PAUSE_290
+~z~When you get in the boat, come out to sea.
+~z~It's a robbery!
+100
+~z~Let the hostages know what happens to heroes, yeah? This ain't the movies.
+1110100110000011101001100000111010011000001110100
+~z~Now, make a play for the bikes. They're up ahead, where you stashed them behind that apartment building.
+1100000
+~z~Cops on the street will be highly motivated to bring you down.
+~z~I'm getting blisters.
+SFX_PAUSE_200
+SFX_PAUSE_240
+~z~I didn't come to Vinewood to get shot.
+~z~Please. Please.
+890
+~z~Say hello to the second amendment!
+OBHF_FWAA
+100
+~z~Whatever!
+11001001100000110010011000001100100
+1100000
+890
+100
+890
+OBHF_BBAI
+~z~This is fucked.
+~z~They're robbing the place.
+100
+~z~You don't need hostages.
+OBHF_ASAA
+100
+~z~The alarms gone. Get your coats and go.
+~z~What, a stern word won't do?
+SFX_PAUSE_150
+OBHF_GMAA
+11001001100000
+890
+392010592010392
+11001001100100110000011001001100000110010011000001100100110000011001001100100110000011001001100000110010011000001100100110010011000001100100
+392010392
+SFX_PAUSE_170
+100
+OBHF_BBAA
+890
+110010011000001100100
+OBHF_FPAA
+~z~This would be the worst way to die.
+SFX_PAUSE_200
+OBHF_FMAA
+SFX_PAUSE_220
+~z~Look, I got low bloodsugar.
+OBHF_EEAA
+~z~That's coming out of your cut, not mine.
+100
+~z~Crowd control, you're on...
+100
+~z~Boom! You're in. Get all the cash you can carry.
+890
+1100000
+1100100
+OBHF_GOAB
+~z~Argh!
+100
+~z~Get in their faces, shout at them, shoot near 'em if you have to.
+1100000
+~z~Okay, you're coming into Chilliad State Park, we're almost out of this. Almost.
+~z~I should be in a titty bar right now, celebrating.
+~z~I'm gonna need you to drive at the cliff, take a jump,
+1100100
+OBHF_AGAB
+890
+SFX_PAUSE_250
+~z~You got to be a sadist to do this job!
+1100000
+~z~Please, no.
+OBHF_HGAB
+890
+1100000
+OBHF_HDAA
+~z~Keep going. Keep going. Don't worry about the cops, worry about getting to the canyon.
+~z~LSPD. Surrender now!
+OBHF_EYAA
+OBHF_BNAA
+~z~Okay, I'm going to patch you into our evac guy, Eddie Toh. Eddie? Eddie, you there?
+100
+392
+~z~Alright, here we go. The Pacific Standard on Vinewood.
+1100000
+~z~Like I said, this is a big deal, people, don't fuck it up.
+~z~You made a big mistake.
+100
+OBHF_HFAC
+100
+SFX_PAUSE_270
+OBHF_BWAA
+OBHF_GIAA
+~z~I'm sorry! I had to call them! I'm sorry.
+OBHF_AHAA
+~z~This is the freakin' police! Give it up!
+OBHF_DAAA
+~z~I get it! I get it!
+890
+110010011000001100100110000011001001100000110010011001001100000110010011000001100100110000011001001100000110010011001001100000110010011000001100100
+1100000
+890
+100
+~z~We've got an advantage on the cops right now, but it won't last for long.
+OBHF_HFAI
+OBHF_BXAA
+100
+OBHF_FAAA
+1100000
+~z~I got a sandwich in the freezer.
+OBHF_GMAB
+OBHF_BMAA
+392010392010392
+OBHF_HFAF
+~z~Stay together and go another way if you like, but this'll be the safest route.
+~z~The cops have cleared all vehicles near the bank, you're making a run for those bikes.
+OBHF_FQAI
+100
+OBHF_HAAA
+~z~They're coming. It's too late to do anything now.
+~z~Anyone gets in your way, you take 'em down.
+110010011000001100100
+100
+~z~A fucking bank robbery...
+100
+~z~he's probably patched in the chair of the Union Depository,
+110010011000001100100
+SFX_PAUSE_240
+890
+~z~Don't shoot me in the face!
+~z~You might be overdoing it!
+OBHF_BEAB
+~z~Oh my god! They're robbing it!
+100
+1100000
+OBHF_BQAB
+~z~You gonna need to get off your rides, and start gliding quick.
+1100100
+1100100
+OBHF_GOAA
+100
+OBHF_AVAA
+1100000
+~z~I can't die yet!
+OBHF_HBAA
+OBHF_GEAB
+100
+1100100
+100
+890
+100
+OBHF_FQAF
+100
+392
+SFX_PAUSE_510
+OBHF_AKAA
+~z~Are they watching me?
+110010011000001100100
+100
+OBHF_FQAE
+~z~It's like a movie.
+392010300
+~z~get behind there and get your guns on the tellers.
+1100100
+SFX_PAUSE_320
+OBHF_FGAA
+~z~We're getting robbed.
+OBHF_BJAA
+~z~If you stay in a group, you'll get outta this.
+392010392
+OBHF_FKAA
+OBHF_CCAA
+890
+~z~Oh my God, oh my God, oh my God.
+~z~Can I bleet about this?
+OBHF_CVAA
+OBHF_DMAA
+~z~Where them Ballas when you need 'em?
+SFX_PAUSE_190
+392010392010392010392010392
+392
+392
+SFX_PAUSE_230
+890
+~z~This isn't happening.
+100
+1100100
+OBHF_GGAA
+890
+~z~If I wanted to get stuck up, I woulda gone to Davis.
+392010392
+~z~Everyone play nice.
+100
+OBHF_AMAA
+~z~No one needs to die!
+SFX_PAUSE_190
+~z~No? That means the transponder's worked. Thank you, Avi Schwartzman.
+OBHF_BGAI
+1100000
+100
+~z~Use the bikes to get away from the cops, and to get upstate.
+890
+100
+~z~Tell me what to do.
+~z~Please be nice to them.
+~z~Okay, okay.
+OBHF_CSAA
+OBHF_GWAA
+~z~Crap.
+100
+100
+~z~Go down to the vault with your friends.
+~z~I've managed to lock the bank door remotely. If only it was that easy to deal with interior security.
+~z~So, uhh, have any dye packs gone off in the bags?
+392
+OBHF_COAA
+~z~Mom told me this might happen.
+100
+~z~Let's get outta this alive.
+100
+100
+~z~Crowd control, you're on... crowd control.
+~z~Now they're dead, you d bag.
+1100100
+~z~I just wet myself.
+392010392
+OBHF_BXAD
+890
+~z~I've given you special carbines with suppressors - use them wisely.
+1100000
+1100100
+OBHF_DYAA
+1100100
+1100000
+OBHF_DFAA
+OBHF_EHAA
+890
+110010011000001100100
+~z~If you let the cops hit you, you're going to lose cash.
+1100100
+SFX_PAUSE_370
+OBHF_HFAE
+100
+OBHF_HFAD
+~z~The alarm's going.
+OBHF_DZAA
+100
+~z~Good. Almost there.
+~z~Should help put some road between you and those red and blues.
+~z~
+SFX_PAUSE_370
+~z~Remember, I need you together for this to work.
+~z~Are those bank robbers?
+SFX_PAUSE_150
+OBHF_FYAA
+~z~Now, this next bit is gonna sound crazy, but crazy's what gets you outta trouble.
+~z~Why'd you have to kill 'em?
+~z~No fucking way!
+~z~This is cray cray.
+1100000
+1100000
+1100000
+~z~Wow, they're really tearing into you!
+~z~Like I said, this is a big deal, people, don't fuck it up.
+100
+1100100
+392
+SFX_PAUSE_260
+OBHF_BWAB
+~z~I got a concealed carry.
+OBHF_BLAA
+~z~I get it.
+~z~I've sent a route to your GPS. It'll take you off road, away from the cops and towards our boat.
+890
+~z~Shit.
+890
+~z~Keep following your GPS, it'll take you through the forest, around the hills, toward the canyon.
+~z~Think about what you're doing.
+1100000
+~z~So, let's make it count, people. Move, before they figure out what happened.
+790
+1100100
+SFX_PAUSE_260
+OBHF_BUAC
+OBHF_ALAB
+890
+100
+SFX_PAUSE_250
+1100100
+~z~Anyone got any snacks?
+100
+392010392
+~z~You don't have to shoot that.
+~z~If this job had gone different, we'd be dealing with whole lot more cops.
+392
+~z~I should be acting cooler.
+100
+~z~You going down for homicide now!
+392
+OBHF_GNAA
+1100000
+~z~Alright, put your masks on when you get in the bank. Then, crowd control, you're on... well, crowd control.
+OBHF_FSAB
+OBHF_DOAA
+1100000
+~z~I wasn't doing anything!
+OBHF_AZAA
+392010392
+1100000
+SFX_PAUSE_240
+392
+~z~Alright, alright, I'm opening the vault.
+OBHF_BDAB
+100
+100
+~z~Soon as you're airborne, ditch your bikes, and start gliding.
+1100000
+~z~Oh wow. Oh wow.
+OBHF_ARAC
+OBHF_EUAA
+SFX_PAUSE_250
+100
+OBHF_DLAA
+110010011000001100100
+~z~You really had to kill 'em?
+~z~If someone falls off their bike, stop, go back and help 'em. You have to move as a group here.
+~z~This is what we've all been waiting for.
+100
+~z~Can you please ease up on them?
+110010011000001100100
+890
+A90
+OBHF_AEAC
+890
+~z~We'll come visit you in jail.
+~z~You guys are screwed now.
+SFX_PAUSE_300
+~z~Hacker, you're up. We've repackaged that other crew's hardware.
+100
+100
+~z~I don't want to get shot.
+~z~So, the smoother this job goes, the less work I'm going to have to do protecting you,
+890
+1100000
+1100000
+OBHF_BXAC
+1100000
+100
+100
+OBHF_GHAA
+OBHF_BVAA
+100
+~z~Only in Vinewood.
+100
+OBHF_AEAA
+~z~Can you move it, people?
+890
+SFX_PAUSE_250
+100
+OBHF_BBAD
+~z~Bored of the chasing and the shooting and everything, I mean,
+1100000
+~z~Oh crap, oh crap.
+~z~Someone's robbing the Pacific Standard.
+OBHF_GBAB
+1100000
+OBHF_DVAA
+100
+100
+1100000
+100
+392
+1100100
+1100000
+890
+890
+100
+OBHF_BGAK
+OBHF_BBAE
+100
+OBHF_FFAA
+OBHF_GFAB
+100
+11001001100000110010011000001100100
+100
+~z~Demolitions, hacker, your first job's to subdue the guards. Again, try and do it without killing them.
+~z~Charges are on a timer, keep that in mind.
+~z~It all comes round in the end.
+~z~You're almost out of time, this thing is over if you don't hit the schedule.
+890
+392
+~z~I think they're robbing us!
+~z~This ain't cool.
+~z~Robbery!
+392
+100
+~z~Please, okay, I'll open the vault door.
+~z~Then pull your parachute and get in the boat we've left for you in the river. That's your way out.
+SFX_PAUSE_350
+1100000
+OBHF_EBAA
+~z~ I'll do what you say.
+100
+OBHF_CMAA
+~z~Again, try not to kill the hostages. If this goes to shit, we'll need collateral.
+~z~You're wasting bullets, I get the point.
+OBHF_BGAL
+~z~They sticking it up!
+100
+890
+OBHF_CUAA
+~z~Do what you like to them, stay away from me!
+OBHF_GKAA
+~z~Shit. Shit.
+OBHF_EDAA
+890
+100
+890
+~z~They killed 'em.
+890
+100
+~z~We've left a dinghy at Raton Canyon - that's your exit plan. There's a route coming to your GPS now.
+100
+1100100
+OBHF_CAAA
+100
+100
+OBHF_BUAA
+SFX_PAUSE_190
+~z~Demolitions is through the first gate. Crowd control,
+SFX_PAUSE_250
+OBHF_ACAH
+392010392010392
+890
+OBHF_BTAA
+890
+~z~You don't want to hang around out there, follow the route as quick as you can.
+OBHF_CHAA
+1100100
+110010011000001100100110000011001001100100
+1100000
+~z~I didn't mean anything by it.
+~z~I've given you special carbines with suppressors - use them wisely.
+~z~My deposits are safe right?
+~z~Can we get some seats?
+392
+~z~You see that boat in the creek? That's where you're aiming.
+~z~You went through with it!
+SFX_PAUSE_240
+~z~I should Snapmatic this.
+OBHF_BFAC
+~z~I'm gonna take silence for the fact that you're cool. Alright. Let's do this.
+~z~I'm a cop.
+OBHF_EKAA
+1100000
+~z~You see the boat in the creek? That's where you're aiming.
+1100000
+SFX_PAUSE_290
+~z~Soon as you're airborne, ditch your bikes, and start gliding.
+~z~Damn, damn, damn.
+~z~Don't kill me.
+100
+1100000
+1100100110000011001001100000110010011001001100000110010011000001100100110000011001001100000110010011000001100100
+100
+~z~This ain't comfortable.
+OBHF_DUAA
+1100000
+~z~You coulda hit me!
+OBHF_ACAG
+1100000
+~z~Please stop.
+OBHF_FCAA
+OBHF_DDAA
+OBHF_FSAA
+110010011000001100100
+OBHF_BEAD
+392392010392010392010392010392392010392010392010392392010392
+OBHF_FVAA
+~z~We'll get some time off for this right?
+~z~Look out for me. I'm making a move.
+SFX_PAUSE_280
+~z~Remember to stay together.
+890
+OBHF_BBAK
+890
+1100000
+~z~We did it! Good work, people.
+1100000
+~z~Arghhh.
+100
+100
+~z~Oh my god. They're dead.
+100
+392010392
+100
+OBHF_BEAA
+OBHF_FBAA
+OBHF_AIAA
+~z~There're some freaks in Vinewood, but you don't want to draw attention.
+~z~the bigger the cut I'll be able to give you. Get on it.
+100
+~z~I should be at work.
+890
+~z~Response time is one minute.
+OBHF_BKAA
+OBHF_BBAH
+~z~You killed 'em!
+890
+392
+~z~If you missed you woulda hit me!
+~z~Keep going down the alley.
+100
+~z~Here come the cops.
+~z~They're dead, aren't they?
+890
+OBHF_CFAA
+1100000
+SFX_PAUSE_190
+~z~Don't shoot me!
+~z~I wouldn't wanna be you.
+110010011000001100100
+~z~Chill out!
+392010592010592010592592010592010592010592010592592010592010592
+392
+100
+~z~I'm gonna need you to stay together now.
+392010392
+~z~The guards are down? Okay, demolitions, blow the first gate.
+OBHF_HFAB
+1100000
+100
+~z~That's a felony homicide for all of you.
+SFX_PAUSE_230
+~z~the more your cut will be.
+OBHF_GPAA
+OBHF_EMAA
+~z~Now, further down the hill, take a right.
+100
+392010392
+~z~911 - The bank on Vinewood's getting robbed.
+~z~Don't shoot!
+~z~I'm cooperating!
+~z~They're dead!
+890
+110010011000001100100
+OBHF_CDAA
+~z~Murdering asshole.
+OBHF_AAAA
+100
+~z~Be gentle, okay?
+~z~then you gonna move on together.
+890
+890
+392
+100
+OBHF_BBAB
+OBHF_ALAA
+~z~I'll be a good boy.
+SFX_PAUSE_180
+SFX_PAUSE_330
+1100000
+OBHF_AWAA
+~z~The cops are on the way.
+~z~Those suits should protect you from some of those bullets, but they won't protect the score.
+OBHF_BEAC
+1100000
+100
+OBHF_BIAA
+OBHF_HEAA
+~z~only the thermal charges you got from the convoy will work on them.
+~z~Move in a pack if you can.
+890
+392
+SFX_PAUSE_160
+1100100
+~z~I don't wanna jinx it, but I think we just made Pacific Standard our bitch, people.
+11001001100000110010011000001100100
+OBHF_EFAA
+592
+100
+100
+1100100
+~z~Please, I don't wanna get shot.
+~z~They're dead!
+~z~They'll be coming in.
+~z~Like I said, this is a big deal, people, don't fuck it up.
+~z~Arghh.
+~z~You got to finish this quick. If you're not out of there in time, the job is blown.
+890
+~z~I like the way you operate.
+1100100
+~z~There's a lot of confused voices coming out my police scanner right now.
+1100000
+~z~This is messed up.
+OBHF_CRAA
+~z~Oh god.
+890
+OBHF_BJAB
+OBHF_FZAB
+392010392
+890
+~z~I don't like this.
+~z~Point proved.
+~z~This is getting kinda boring.
+100
+100
+~z~Shit, shit, shit.
+1100000
+OBHF_BGAM
+1100000
+890
+1100000
+100
+100
+~z~One day I'll learn to spot the psychos!
+~z~Demolitions, use the remaining thermal explosives on the titanium gates in the vault.
+~z~We're cool, alright?
+~z~You got to do this together, don't leave anyone behind.
+~z~Guess it's time to go.
+~z~It's a stick up!
+~z~The quicker you do the job, the less money I have to spend protecting you,
+~z~If you don't control the crowd, or you have to pop someone, this thing's gonna get a whole lot more difficult.
+100
+392010392
+OBHF_BGAG
+SFX_PAUSE_190
+~z~Don't let them back you in a corner. Come on.
+~z~Alright, now you're going across the road to the next alley.
+~z~Select each correct red character in order as they scroll through the center of the dial.
+100
+~z~Okay, now I need you to lock the door to the outside. You don't want cops in there with you.
+OBHF_ETAA
+OBHF_FQAG
+~z~Go. Go. We need crowd control managing hostages;
+100
+890
+~z~I've never seen a dead body before!
+OBHF_DQAA
+~z~Move and fire, move and fire, don't let them corner you.
+1100100
+~z~They got guns!
+1100100
+~z~It'll take you off road, away from the cops and towards our boat.
+~z~I need a glass of water.
+1100000
+100
+100
+392
+~z~Did you have a bad childhood?
+392010392
+OBHF_GJAA
+~z~Whoever gets there first, you got to hold position until the whole crew is there,
+SFX_PAUSE_330
+1100000
+~z~Run before the cops get here.
+~z~Are robberies usually this relaxed?
+~z~Okay. Now, regroup back on the main floor.
+~z~When that's done, go downstairs, and hit the vault.
+110010011000001100100
+100
+~z~I've left some weaponry behind in the Chiliad State Wilderness,
+890
+OBHF_AJAB
+~z~I think that should throw them off a minute.
+100
+OBHF_CBAA
+110010011000001100100
+~z~You wanna stick around to see what happens?
+~z~Why'd you do that?
+392
+1100000
+SFX_PAUSE_190
+1100100
+OBHF_AOAA
+392
+1100000
+OBHF_FQAB
+OBHF_GFAC
+OBHF_BVAC
+~z~It's a stick up. Be calm.
+890
+OBHF_BGAJ
+100
+~z~Have you gotta do that to them?
+~z~I'll do what you say.
+~z~Don't look back, just go. There's nothing good behind you.
+OBHF_FQAA
+SFX_PAUSE_290
+110010011000001100100
+890
+100
+~z~I don't believe this!
+~z~Get in their faces, shout at them, shoot near them if you have to.
+890
+~z~Now, wait on the rest of them.
+110010011000001100100
+~z~Someone help us.
+OBHF_BBAF
+~z~I don't wanna get shot!
+~z~Shit. You've pushed your luck. You took too long, more cops are on the way.
+100
+~z~One letter to go.
+100
+~z~Remember, the bikes have KERS. They store up energy to accelerate when you brake.
+100
+~z~You know when you'll have lots of time?
+~z~I don't like this.
+OBHF_ADAA
+100
+110010011000001100100
+100
+~z~What did I say about shooting at hostages? What did I say?
+~z~The pass was accepted - good.
+~z~I was nervous, then I was really nervous, then I was worried, then I was pulling my hair out,
+100
+1100100
+1100100
+OBHF_CXAA
+~z~Now they're dead.
+392
+OBHF_DGAA
+890
+11001001100000110010011000001100100
+~z~You're being majorly uncool.
+100
+1100000
+1100000
+SFX_PAUSE_170
+OBHF_BQAA
+392010392010392392010392010392010392010392010392
+~z~Okay. Now, this next bit is going to sound crazy, but crazy's often what gets you outta trouble.
+OBHF_GVAA
+~z~Just don't shoot us.
+100
+100
+1100000
+SFX_PAUSE_210
+OBHF_GYAA
+100
+100
+~z~Come out of the bank, take a left down Vinewood Boulevard, and duck down the alley to the right.
+100
+~z~You gonna pay for this!
+OBHF_BAAA
+~z~it's gonna help you with any cops still coming.
+1100100
+~z~You better for now. Get out of here!
+~z~Once you get over the intial shock, it's actually okay.
+SFX_PAUSE_200
+1100000
+~z~Head towards Raton Canyon.
+100
+OBHF_FTAA
+~z~How you doing? Come on, get in the boat and come out to sea.
+100
+OBHF_FLAA
+392010392010392010392
+~z~You know what? We might just be okay.
+1100000
+890
+OBHF_ARAB
+1100000
+OBHF_BBAJ
+~z~Now get out of here and don't hurt anyone.
+1100000
+~z~I mean, haven't these guys heard of alimony.
+~z~I'm no threat to you.
+392010392010392
+100
+392010392
+SFX_PAUSE_240
+~z~Make a play for the bikes. They're behind an apartment building up ahead.
+1100000
+1100000
+OBHF_DCAA
+~z~They're cool. Chill out.
+~z~You got my cooperation!
+~z~I've gotta get you all out of this at once, or I can't get you out at all.
+OBHF_BFAB
+SFX_PAUSE_270
+11001001100000110010011000001100100
+~z~You made your point!
+100
+~z~Do you think they're drug addicts?
+OBHF_DHAA
+OBHF_EVAA
+OBHF_EXAA
+111010011000001110100
+110010011000001100100
+100
+SFX_PAUSE_230
+~z~When that's done, go downstairs, and hit the vault.
+OBHF_FQAC
+SFX_PAUSE_140
+890
+1100000
+OBHF_CEAA
+SFX_PAUSE_300
+~z~Go easy on 'em!
+592
+1100000
+~z~LSPD, you're going down!
+1100100
+~z~Take a deep breath. You don't want this going wrong.
+~z~I hope you're proud, killer.
+~z~If there are dead bodies in there, you are going to suffer the consequences. I warned you!
+1100000
+OBHF_DXAA
+1100100
+OBHF_DKAA
+OBHF_GFAD
+~z~When you're put in jail for robbing a bank, and putting down a load of cops.
+1100100
+100
+110010011000001100100
+OBHF_FZAA
+~z~try and do it without killing them.
+OBHF_CFAB
+~z~Can you get it over with?
+111010011000001110100
+890
+110010011000001100100
+OBHF_DSAA
+890
+OBHF_BGAE
+~z~Did you mean to kill 'em?
+OBHF_BBAL
+100
+~z~Is there any need for that?
+1100000
+OBHF_DIAA
+~z~Whatever you say.
+100
+592
+392
+~z~Keep pushing. They're going to do their best to stop you.
+~z~You get away from the city, you get away from the cops.
+OBHF_GHAB
+100
+~z~That's it. The vault door is opening.
+~z~It's time you people left.
+~z~Look, you turned it into a murder beef.
+~z~Stick together. If you split up, we're screwed.
+100
+1100000
+100
+1100000
+890
+SFX_PAUSE_400
+~z~Sit this out, folks.
+~z~Come to think of it, a KERS boost just before you jump might be the best way to get away from the cliff.
+~z~How can I help?
+110010011000001100100
+OBHF_DNAA
+~z~These pricks.
+1100000
+OBHF_BSAA
+1100000
+SFX_PAUSE_250
+110010011000001100100
+890
+~z~Argh!
+~z~Crowd control, stay with the hostages. Make sure things don't get out of hand up there.
+100
+OBHF_ERAA
+OBHF_APAA
+OBHF_ECAA
+100
+~z~Did you just kill them? Great, now I'm gonna fry too!
+~z~Okay! Please!
+~z~If they wanted money, they could marry someone rich.
+890
+100
+SFX_PAUSE_230
+~z~Arghhh.
+OBHF_ESAA
+392
+~z~That's easy, right. Coming from a guy who walks with a cane.
+OBHF_BXAB
+~z~I'll take you on the best route, trying to keep you away from as many cops as I can.
+100
+OBHF_EAAA
+OBHF_GZAA
+1100100
+SFX_PAUSE_160
+~z~Have you had your medication?
+OBHF_BHAA
+100
+1100000
+OBHF_HFAA
+100
+OBHF_HGAA
+890
+~z~You're in charge.
+OBHF_FIAA
+1110100
+OBHF_GUAA
+~z~can you get there already please?
+~z~You hear that? That means the cops are coming.
+392
+OBHF_HCAA
+890
+OBHF_BCAA
+~z~They got the message!
+OBHF_EGAA
+392010392010392010392
+SFX_PAUSE_370
+~z~Of course, we're getting robbed.
+SFX_PAUSE_190
+100
+100
+OBHF_AFAA
+100
+890
+1100000
+~z~Hey, hey, I didn't mean it.
+OBHF_CZAA
+~z~You here to steal stuff or kill people?
+392
+890
+~z~Plug it into the access panel and get into the bank network.
+~z~Remember, the gates you're going through are a special alloy,
+~z~Demolitions, hacker, your first job's to subdue the guards. Again,
+~z~They're dead!
+100
+~z~There's such a thing as taking it too far!
+~z~Hey, hey, lower back pain ain't a joke.
+~z~Look what you did!
+392
+OBHF_BZAA
+~z~It's nearly over.
+110010011000001100100
+OBHF_AMAB
+100
+~z~I need you to stay together.
+100
+~z~Are you a pyscho or something?
+1100000
+100
+OBHF_EJAA
+~z~You're not going to lose the cops.
+890
+100
+~z~There's the alarm.
+~z~and they're all about to tear the ass out of the Chief of Police.
+OBHF_GCAA
+~z~Why are you doing this?
+1100000
+11001001100000110010011000001100100110010011000001100100110000011001001100000110010011000001100100
+OBHF_CNAA
+100
+100
+SFX_PAUSE_180
+1100100
+OBHF_BGAH
+1100000
+~z~But I'm not, I'm stuck in a hot room, worrying about you clowns and all my money.
+OBHF_FUAA
+1110100
+~z~Make it stop.
+100
+392010392
+~z~Why don't you let some of us go?
+~z~Let's go. Right now, the cops don't know what's happened.
+1100000
+~z~How they doing? My police scanner's reading a whole lotta confusion.
+~z~Screw this.
+100
+~z~Stay together or go a different way if you want, but this will be the safest route.
+OBHF_GRAA
+~z~Do not shoot me, alright.
+890
+OBHF_GEAA
+392010392010392392
+1100100
+OBHF_DRAA
+~z~Whatever you need.
+OBHF_FDAA
+100
+110010011000001100100
+SFX_PAUSE_250
+~z~It's too late, the alarm's been tripped.
+~z~It's so inconvenient.
+~z~But you don't need to worry about that, just get to Raton Canyon, I got a plan.
+100
+~z~Can we loosen up a little?
+~z~You know what, I might just have pulled this off. Maybe I am a genius after all.
+~z~Take all four, or they'll trace it back to us.
+SFX_PAUSE_620
+392
+OBHF_GBAA
+OBHF_AUAA
+890
+OBHF_FRAB
+OBHF_BGAD
+OBHF_BUAB
+OBHF_AJAA
+890
+392010392010392392010392010392010392010392
+~z~Just perfect.
+392
+392010392010392
+592
+~z~You think they're on tina? I need a hookup.
+~z~Get in the boat, come out to sea.
+OBHF_EZAA
+1100000
+OBHF_CKAA
+~z~You need to get together before you move.
+OBHF_BGAF
+~z~You all there? Okay, time to jump.
+OBHF_GFAA
+1100100
+1100100
+OBHF_DTAA
+~z~The Pacific Standard on Vinewood - the one we've all been waiting for.
+890
+1100000
+~z~You don't have time right now. Get out of there as quick as you can.
+100
+100
+392
+~z~We might make it outta here.
+OBHF_BPAA
+OBHF_FHAA
+~z~Pull your chutes!
+~z~When that's done, go downstairs, and hit the vault.
+~z~You don't have to shoot me.
+OBHF_BGAB
+~z~Demolitions, hacker, your first job's to subdue the guards. Again, try and do it without killing them.
+890
+OBHF_AQAA
+890
+OBHF_HFAG
+~z~Okay, I need you to come up into the hills.
+392010392
+100
+~z~Urghhh.
+1100000
+OBHF_HGAD
+~z~Don't hurt me.
+1100000
+100
+~z~I guess you weren't ready for a concerned civilian!
+OBHF_ARAA
+890
+OBHF_CPAA
+100
+~z~Okay, okay.
+~z~That way, at least it'd be over, and I'd know. But this not knowing, it's making me anxiety eat.
+OBHF_AFAB
+100
+OBHF_CLAA
+~z~Wait 'til the whole team is in the boat then head out into the ocean.
+392
+~z~How's this work? I'm a first time hostage.
+SFX_PAUSE_210
+100
+1100100
+100
+100
+SFX_PAUSE_180
+100
+392
+SFX_PAUSE_270
+890
+SFX_PAUSE_250
+100
+SFX_PAUSE_380
+~z~Go, go, go, go, go, go. Go!
+100
+OBHF_FEAA
+890
+~z~Who's in charge here?
+~z~Alright. Here we go - the one we've all been waiting for.
+~z~The program will expose each character of the password as it tries different encryptions.
+SFX_PAUSE_250
+1100000
+OBHF_GSAA
+1100000
+~z~I hope killing them made you feel better, 'cause it didn't do much for me! Idiots!
+1100100110000011001001100000110010011000001100100
+~z~L.S. Police Department. Stand down!
+~z~Try not to kill them, mind you. That wouldn't be cool.
+100
+~z~If they kill me, I'll sue.
+~z~Did you see that?
+100
+100
+OBHF_FQAD
+100
+~z~You hang around too long and you won't be able to get out.
+~z~If we give them what they want, we won't get hurt.
+~z~Hold there. Wait for the others.
+1100100
+1100000
+890
+SFX_PAUSE_260
+~z~Click My Computer, and access the External Device.
+~z~I got a bad back.
+1100000
+~z~But do not kill them in the process, more cops will show up if it's a massacre in there.
+~z~I've given you special carbines with suppressors - use them wisely.
+1100000
+100
+~z~It's you or them out there. Drop anyone in the way.
+100
+1100000
+890
+~z~Wah. Wah. Wah.
+OBHF_GTAA
+392010392
+OBHF_DPAA
+SFX_PAUSE_580
+~z~But that might change real soon.
+OBHF_BFAA
+SFX_PAUSE_260
+~z~The gates you're going through are a special alloy, only thermal charges will work on 'em.
+~z~Now, there's a second gate that'll get you access to the lower level. Blow it.
+OBHF_HGAC
+392
+1100000
+OBHF_BYAA
+592010592
+~z~You killed them, you psychotic fools!
+100
+~z~Hurry it up.
+OBHF_GLAA
+890
+OBHF_FQAH
+890
+1100100
+1100000
+SFX_PAUSE_240
+1100100
+890
+OBHF_CGAB
+~z~My arms are hurting.
+1100000
+~z~Be cool, it's just a robbery.
+~z~I'm reading you loud and clear.
+OBHF_BNAB
+SFX_PAUSE_250
+100
+~z~You'd know 'cause you'd be covered in paint.
+392010392
+OBHF_CJAA
+OBHF_GXAA
+1100100
+~z~I didn't do it, okay!
+1100100
+~z~You found the gun. Okay, hold position there until the whole crew's together.
+1100000
+110010011000001100100
+SFX_PAUSE_210
+OBHF_CGAA
+~z~We might be on the news.
+OBHF_AYAA
+~z~Regroup there, then move.
+392
+100
+OBHF_BOAA
+~z~For this to work you need to be in and out of there quick, you take too long and it's all over.
+OBHF_BGAA
+1100100
+891
+~z~Can you mellow out?
+SFX_PAUSE_280
+~z~We've left some body armour by the bikes if you need it. Grab and go, people. Grab and go.
+100
+~z~You outside the bank? Okay, put your masks on if you haven't already, and get ready to do this.
+OBHF_ELAA
+592
+392
+890
+~z~The interns are paying in my checks from now on.
+~z~It's over for you! This is the police!
+~z~I'm calling 911.
+100
+SFX_PAUSE_180
+100
+110010011000001100100
+~z~Please don't shoot me.
+OBHF_GQAA
+100
+890
+~z~Okay, I get it!
+OBHF_GAAB
+1100100
+OBHF_BBAG
+~z~demolitions and hacker, putting down guards.
+100
+OBHF_AXAA
+~z~The cops are coming.
+1100000
+~z~They'll be more cops on the way, get out of there.
+~z~then parachute down to a boat I left in the creek.
+392
+392
+~z~Why is it always me?
+~z~They've got guns!
+SFX_PAUSE_410
+100
+OBHF_BYAB
+890
+890
+~z~Hey, I get antsy when I don't eat.
+~z~I'm getting tired over here.
+~z~What did they do to you?
+~z~You don't have to be an asshole.
+110010011000001100100110000011001001100000110010011000001100100
+SFX_PAUSE_220
+OBHF_BDAA
+1100000
+100
+100
+OBHF_FJAA
+100
+~z~Crap.
+~z~You're coming up to a rickety old bridge, cross it, aim for the cliff, and drive right off.
+392010392
+~z~now I'm just bored.
+SFX_PAUSE_240
+890
+392
+392010392
+890
+OBHF_CTAA
+890
+1100000
+OBHF_FXAA
+~z~Whatever you want.
+100
+OBHF_BBAC
+392010392
+100
+100
+890
+~z~Guess the party's over guys.
+~z~LSPD, asshole! Freeze!
+592
+~z~You didn't have to do that.
+~z~I'm here alright. Hey. You driving up state?
+~z~Come on. Move.
+~z~If there's two of you on the bike, the passenger's gotta jump first, or you'll get stuck.
+~z~Let's do this. Play it cool, no masks until you're right outside the bank.
+OBHF_CQAA
+~z~Everyone be calm!
+100
+~z~Hey, I'm cool.
+~z~Now, launch BruteForce.exe.
+~z~You move as one, okay.
+~z~Call it, people. You really gotta go.
+1100000
+~z~We're getting held up!
+~z~Try not to kill them, mind you. That wouldn't be cool.
+SFX_PAUSE_220
+SFX_PAUSE_050
+~z~Stay in control. If they think you're weak, they might try something.
+392010390
+100
+~z~Get outta here. Run.
+~z~Is this like a joke?
+OBHF_BRAA
+100
+~z~I didn't do anything, okay?
+SFX_PAUSE_210
+OBHF_BRAB
+OBHF_GDAA
+100
+OBHF_GAAA
+OBHF_ABAA
+~z~Security's on the way.
+OBHF_FRAA
+~z~You don't want to get surrounded. Move. Move.
+1102000
+~z~I shoulda sent my assistant.
+~z~Don't take this the wrong way, but I kinda wish you'd been killed back there, or arrested.
+~z~I knew I shoulda e-banked.
+OBHF_GNAB
+100
+1100100
+OBHF_FOAA
+~z~Are you okay?
+890
+OBHF_AGAA

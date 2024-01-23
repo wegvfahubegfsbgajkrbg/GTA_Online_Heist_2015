@@ -1,0 +1,198 @@
+﻿592
+000
+MPBSE_ALAA
+1100100
+~z~If we don't get this equipment, it'll go into the hands of the terrorists, not thieves.
+492
+110010011000001100100
+11001001100000110010011000001100100110000011001001100000110010011000001100100
+592
+~z~You see it? The aircraft carrier. Prepare to board and make your way up to the flight deck.
+~z~but anything newer would rely on circuitry and get taken out by the pulse.
+110010011000001100100
+1100100
+1100100
+~z~Mayday, mayday, we are under attack.
+~z~Minimal interval take off now! They've got our Hydra.
+MPBSE_AUAA
+~z~Roger that. Zancudo Six will down the jet.
+MPBSE_AQAD
+000
+~z~They've got the Hydra. Scramble jets. Scramble jets.
+492
+MPBSE_AQAB
+MPBSE_AAAB
+~z~They've got the Hydra. Scramble jets. Scramble jets.
+~z~the schematics he provided, we've been able to draw up a plan with a high probability of success.
+MPBSE_AQAC
+MPBSE_ACAD
+MPBSE_AIAA
+110010011000001100100
+000
+~z~The crew leaked an inventory on the dark net - put everything up for sale, the bastards.
+~z~Bogey down.
+000
+000
+11001001100000110010011000001100100
+000
+~z~Enemy have the Hydra. We need friendlies airborne.
+000
+000
+~z~You're almost with us. Be careful landing the Hydra. Set it down gently.
+1100100
+492
+MPBSE_ARAE
+SFX_PAUSE_340
+MPBSE_ADAD
+MPBSE_ARAC
+MPBSE_AMAA
+1100100
+MPBSE_AQAA
+1100100
+592
+~z~How do we know it's on the ship?
+~z~Based on Rashkovsky's in-depth knowledge of the facility,
+MPBSE_AGAA
+SFX_PAUSE_510
+~z~Yeah, I know.... an Insurgent and an EMP are non-standard equipment for a raid like this.
+MPBSE_AEAC
+492010492
+000
+~z~These jets are four decades newer than the Hydra. Keep going.
+000
+MPBSE_ANAA
+MPBSE_AWAB
+SFX_PAUSE_310
+000
+492010492
+MPBSE_ASAA
+~z~There won't be an actual storm, according to my weather app,
+SFX_PAUSE_650
+1100100
+~z~Direct hit.
+1100100
+000
+~z~The switch on the stick swaps between vertical and horizontal jets.
+~z~but there'll probably be explosions and waves caused by things crashing into the sea.
+~z~When you find the Hydra with the EMP on it, bring it back to the base.
+SFX_PAUSE_200
+1100100
+492010492010492
+MPBSE_AEAA
+SFX_PAUSE_160
+~z~The Hydra's at the far end of the flight deck.
+SFX_PAUSE_160
+MPBSE_AVAA
+MPBSE_AQAE
+~z~Enemies are on the ship - all stations code red.
+1100100
+110010011000001100100110000011001001100000110010011000001100100
+~z~You know what an EMP is, right?
+~z~One more signal lost.
+492010492010492010492
+~z~You're almost with us. Be careful landing the Hydra.
+~z~Enjoy this moment of calm before the storm.
+~z~Enemy have the Hydra. We need friendlies airborne.
+SFX_PAUSE_250
+~z~but you have it in your hands now, and you're running down the aisles and filling up our cart.
+SFX_PAUSE_200
+592
+~z~You got one.
+100
+492010492
+~z~Clear skies. Bring the Hydra in, and we'll take a look at that EMP.
+~z~All stations, we have been boarded.
+SFX_PAUSE_220
+~z~It has vertical take-off and landing capabilities, so whoever's flying better know how to get airborne.
+000
+~z~Minimal interval take off now! They've got our Hydra.
+~z~Come on.
+000
+SFX_PAUSE_430
+SFX_PAUSE_400
+MPBSE_ACAC
+492
+SFX_PAUSE_270
+~z~The EMP is out at sea, but get over to El Burro Heights first.
+~z~This is not a drill. Code red emergency.
+1100000
+MPBSE_AFAA
+000
+~z~There's a boat there you can use as a tender.
+1100100
+492
+SFX_PAUSE_270
+~z~Down those jets before they down you. I am not pulling the EMP out your wreckage.
+SFX_PAUSE_370
+110010011000001100100
+MPBSE_ADAA
+000
+~z~It'll be uplifting but traumatic as well, so yeah... enjoy the calm.
+~z~You ready to board?
+~z~This is not a drill. Code red emergency.
+~z~One of you is flying the Hydra home, the rest - making sure it gets there.
+MPBSE_ARAB
+~z~Zancudo Six inbound. We'll get your plane.
+~z~Bring out the landing gear, and set it down gently. You will not be popular if you mess this up here.
+~z~All stations, we have been boarded.
+SFX_PAUSE_210
+~z~The human factor discounted. The drawback is the shopping list,
+~z~I got one less angry blip on my screen.
+MPBSE_ACAB
+692
+SFX_PAUSE_210
+000
+492
+~z~There's a supply room off the hangar bay, if you need to stock up.
+MPBSE_ADAB
+11001001100000110010011001001100000110010011000001100100
+~z~Code red, we have been compromised.
+~z~Mayday, mayday, we are under attack.
+492010492
+~z~Take the boat on a south-easterly bearing and you'll see the vessel you're boarding.
+~z~They're keeping it in a Hydra jump jet - forty year old technology,
+MPBSE_AHAA
+MPBSE_AOAA
+SFX_PAUSE_300
+~z~Hopefully not you, or the plane we're after. Only the bad guys will crash into the sea.
+MPBSE_ARAD
+492
+MPBSE_AIAB
+~z~An electro-magnetic pulse - goes off and fries all the electrics in the vicinity.
+MPBSE_ADAC
+MPBSE_APAA
+~z~Code red, we have been compromised.
+MPBSE_AJAA
+MPBSE_AAAA
+000
+492010492492010492010492
+MPBSE_ACAA
+MPBSE_AWAA
+MPBSE_ARAA
+492
+MPBSE_AKAA
+~z~Enemies are on the ship - all stations code red.
+SFX_PAUSE_270
+000
+000
+~z~Make your way through the hangar, and take some more stairs up to the flight deck.
+SFX_PAUSE_220
+MPBSE_ABAA
+MPBSE_AHAB
+SFX_PAUSE_210
+492
+~z~You're coming up on the boat. Everyone on board, head out to sea.
+MPBSE_ATAA
+000
+~z~They've put out a mayday signal. Keep pushing. Get to the jet.
+~z~Don't disappoint me.
+MPBSE_AEAB
+MPBSE_ARAF
+1100000
+~z~There are two ways into the hangar bay - one door in front of you and another up a flight of stairs.
+000
+MPBSE_ADAE
+492010492010492010492010492
+492010492010492010492010492010492
+1100100110000011001001100000110010011000001100100
+1100100

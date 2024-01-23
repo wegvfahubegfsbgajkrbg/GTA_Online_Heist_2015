@@ -1,0 +1,156 @@
+﻿~z~Thank you. Now, come on.
+~z~Okay, so, this grass you're taking, it belongs to the Ballas,
+SFX_PAUSE_150
+SFX_PAUSE_240
+~z~Come on. Get back here with the gun placement and my Kush already.
+NWE_ANAC
+100
+~z~And be careful, you don't wanna blow up the grass or that pickup Trevor wants.
+~z~Hey, look, I love a selfie much as the next guy, but some people...
+100
+SFX_PAUSE_340
+~z~Thank you, Ron. Be ready with this stuff from now on, okay?  Or there won't be much use for you.
+~z~What, you don't have the details now, Ron?
+~z~I hope those road blocks didn't slow you down. Ronald awaits.
+SFX_PAUSE_230
+~z~They coming after you? Come back to the warehouse and try and keep 'em off your tail.
+NWE_AVAB
+~z~and two of you going in on the ground.
+NWE_AOAD
+NWE_AUAJ
+~z~Look, I'm sorry about Ron. He gets nervous,
+NWE_AUAB
+~z~Ron's got something to say to you.
+1100100
+NWE_AOAF
+NWE_AVAA
+NWE_ATAD
+NWE_AXAA
+NWE_AUAI
+100
+100
+NWE_AOAC
+~z~There's pictures of them with heavy weapons on Snapmatic.
+~z~You'll have to go down the well like whatshisname, and you'll ruin the water supply for everyone.
+1100100
+~z~They'll be getting their idiotic people to block the road.
+~z~You almost at the sawmill? We need two of you on the hill, covering with long range weapons,
+NWE_AMAE
+NWE_ANAB
+100
+~z~Of course it's loud, Ron. Progress is loud.
+NWE_AUAD
+SFX_PAUSE_220
+100
+~z~You know how we knew?
+~z~It's meant to be serious, you know. And, well...
+100
+NWE_AMAF
+NWE_AMAD
+NWE_ANAA
+~z~There's pictures of them with weed and cash, too. That's why we're robbing the place.
+NWE_AMAB
+SFX_PAUSE_330
+~z~So, I'm gonna need you back here with this stuff in, erm, not very long. Move.
+SFX_PAUSE_380
+SFX_PAUSE_340
+NWE_AMAC
+100
+NWE_ASAB
+SFX_PAUSE_250
+292010292
+NWE_ARAA
+~z~two on the moving gun placement.
+NWE_APAA
+SFX_PAUSE_350
+~z~Remember two of you are getting in the vans, and two are getting in that pickup with the gun.
+NWE_AOAB
+NWE_ASAC
+SFX_PAUSE_240
+~z~from Davis in Los Santos. We're hearing all kinds of rumors about the operation they got out there.
+11001001100000110010011000001100100
+NWE_AUAC
+SFX_PAUSE_200
+NWE_AMAI
+292010292010292010202010292010292292010292010292010292
+592
+SFX_PAUSE_240
+NWE_ATAB
+~z~and he wants you to get it for him.
+~z~Trevor's heard they got this big machine gun mounted on the bed of a pickup truck,
+NWE_AUAF
+100
+110010011000001100100110000011001001100000110010011000001100100110000011001001100100110000011001001100000110010011000001100100
+SFX_PAUSE_200
+1100100
+~z~The investor's capital for human capital. And yours ain't worth very much.
+1100100110000011001001100000110010011000001100100110000011001001100100
+NWE_AOAE
+~z~'Cause you never know who's watching. Well, you do.
+~z~How you doing down there? It sounds loud.
+NWE_AWAA
+SFX_PAUSE_170
+292010592010592010592592592010592010292010292
+NWE_ATAC
+SFX_PAUSE_270
+NWE_ATAF
+292
+NWE_AUAH
+SFX_PAUSE_280
+NWE_AMAH
+~z~Thank fuck this Series A funding is mostly gonna be stolen.
+~z~On your way out, I'd let the pickup go in front, so it can shoot back and protect the score.
+11001001100000110010011000001100100
+~z~Okay, so, uhhh, go up to Paleto Forest, and I'll come back with some details.
+NWE_AMAA
+100
+~z~it's all about the people, Ron.
+NWE_AUAG
+592010592010292010292010292292
+NWE_ATAA
+292010292010292292010292010292
+592
+~z~Power through them and get back to Ron.
+592010592010592
+SFX_PAUSE_230
+100
+NWE_AMAG
+~z~I'm always watching... and when I see something interesting, I come get it.
+NWE_AUAA
+1100100110000011001001100000110010011001001100000110010011000001100100
+100
+~z~Ron! You got anything else for 'em?
+1100100
+~z~How's it looking? You lost 'em, right? Bring it in.
+NWE_ASAA
+SFX_PAUSE_230
+~z~they overshare. There's a lesson to be learned about social media responsibility, okay?
+NWE_ALAA
+100
+SFX_PAUSE_250
+592
+SFX_PAUSE_270
+~z~We're trying to raise money for this venture, we don't have much in the way of assets...
+SFX_PAUSE_430
+SFX_PAUSE_280
+292010592010292
+SFX_PAUSE_220
+~z~Check your friends list. Monitor your privacy settings. Don't geotag!
+NWE_ATAE
+NWE_AOAA
+SFX_PAUSE_320
+592
+SFX_PAUSE_200
+~z~I'm hearing they set up road blocks. Get that gun on the pick-up pointed front if it ain't already.
+110010011000001100100
+292
+1100100
+110010011000001100100110000011001001100000110010011001001100100110000011001001100000110010011000001100100
+1100100
+~z~The guys - they're coming after you, and they're well-armed. We knew this.
+NWE_AQAA
+~z~I figure you're the experts on that kind of thing, so I'll just leave it with you.
+~z~How's that make us look? Not very professional, pal.
+NWE_AUAE
+SFX_PAUSE_180
+~z~asks too many questions. Just do your thing. Well, long as your thing is two on the vans,

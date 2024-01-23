@@ -1,0 +1,328 @@
+﻿NTT_AJAX
+NTT_AJAO
+1100100
+~z~Get the last of the trash and come to the warehouse under the LS Freeway.
+NTT_AJAW
+~z~Welcome, welcome!
+110010011000001100100
+1100100
+NTT_AJAJ
+~z~Recyclers, yeah we think very green,
+1100100
+NTT_AJBB
+110010011000001100100
+NTT_AJBN
+NTT_AJAY
+~z~I don't know what's wrong, but you gotta deal with these guys here.
+1100100
+NTT_AJAC
+NTT_AUAB
+292
+NTT_AJBA
+NTT_AJAD
+NTT_BFAA
+~z~Have... have you met Ron? Have you?
+~z~Is it clear? Alright. We're cool.
+100
+100
+100
+1100100
+SFX_PAUSE_330
+~z~Hey! Hey! Ron's about to start talking to you.
+NTT_BOAA
+~z~Starts nice and early, when you're probably still up and wired enough to work.
+~z~Well, maybe I'd found a use for him before he got thrown out and that was part of the reason it happened.
+NTT_BEAB
+592010592
+100
+100
+NTT_AJAR
+~z~This isn't going well, is it?
+100
+~z~And that is what all of you will be doing.
+NTT_ALAE
+292010292010592010592
+~z~Ah, now haven't we met already, huh?
+NTT_AMAA
+~z~So, there we have it, we're gonna get the meds,
+100
+SFX_PAUSE_170
+NTT_AWAA
+1100100
+~z~Welcome aboard.
+NTT_BDAG
+NTT_AMAB
+NTT_BRAB
+110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000
+NTT_AYAA
+100
+SFX_PAUSE_170
+SFX_OVERLAP_3830
+~z~Now first off, Ron!
+~z~And, you know, people throw out the weirdest things.
+~z~There's going to be quite a few of them, you know, so get ready for a fight.
+~z~They coming after you? Come back to the warehouse and try and keep 'em off your tail.
+NTT_AJAV
+NTT_BDAF
+~z~Oh, welcome...
+~z~We will be borrowing a couple bricks of cocaine
+NTT_AJBD
+~z~Being a trash collector's a good job, you know.
+592
+592010592
+SFX_PAUSE_220
+NTT_AJAG
+~z~You got it? And it's all cool? No one around?
+NTT_AQAA
+NTT_ALAD
+292
+100
+~z~Congratulations, huh?
+~z~How's it looking? You lost 'em, right? Bring it in.
+NTT_AYAB
+592
+~z~aboard, hmm.
+SFX_PAUSE_270
+~z~from some juiced up frat boys on a yacht off the coast.
+NTT_BEAA
+SFX_PAUSE_200
+SFX_PAUSE_450
+NTT_AJBG
+1100100
+NTT_BKAA
+292
+110010011000001100100110000011001001100000110010011000001100100
+NTT_BJAA
+1100100
+~z~Alright, third collection is at a gas station on Supply Street.
+~z~Okay, collect the bags, and throw them in the compactor, and move onto the next one.
+~z~Either way, it doesn't matter.
+~z~I am not a drug dealer.
+NTT_AKAD
+100
+100
+SFX_PAUSE_330
+NTT_ASAA
+~z~Are you alright? The final pickup's in an alley off Vespucci Boulevard.
+110010011000001100100
+NTT_AZAB
+NTT_AWAB
+NTT_AJBH
+NTT_BDAI
+~z~You told them they can shoot when they're hanging off the back of the truck, Ron?
+~z~We might be through the worst of it... maybe.
+~z~You all now have jobs in a startup.
+1100100
+NTT_BDAH
+~z~Drop these guys already.
+~z~This all seems like it's going to plan... right? Pick 'em up and move on.
+~z~If I was sticking up a drug gang, that might be the kinda thing I'd like to know, you know.
+100
+NTT_ALAC
+NTT_BLAA
+SFX_PAUSE_330
+NTT_AKAB
+NTT_AJBL
+~z~Get us those bags, alright.
+592010592
+~z~This is it...
+NTT_AJBM
+NTT_AJAZ
+~z~I don't have a good feeling about this.
+NTT_ALAB
+SFX_PAUSE_350
+1100100
+~z~You okay? You got two pickups left. Next one is at a gas station on Supply Street.
+110010011000001100100110000011001001100100110000011001001100000110010011000001100100110000011001001100000110010011000001100100
+100
+~z~The last pickup's in an alley off Vespucci Boulevard.
+NTT_BAAA
+~z~Let's hope back there was an isolated incident. Now pick up these bags and let's move on.
+100
+SFX_PAUSE_320
+NTT_AKAA
+SFX_PAUSE_310
+SFX_PAUSE_300
+100
+100
+110010011000001100100
+NTT_APAA
+~z~Get over to the recycling center on Alta Street in Chamberlain Hills.
+~z~Trevor Philips Industries.
+NTT_AJAK
+592010592
+NTT_BDAC
+592
+SFX_PAUSE_260
+NTT_AUAA
+110010011000001100100
+~z~Get rid of 'em and bring the product to Ron at the warehouse.
+292
+NTT_BDAA
+~z~Oh crap! They're onto you, they were watching the stash at the gas station!
+100
+SFX_PAUSE_190
+NTT_AJAU
+~z~Oh yeah, so, the trash truck gets used by the Vagos for their collection runs.
+~z~Your second collection's on Capital Boulevard.
+NTT_AJAS
+1100100
+~z~we take the drugs that already exist in America and we add value to their supply chain.
+~z~The security guards are their people, so I'd, ummm...
+SFX_PAUSE_340
+NTT_BCAA
+~z~Take 'em out before you take the truck, alright?
+1100100
+292
+~z~We still good? Next stop's an alley off Vespucci Boulevard.
+592
+110010011000001100100
+1100100
+592
+110010011000001100100
+NTT_AJAP
+~z~How's it look? Kinda latino and angry?
+110010011000001100100
+292010292
+NTT_BDAD
+NTT_ALAA
+SFX_PAUSE_190
+~z~the cocai- Ah, fucking whatever!
+1100100110000011001001100000110010011000001100100
+592010592
+~z~Look out, okay? They might know the trash truck's not theirs.
+NTT_AJAE
+1100100
+NTT_AQAB
+592
+100
+SFX_PAUSE_280
+~z~They're all over you aren't they? Well get rid of those assholes, or just lose 'em before you come back to me.
+100
+~z~She's a drug prohibitionist, Ron.
+292
+100
+100
+~z~Then, we're gonna be...
+~z~Hi there!
+NTT_BNAA
+592
+100
+100
+010592010592
+292
+592
+1100100
+NTT_BQAA
+100
+SFX_PAUSE_240
+NTT_AKAC
+592010592
+~z~Welcome, welcome, so glad you could make it!
+~z~you're gonna bring it to Ron and then we're gonna fucking get moving.
+~z~Grab the bags and look out for any more of 'em.
+~z~Who'd figure, the Vagos are here. You know what to do.
+100
+NTT_BBAA
+SFX_PAUSE_230
+NTT_AVAA
+~z~Oh, and then we're gonna take their meds, that they have stashed...
+SFX_PAUSE_260
+~z~They're stashing molly pills in trash bags. Pick 'em up like you're on a normal trash collection run.
+~z~I guess they knew. Drop these guys and move on.
+~z~She's on the wrong side of history - but let's not sweat the details.
+SFX_PAUSE_1000
+~z~Your second collection's in an alley off Vespucci Boulevard.
+NTT_BHAA
+1100100
+NTT_ARAA
+100
+~z~Ron! Ron! Time to work, you lazy schlub. Hold on, here he is.
+NTT_AJBI
+~z~How's my trash truck? You gotta take it to the gas station on Supply Street for the final collect.
+SFX_PAUSE_210
+292
+~z~We alright? Alright. Your next stop's on Capital Boulevard.
+100
+SFX_PAUSE_290
+NTT_AZAA
+592010592592
+NTT_AXAA
+NTT_ANAA
+592010592
+NTT_AJBF
+~z~or we could the pills, the meds,
+100
+~z~Like Ron here, he got thrown out by his wife... left in the street.
+NTT_AJBC
+100
+NTT_BBAB
+~z~in something.
+100
+~z~Hi there!
+592
+~z~Then we are gonna beat the Vagos to their supply of molly pills.
+NTT_BDAE
+NTT_AJAI
+~z~You haven't seen any Vagos, have you? I'm getting kinda nervous.
+1100100
+NTT_BCAB
+NTT_ATAA
+592
+100
+~z~The Vagos are on you.
+100
+~z~You got the truck? Okay. Our first collection is on Forum Drive.
+~z~Hey, you, ahh, you picking up that trash truck right?
+100
+NTT_AJAF
+~z~So, you don't have to be a genius to know there might be some guys here too.
+~z~Tell 'em Ron.
+292
+SFX_PAUSE_280
+NTT_BCAC
+~z~Now, our guys do pick up in trash trucks, and so are you.
+1100000110010011000001100100
+NTT_BDAJ
+1100100
+1100100
+1100100110000011001001100100
+NTT_BDAB
+~z~Oh crap. They're onto you already.
+~z~You're gonna get it,
+100
+110010011000001100100
+SFX_PAUSE_290
+~z~Status report - are we still in this? Second collection's on Capital Boulevard, if you can get there.
+NTT_AJBK
+~z~I am not a pusher.
+NTT_BIAA
+100
+~z~we're gonna get the pills, we're gonna get the cocaine,
+292010592010592010292010292
+~z~You gotta fight these guys.
+NTT_BMAA
+NTT_BGAA
+~z~I'm so glad you could make it, now let's go.
+NTT_BPAA
+~z~More of 'em! They were watching that stash too!
+NTT_AOAA
+NTT_AJAT
+1100100
+NTT_AJBO
+292
+292010292010292292010292010292010292010292010292010292
+NTT_ASAB
+NTT_AJAB
+NTT_AJBJ
+292010292
+~z~Alright, now second collection's on Capital Boulevard.
+~z~How do they know already? You got to drop these guys.
+~z~Yeah, we're... we're locavores, huh?
+NTT_BRAA
+NTT_AJAA
+~z~No one's gonna search you when you're carrying round a dripping bag of mystery meat.
+NTT_AJBE
+~z~Then I picked him up and found a use for him.
+190190190190190190190190190190190190190190190190190190190190190190190190190190190190190190190190190190190190
+~z~sneaking in to the backyard of the Lost MCs.

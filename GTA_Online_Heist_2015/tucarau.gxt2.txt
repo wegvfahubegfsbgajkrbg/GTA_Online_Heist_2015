@@ -1,0 +1,143 @@
+﻿392010392
+~z~How's it driving?
+TUCAR_AAAD
+TUCAR_AAAC
+TUCAR_AKAC
+SFX_PAUSE_240
+~z~Now get it back in one piece and I'll shut up about it.
+~z~I'll be here to talk you through all these jobs.
+~z~They're meant to be on the top level of this garage on the north side.
+~z~If the exhaust on that car is dragging along the road, that's on you.
+SFX_PAUSE_190
+TUCAR_ABAA
+TUCAR_AIAB
+TUCAR_AGAA
+SFX_PAUSE_370
+TUCAR_AKAA
+TUCAR_ADAC
+SFX_PAUSE_280
+110010011000001100100110000011001001100000110010011000001100100
+SFX_PAUSE_280
+100
+~z~What we got here? Ah, yeah, the car. Okay.
+SFX_PAUSE_210
+SFX_PAUSE_240
+~z~So, I see two ways of doing it - you go up the north ramps and hit 'em hard and quick.
+~z~What we got here? Ah, yeah, the car.
+TUCAR_ADAA
+TUCAR_ADAD
+~z~You're on the way to Port City.
+392010392392010392010392010392
+392
+~z~It's got muscle, traction, light weight armor that shouldn't compromise performance,
+SFX_PAUSE_390
+TUCAR_AHAC
+TUCAR_AHAB
+392010392010392010392010392
+SFX_PAUSE_340
+392010392010392010392010392
+TUCAR_AKAB
+SFX_PAUSE_200
+SFX_PAUSE_230
+1100100110000011001001100100110000011001001100000110010011000001100100
+~z~Ok, I'll be here to talk you through all these jobs.
+SFX_PAUSE_210
+TUCAR_AIAC
+~z~Eh, you can do it however you like, as long as you get it done.
+TUCAR_AKAD
+~z~Come to think of it, you won't find a bulletproof car in the hands of anyone who doesn't have a healthy dose of paranoia.
+~z~A Koreatown stickup crew's been using the Walker Logistics Warehouse as a base for scores.
+392
+~z~this is the one for us.
+1100100110000011001001100000110010011000001100100
+TUCAR_AIAD
+1100100
+~z~You almost there? Remember, you can do this however you like as long as you're careful.
+TUCAR_AIAE
+TUCAR_AHAA
+SFX_PAUSE_440
+~z~Hello. Can you hear me?
+100
+~z~So be careful.
+1100100
+110010011000001100100110000011001001100000110010011000001100100
+SFX_PAUSE_330
+TUCAR_AEAB
+100
+TUCAR_ADAF
+100
+110010011000001100100110000011001001100000110010011000001100100
+~z~and some mini major robberies.
+SFX_PAUSE_220
+110010011000001100100
+~z~If you're not careful, they'll clock you, and then you won't get any choice how this is going down.
+392010392010392010392010392
+TUCAR_AIAA
+~z~And, oh yeah, we don't want anyone looking for you, so put on masks before saying "hi".
+TUCAR_AAAB
+~z~Now drop any cops or gangsters or whoever you've got coming after you, and bring it to my garment factory.
+100
+TUCAR_ADAB
+SFX_PAUSE_200
+~z~but you gotta be very fucking dumb to let the cops catch you in one of these.
+TUCAR_ALAA
+100
+100
+392010392010392010392010392
+100
+~z~I'd expect them to be packing and I'd expect them to be paranoid.
+~z~Or you go up the south ramps, get in position, and try to get the drop on them from cover.
+SFX_PAUSE_240
+TUCAR_AAAA
+SFX_PAUSE_240
+1100100
+~z~If you think you can get away from the cops in a wrecked car, then go ahead - trash it, sure.
+~z~I don't want to call this an idiot-proof heist car, I mean there's no limit to some people's stupidity,
+SFX_PAUSE_170
+TUCAR_AJAE
+TUCAR_AFAA
+SFX_PAUSE_240
+110010011000001100100110000011001001100000110010011000001100100
+TUCAR_ACAB
+SFX_PAUSE_200
+~z~A getaway car has to be able to, you know, get away. So look after it please.
+~z~Oh, what have we got here? Oh, yeah, the car. Okay.
+~z~Hello. Can you hear me?
+TUCAR_ABAB
+TUCAR_AJAD
+TUCAR_AJAA
+110010011000001100100
+TUCAR_AAAE
+~z~This score is coming together.
+SFX_PAUSE_130
+392010392
+392010392010392010392
+100
+~z~They're into extortion, credit fraud, stolen cars,
+~z~And try not to damage the car too much. You can't rob a bank in a wrecked car.
+TUCAR_AHAD
+~z~You're on the way to Del Perro.
+~z~I'll be here to talk you through all these jobs.
+100
+110010011000001100100
+TUCAR_AEAA
+~z~How you doing? Paige's going to meet you under the bridge near the factory.
+392
+~z~A Koreatown stickup crew's been using the San Andreas Parking Counsel as a base for scores.
+100
+TUCAR_AJAB
+~z~You remember what I said about car damage? Good.
+SFX_PAUSE_370
+~z~A Koreatown stickup crew's been using a parking lot as a base for scores.
+SFX_PAUSE_200
+TUCAR_ADAE
+100
+~z~You got the car?
+SFX_PAUSE_170
+SFX_PAUSE_380
+~z~Hello. Can you hear me?
+TUCAR_AHAE
+392010392
+TUCAR_AJAC
+TUCAR_ACAA
+~z~Okay. You're on the way to Pillbox Hill.

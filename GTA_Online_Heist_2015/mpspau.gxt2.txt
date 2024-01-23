@@ -1,0 +1,277 @@
+﻿MPSP_ATAA
+SFX_PAUSE_250
+~z~I've transferred control of the cameras over to you.
+~z~And it's out there bombing orphanages instead of sitting in moth balls appreciating in value.
+MPSP_AWAA
+~z~You're doing well. Keep it up.
+SFX_PAUSE_300
+~z~it shouldn't be flagged as suspicious. 'Til it's too late, that is.
+SFX_PAUSE_300
+SFX_PAUSE_220
+SFX_PAUSE_230
+492010492010492
+SFX_PAUSE_130
+~z~You should think of this as a dress rehearsal.
+~z~We've hacked in and put the CCTV on a loop.
+~z~Do not approach the lab until everyone is in position, and I'm able to break into the network.
+100
+11001001100000110010011000001100100
+MPSP_AZAC
+MPSP_AJAD
+~z~Standard procedure for a gang of no good criminals like us, I'm sure, but I thought worth a mention.
+11001001100000110010011000001100100
+~z~'Hey man whose name we don't know, if we're breaking into the lab now, why don't we just go for the target?'
+MPSP_BAAB
+1100100110000011001001100000110010011000001100100110000011001001100100
+~z~but you only need to drop them if they're in the way.
+~z~You need to get the Insurgent across the facility to an empty loading bay.
+~z~to the bay at the rear of the facility. Clear a path to the bay.
+492
+492
+MPSP_AIAA
+492010492010492010492492010492010492
+~z~You only need to take out the guards in your way.
+MPSP_AZAB
+100
+~z~Alright, good luck, get to work.
+~z~It's where the EMP will do the most damage, and where it's least likely to be discovered.
+SFX_PAUSE_230
+100
+MPSP_AOAH
+SFX_PAUSE_180
+100
+100
+~z~Obviously, this is a malware style attack, so we need to get the Trojan in without it being identified.
+MPSP_AJAA
+100
+MPSP_AMAA
+1100100
+~z~You're getting a feel for the props, the stage will be set, you're working with the other actors.
+MPSP_ANAE
+MPSP_AOAD
+11001001100000110010011000001100100
+MPSP_AJAG
+110010011000001100100
+492010492010492
+MPSP_AOAC
+~z~You see the EMP glowing in the trunk - that's our payload.
+100
+SFX_PAUSE_220
+492010492
+100
+MPSP_ARAB
+1100100
+~z~Look out for their sight lines, and take them out in pairs if you have to...
+MPSP_BKAA
+SFX_PAUSE_290
+MPSP_BCAA
+492
+100
+1100100
+~z~The bay is near the main switchboard for the facility, and its primary generator.
+~z~Alright, let's get the EMP in the LAPV to HLaR.
+~z~Hold off.
+MPSP_ANAC
+492
+100
+~z~The guards'll raise the alarm if they see anything suspicious.
+~z~You'll be happy to know we got a good price for the Hydra.
+100
+SFX_PAUSE_250
+MPSP_AYAD
+MPSP_AKAA
+100
+492
+SFX_PAUSE_230
+492
+MPSP_BAAA
+110010011000001100100
+~z~It's a genuine Merryweather Insurgent, with no obvious signs of tampering, so once it's in place,
+492
+~z~It won't be stable for long, so you'll have to move quick.
+MPSP_ALAB
+~z~Alright. The malware's installed. Pull out.
+MPSP_AYAB
+~z~Only, this is the kind of dress rehearsal where if you screw up you die.
+~z~It's like the night before Christmas, or the morning before a test.
+MPSP_ANAA
+100
+~z~If the alarm goes, we're blown.
+MPSP_AYAA
+1100100
+~z~There are ten Merryweather guards between you and the bay.
+492
+MPSP_AJAB
+492010492010492010492010492492
+SFX_PAUSE_190
+~z~Get familiar with your surroundings. You'll be back here soon.
+100
+MPSP_AVAA
+~z~That jet's a collector's item. Real nostalgic appeal.
+MPSP_BLAB
+SFX_PAUSE_160
+MPSP_AOAB
+MPSP_AWAB
+MPSP_BLAF
+MPSP_BEAA
+110010011000001100100
+492
+~z~Let me show you. I'm sending you the live feed.
+492010492010492
+MPSP_BFAA
+~z~Visualize your goal. Let's do this.
+SFX_PAUSE_280
+SFX_PAUSE_240
+1100100
+SFX_PAUSE_250
+492
+~z~and the higher are our chances of a successful mission.
+MPSP_AJAE
+492
+1100100
+MPSP_APAA
+SFX_PAUSE_240
+492
+492010492010492010492010492010492
+~z~We've hacked in and put the CCTV on a loop.
+~z~Either Merryweather will kill you, or I will kill you for shitting on my carefully constructed plan.
+492
+MPSP_BLAE
+~z~The anticipation is killing me. So I guess we're all in danger.
+1100100
+SFX_PAUSE_230
+1100100
+MPSP_BLAC
+~z~Stay quiet. Keep moving.
+~z~I just hope it gets used for what it was built for, you know?
+110010011000001100100
+SFX_PAUSE_310
+100
+1100100
+11001001100000110010011000001100100110000011001001100000110010011000001100100
+SFX_PAUSE_260
+SFX_PAUSE_400
+100
+492010492
+MPSP_AJAC
+~z~So here's hoping he's not just rolling it out for air shows.
+MPSP_ANAB
+100
+1100100
+MPSP_BAAC
+~z~Concentration is key people. Take an amphetamine if you have one.
+110010011000001100100
+SFX_PAUSE_260
+MPSP_ALAA
+SFX_PAUSE_220
+MPSP_AOAF
+MPSP_AYAF
+MPSP_AIAB
+100
+~z~Get familiar with your surroundings. You'll be back here soon.
+~z~You're doing well. Keep it up.
+110010011000001100100110000011001001100000110010011001001100000110010011000001100100
+MPSP_AQAA
+SFX_PAUSE_270
+~z~It won't be stable for long, so you'll have to move quick.
+~z~Yeah, I got a degree... in prison.
+MPSP_ASAA
+MPSP_AXAB
+~z~Everyone, in the Insurgent, and get over to Humane Labs.
+~z~The more damage the EMP does, the longer the lights will be out,
+MPSP_AMAE
+MPSP_BGAA
+SFX_PAUSE_240
+1100100
+~z~but you only need to drop them if they're in the way. The aim is to get the Insurgent
+MPSP_AYAE
+MPSP_ARAA
+MPSP_BJAB
+SFX_PAUSE_220
+492010492
+SFX_PAUSE_310
+492010492
+1100100110000011001001100000110010011000001100100
+MPSP_ANAD
+~z~The buyer does have a questionable human rights record, mind you.
+MPSP_AUAA
+MPSP_BHAA
+100
+~z~Can you do this?
+MPSP_AXAA
+SFX_PAUSE_260
+~z~There are ten Merryweather guards between you and the bay.
+MPSP_BJAC
+100
+MPSP_BJAA
+SFX_PAUSE_240
+MPSP_AYAC
+SFX_PAUSE_310
+11001001100000110010011000001100100
+492010492492010492010492010492010492
+100
+1100100
+100
+MPSP_AZAA
+~z~The LAPV's still at the safe house on North Calafia.
+MPSP_AJAF
+SFX_PAUSE_330
+~z~Only the guys between the gate and the garage are mission critical, but I like your thinking.
+SFX_PAUSE_220
+SFX_PAUSE_160
+100
+~z~The rest is up to you.
+~z~Because you'll die.
+100
+492010492010492010492010492
+~z~Go to work on it.
+100
+~z~We don't have very long, so scan the area quick and make sure you know where the guards are.
+~z~Okay, hurry it up. We just lost connection, they're seeing live images on the security feed.
+~z~Your time is almost up. Only a couple minutes left to mission complete.
+~z~There's a Merryweather team inbound. They have no reason to suspect you. Do not engage.
+MPSP_BDAB
+100
+SFX_PAUSE_240
+~z~Visualize your goal. Let's do this.
+1100100
+MPSP_BDAA
+MPSP_AXAD
+492010492010492
+492010492010492010492
+SFX_PAUSE_290
+100
+492010492
+110010011000001100100110010011000001100100110000011001001100000110010011000001100100
+1100100
+492
+~z~There are multiple Merryweather guards between you and the bay.
+MPSP_AOAE
+SFX_PAUSE_290
+~z~If the alarm goes, we're blown. Look out for their sight lines, and take them out in pairs if you have to...
+MPSP_BBAA
+~z~You're approaching the target. Pull up outside, and we'll talk logistics.
+~z~Concentration is key people. Take an amphetamine if you have one.
+~z~You'll need to hack the security panel to get the Insurgent into the bay.
+MPSP_BIAA
+SFX_PAUSE_160
+~z~You see, the guards'll raise the alarm if they see anything suspicious.
+~z~This is almost my favorite part of the process. Putting on the finishing touches.
+1100100
+100
+~z~We're providing you with supressed firearms to make minimum noise impact when dealing with guards.
+~z~The aim is to get the Insurgent to this bay at the rear of the facility. Clear a path to the bay.
+MPSP_BLAA
+SFX_PAUSE_130
+492
+MPSP_AXAC
+~z~The guards on the gate are down. You're clear to move into the facility.
+110010011000001100100110000011001001100000110010011000001100100
+MPSP_BLAD
+~z~Stay quiet. Keep moving.
+~z~Let me show you - I'm sending you the live feed.
+100
+MPSP_AOAA
+100
+MPSP_AMAD
+~z~If there are guards in each others' sight lines, you'll need to coordinate your take downs.

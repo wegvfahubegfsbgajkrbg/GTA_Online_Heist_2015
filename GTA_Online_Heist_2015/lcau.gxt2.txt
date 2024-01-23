@@ -1,0 +1,188 @@
+﻿~z~That wasn't you, was it? Bolingbroke? You know how I said I didn't want to touch that job with a ten foot barge pole?
+~z~Hey, long time. That last thing I put you onto, that was nothing to do with me, remember. But...
+LC_AQAC
+LC_ABAA
+~z~He's going to stop by again soon.
+~z~A friend of mine wanted to meet the best heist team in Los Santos.
+LC_AOAB
+392010392010392
+SFX_PAUSE_210
+100
+100
+11000011100001
+~z~They'll come to your apartment when you're good.
+SFX_PAUSE_240
+~z~Are you ready? I'm ready. So when you're ready, I'll come to your house and we can get started.
+SFX_PAUSE_230
+110000111000001100001110000011000011100001
+1100001
+~z~I thought I could email you some intel on a job. It's all encrypted, so don't worry about anyone prying.
+LC_AKAA
+392010392010392010392
+1100001110000011000011100000110000111000001100001
+392010392010392010392392
+~z~I'll be back in touch if there's more work down the road.
+LC_APAB
+~z~I need a little time. Anyway, I got a request... through the ether, so to speak.
+~z~Well, if I'd known what it was going to be, I would have told you I didn't want to touch anyone who'd touched it with a ten foot barge pole.
+LC_ALAA
+LC_AFAD
+SFX_PAUSE_260
+LC_APAA
+~z~Ah, hello. Look, I know it's been a while, but you don't need to talk my ear off.
+1100001110000011000011100000110000111000011100001
+LC_AAAB
+LC_AGAC
+~z~Or, well, you can predict that they'll always go wrong. You should stick to working with professionals for a while.
+~z~Oh, shit, wait. Did I hit call? I meant to hit email. Anyway.
+100
+SFX_PAUSE_100
+11000011100000110000111000001100001
+LC_AKAB
+1100000110000111000001100001
+~z~But it's too late now, isn't it. Things are pretty quiet right now. Those people. And me too.
+100
+~z~Hey, seeing as you're not exactly one for long talks about the nature of human misery,
+100
+~z~Uh, you'll sleep well tonight. We all will. Enjoy the spoils while you can.
+100
+LC_AQAA
+LC_AEAA
+SFX_PAUSE_260
+~z~I'll be in touch if I got anything.
+392392
+~z~That's not to say there won't be something down the line.
+392010392392010392
+~z~Someone's looking for a crew, to take a score, but I don't know any more. I thought maybe you'd be interested.
+SFX_PAUSE_340
+LC_ADAD
+~z~Come to my warehouse off the freeway. We'll discuss it.
+SFX_PAUSE_160
+~z~Look, ah, we need to talk. I've got a proposition that might be mutually advantageous.
+LC_ANAB
+LC_ACAA
+LC_ARAA
+100
+~z~There's your FSA fine, Fleeca fucks!
+SFX_PAUSE_220
+~z~Personally, I wouldn't touch it with a ten foot barge pole, because I don't know any of these people,
+100
+~z~You know how I told you before not to touch that thing with a ten foot barge pole? Well, to be honest, I wouldn't touch this either...
+~z~I won't want to know anything about it except for the finder's fee. Don't worry, it comes outta their end, not yours.
+SFX_PAUSE_290
+SFX_PAUSE_230
+100
+SFX_PAUSE_180
+LC_ADAB
+LC_AOAA
+LC_AEAB
+LC_ADAC
+LC_ACAB
+~z~Alright. We might be ready to move on this thing. If you want the work, you'll get a knock on your door any minute.
+~z~I sound like a tween who thinks he's about to get to second base. And I'm not getting to second base, am I?
+~z~who cares though, right, it worked. There'll be something else for you soon.
+LC_AAAA
+SFX_PAUSE_190
+110000111000001100001
+392010392010392392
+LC_AMAD
+100
+100
+100
+LC_ABAB
+392392
+LC_AJAA
+11000011100000110000111000001100001
+~z~When you've put your affairs in order, I'll come meet you at your apartment to talk through the finer details.
+~z~Hold on for some important info coming into your inbox. It's about a job and it's all encrypted so don't worry about it leaking.
+LC_ALAB
+100
+~z~Fine work on the bank. I don't know if that means it was a job for idiots, or you've actually got something but,
+392010392392010392
+~z~How you doing? Listen... I'm working on something... something interesting, I think, but
+LC_ARAB
+~z~Look, I'll come over when you're good to go.
+110000111000001100001
+LC_AGAB
+392010392010392
+392010392010392
+~z~if they're interested, they'll probably be in touch.
+SFX_PAUSE_200
+LC_AFAB
+392010392
+SFX_PAUSE_150
+~z~Hey... hey, you still working? If you are, I know someone with a job.
+~z~Normally, I know things. Not knowing... creeps me out. But
+~z~I never touch drugs and I don't know the people but I passed on your details, so...
+SFX_PAUSE_200
+SFX_PAUSE_220
+010392010392
+~z~One of my contacts has a simple job that needs to be done in the loudest, most chaotic way possible, so, you know,
+SFX_PAUSE_250
+LC_AFAA
+LC_AKAC
+SFX_PAUSE_220
+~z~So, your employer, he tells me it's over, you did a great job... only I've got no idea what you were up to.
+~z~I immediately thought of you. If you want the work, you'll get a knock on your door any minute.
+LC_ARAD
+LC_AMAB
+~z~How you doing? I've heard you'd been... well, like I said the less I know the better.
+11000011100000110000111000001100001110000011000011100001
+~z~Cost me a small fortune, so let's hope it's legit. I'll come by your apartment to discuss.
+~z~How'd you do with that thing? That good, eh? Well, I told you,
+11000011100000110000111000001100001
+392010392
+SFX_PAUSE_260
+392010392
+LC_AJAB
+100
+~z~If a repeat customer is any indicator, you might not be bad at this whole... thing after all.
+100
+LC_AMAC
+SFX_PAUSE_290
+SFX_PAUSE_360
+LC_AFAE
+SFX_PAUSE_120
+110000111000001100001110000111000001100001
+LC_AJAC
+SFX_PAUSE_150
+SFX_PAUSE_190
+392010392
+LC_AMAA
+LC_AQAB
+392010392010392
+~z~it wasn't anything to do with me... nothing at all. I don't touch drug deals 'cause they're unpredictable.
+~z~this is. I've put a lot in and I've been waiting on some information but I've got that now.
+LC_AGAA
+100
+~z~but if you're interested, be my guest. I can tell them to come see you.
+11000011100000110000111000001100001
+LC_AEAC
+~z~That person I put you in touch with - he's got another job. If it's anything like the last job,
+~z~This thing is ready to go.
+110000111000001100001110000111000001100001
+LC_AGAD
+SFX_PAUSE_270
+100
+LC_ASAB
+392
+LC_ANAA
+SFX_PAUSE_230
+11000011100001
+LC_ATAA
+LC_AQAE
+LC_AFAC
+100
+LC_ASAA
+~z~They can come around your apartment, right after you've cleaned it up.
+~z~I said they were busy so I'm putting you together.
+110000111000001100001
+110000111000001100001
+392010392010392392392
+LC_ADAA
+~z~this time, I feel like knowing things might creep me out even more, so don't tell me. Just lay low and I'll get in touch if there's work.
+~z~some red neck drug dealer asked a friend of a friend of a friend... they think they're putting together a score.
+LC_ARAC
+LC_AQAD
+LC_ASAC
+SFX_PAUSE_210

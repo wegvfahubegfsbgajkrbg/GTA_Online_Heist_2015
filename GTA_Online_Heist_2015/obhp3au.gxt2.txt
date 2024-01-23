@@ -1,0 +1,243 @@
+﻿~z~He's reluctantly agreed to help us tune into the Pacific Standard frequency.
+590
+OBHP3_ATAI
+1102000
+100
+SFX_PAUSE_200
+1100100
+OBHP3_ATAF
+OBHP3_AXAA
+~z~Shoot me in the head before they take me. You gotta destroy the brain, or they'll bring it back to life in a jar.
+~z~I'm getting Paige to meet you out at some farm buildings outside of a town called Grapeseed.
+SFX_PAUSE_250
+590
+~z~
+SFX_PAUSE_300
+100
+OBHP3_AXAF
+~z~You got any friends who, like, totally overreact when you say something?
+100
+SFX_PAUSE_200
+SFX_PAUSE_270
+~z~
+OBHP3_BPAA
+~z~Schwartzman.
+SFX_PAUSE_270
+392
+100
+~z~that window is closing.
+OBHP3_ATAC
+100
+100
+100
+~z~Damn!
+OBHP3_BRAA
+1100100
+110010011000001100100110000011001001100100110000011001001100100110000011001001100000110010011001001100000110010011000001100100
+OBHP3_BCAA
+SFX_PAUSE_190
+OBHP3_BGAE
+11001001100000110010011000001100100110000011001001100000110010011000001100100
+SFX_PAUSE_320
+~z~So this guy's meeting you off the Western Highway just before Paleto Bay.
+OBHP3_BGAO
+100
+~z~She won't date me, he stole my homework, Daddy doesn't love me.
+392010392010392010392010392010392
+OBHP3_BOAA
+791
+~z~Nowhere to run!
+OBHP3_AYAE
+OBHP3_BGAD
+~z~I just wanna meet someone who can shut up, follow orders, and do a job really well. Is that too much to ask?
+590
+SFX_PAUSE_350
+~z~Drop any heat you got, then get Avi to Paige.
+~z~I would go up Raton Canyon all the way to the Alamo Sea, and do it quick.
+~z~If the people who could do difficult things weren't difficult people.
+~z~You know how I said there was a small window, well...
+~z~No, no, no!
+OBHP3_BQAA
+~z~So, give him the transponder, let him do his thing, then give it to Paige.
+~z~Our call got picked up, they came after him, and he ran.
+OBHP3_BGAK
+SFX_PAUSE_350
+100
+1100100
+392
+~z~But really it's all the same.
+OBHP3_AXAE
+11001001100000110010011000001100100
+100
+~z~Give it up, you're surrounded!
+OBHP3_AWAB
+~z~I don't like it!
+1100100
+SFX_PAUSE_270
+SFX_PAUSE_240
+OBHP3_BLAA
+OBHP3_ATAH
+100
+~z~You've only got a small window in which to do this.
+~z~the best logistics person is so good at logistics she predicts crime for the feds, the rat!
+~z~Now, they're after you, too. They're after all of us! We should go to the hills.
+OBHP3_BGAB
+~z~Okay, ah, slight change of plans.
+OBHP3_BGAP
+392
+~z~I'd take road kill stew and trash juice over IAA mind control drugs any day, I would.
+~z~What hope do we got? Not much, you know?
+OBHP3_AYAD
+891
+1100100
+100
+1100100
+SFX_PAUSE_290
+~z~You might not want to let 'em know you're there 'til you've got it in hand.
+~z~I haven't spent this long in another person's company since that owl died last spring. Man, he cooked good.
+~z~When we're all androids and algorithms, we can download a patch for 'em.
+100
+OBHP3_AXAD
+1100100
+~z~So, I'm sending you to a rental place on Ineseno Road. Pick up some Seasharks and get out to the island.
+SFX_PAUSE_270
+~z~A few years ago, I told him there was a warrant out on him and he goes full hermit - like,
+590
+590
+1100100
+~z~I know guys that go into hiding
+SFX_PAUSE_260
+~z~You know they aren't going to send me to jail, they're gonna chain me up and make me a spy.
+SFX_PAUSE_400
+~z~Hey! Hey, come back with that thing!
+OBHP3_BFAC
+SFX_PAUSE_290
+~z~or motivated! Where were we? Oh, yeah...
+OBHP3_AYAA
+OBHP3_BGAJ
+SFX_PAUSE_300
+OBHP3_BTAA
+OBHP3_BFAA
+~z~but I'm guessing the cops won't need theirs when you're done with them, right?
+OBHP3_BGAC
+OBHP3_BUAA
+~z~Well, my friend Avi's kinda like that.
+~z~If you don't get Avi to Paige soon, the transponder's gonna lock, and all this'll be for nothing.
+OBHP3_ATAB
+392010392010392
+OBHP3_BHAB
+~z~Squawk!
+~z~As much as I'd love to hang him out to dry, he's our only shot at this... and, well, it's... kinda our fault so...
+~z~Yeah, well. How's your Seashark trip? Enjoying yourselves?
+100
+~z~You got to drop the heat before you meet Paige.
+590
+~z~You got the Seasharks? Get to the island.
+100
+590
+OBHP3_ATAA
+~z~stealing food from trashcans, talking to the trees, jerking it with squirrels type hermit. I mean,
+100
+SFX_PAUSE_230
+~z~Oh yeah, and, uh, you need a boat to get him off the island,
+1100100
+590
+~z~I knew they were listening. I built their receivers. You can hear me now, can't you, you fucking jackasses.
+~z~I wish you'd left me alone! I didn't do anything. I was pruning the bush, not exposing myself in it.
+OBHP3_BGAL
+1100100
+OBHP3_BMAA
+SFX_PAUSE_170
+1100100
+SFX_PAUSE_280
+OBHP3_AYAB
+OBHP3_ATAD
+OBHP3_BFAD
+~z~It's only a matter of time before he does a Butch Cassidy, the nutjob.
+~z~Screw humanity and its imperfections.
+OBHP3_ATAK
+OBHP3_ATAG
+~z~Shit!
+~z~Are we clear? Get the hermit out of his hut and go!
+~z~and don't even change their golf club! The cops are not that smart...
+100
+OBHP3_AZAA
+OBHP3_BNAA
+SFX_PAUSE_300
+~z~
+~z~The best muscle I ever worked with eats people,
+OBHP3_BGAM
+590
+OBHP3_AXAC
+392010392010392392010392392010392010392392010392010392
+OBHP3_BVAA
+SFX_PAUSE_180
+110010011000001100100
+SFX_PAUSE_170
+SFX_PAUSE_270
+110010011000001100100110000011001001100000110010011000001100100
+1100100
+OBHP3_AWAA
+OBHP3_BGAF
+SFX_PAUSE_270
+SFX_PAUSE_320
+~z~Lester Crest, you asshole. I know his secrets. I know where the bodies are buried.
+OBHP3_BXAA
+OBHP3_AXAB
+OBHP3_BGAA
+~z~Me. Sweaty palms, filthy mind, filthier hard-drive - me.
+OBHP3_ATAE
+OBHP3_BFAB
+OBHP3_BGAH
+~z~So, Avi's not going to come out of his hut until the cops are gone.
+392010392010392010392010392
+1100100
+~z~Ideally, I'll be able to download the patch onto the problem people having identified their problems.
+OBHP3_BSAA
+392010392010392392392
+SFX_PAUSE_340
+590
+11001001100100110000011001001100000110010011000001100100110000011001001100000110010011000001100100110000011001001100000110010011000001100100110000011001001100000110010011001001100000110010011000001100100
+~z~You know what would be nice?
+OBHP3_BFAE
+OBHP3_ATAJ
+SFX_PAUSE_200
+~z~Now he's holed up in a hut on some small island off the coast, surrounded by about twenty government agents.
+~z~What - what now?!
+~z~I've packed silenced pistols and sniper rifles in your day packs just in case.
+OBHP3_BGAN
+OBHP3_BHAC
+SFX_PAUSE_240
+392010392
+100
+~z~That possum told me it was gonna get weird. Looked right in my eye and said it. I shoulda run when I had the chance.
+100
+OBHP3_BEAA
+~z~Any real sharks out there? That'd be an unfortunate way for this to end.
+~z~All this for the Pacific Standard Vinewood? It ain't worth it. Not even for the Union Depository.
+~z~Gone, you understand?
+1100100110000011001001100000110010011001001100100
+~z~And me, I'm the best hacker I know.
+~z~Make it stop!
+SFX_PAUSE_460
+~z~Just give up!
+100
+OBHP3_BGAI
+~z~Okay, okay.
+100
+~z~So... It would appear that some of Avi's paranoia might have been somewhat justified.
+SFX_PAUSE_260
+100
+1100100
+SFX_PAUSE_320
+590
+1100100
+SFX_PAUSE_230
+392392010392010392010392010392010392010392010392010392010392010392010392392010392010392
+OBHP3_BHAA
+OBHP3_BGAG
+~z~the best crew leader couldn't stop lying, best signal guy communes with animals,
+~z~We got you, asshole!
+OBHP3_BWAA
+OBHP3_AYAC
+100

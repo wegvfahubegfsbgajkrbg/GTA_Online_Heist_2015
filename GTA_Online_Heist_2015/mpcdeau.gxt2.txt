@@ -1,0 +1,93 @@
+﻿SFX_PAUSE_280
+~z~in a non-creepy just annoying sense.
+MPCDE_BBAA
+492
+~z~Do not surrender. Take them out. We are burned if you are caught!
+~z~Let's go.
+492
+MPCDE_BCAA
+SFX_PAUSE_330
+~z~that's why we got a team of four on this.
+MPCDE_AZAA
+1100100
+MPCDE_AVAG
+MPCDE_AXAB
+100
+SFX_PAUSE_200
+MPCDE_AVAC
+MPCDE_AVAF
+1100100
+MPCDE_BCAB
+492
+492010492492010492010492010492010492010492
+100
+~z~When she gets there, the buyer's going to receive the codes, the bodyguard providing backup, the lookouts... are looking out.
+MPCDE_AVAB
+100
+100
+~z~We can't take any chances with the Bureau sniffing around.
+492
+~z~Lose the heat before making the drop off.
+~z~If everything goes to plan, you walk out of there with the codes.
+1100100110000011001001100000110010011000001100100110010011000001100100
+1100100
+100
+MPCDE_AUAB
+SFX_PAUSE_220
+SFX_PAUSE_290
+MPCDE_AYAA
+~z~The Bureau's coming at us! Dammit.
+SFX_PAUSE_220
+SFX_PAUSE_350
+SFX_PAUSE_400
+100
+MPCDE_AWAA
+100
+~z~FIB networks are suspiciously dark. I'd stay on alert.
+~z~and one on the roof to the North East.
+1100100
+MPCDE_AUAA
+~z~Okay?
+~z~I mean, that would be tough in normal circumstances, but these guys have a real hard-on for her...
+100
+MPCDE_AUAD
+SFX_PAUSE_190
+~z~Looks like you're clear... but we've heard that before. Drop the codes at HQ and look out for tails.
+MPCDE_AUAE
+~z~The buyer and the bodyguard will wait for my contact to arrive near the entrance to the lot.
+110010011000001100100
+MPCDE_AUAC
+MPCDE_BAAA
+SFX_PAUSE_170
+SFX_PAUSE_170
+11001001100000110010011001001100000110010011000001100100110000011001001100000110010011000001100100
+MPCDE_AZAB
+~z~Make sure the entrance to the lot isn't blocked by your vehicle.
+~z~You need to clean up these agents. They're chasing a pay off, and they will keep coming.
+492010492
+SFX_PAUSE_280
+~z~My contact's trying to drop her Bureau surveillance.
+MPCDE_AVAD
+492010492
+1100100
+100
+MPCDE_AVAH
+100
+MPCDE_AXAA
+492010492010492010492492010492
+~z~Okay, so one of you's doing the exchange, one's the bodyguard, and two are lookouts.
+~z~So, anyway, we're hoping for the best, preparing for the worst,
+~z~When you get there I'll need one lookout on the roof to the South of the lot,
+~z~My contact needs to be able to get in and out quick.
+110010011000001100100
+~z~Looks like you've got a window! Get the case and bring it here.
+492010492
+110010011000001100100
+MPCDE_ATAA
+SFX_PAUSE_190
+MPCDE_AVAE
+492
+MPCDE_AUAF
+~z~Okay, you're going for the codes. I'll tell my contact to meet you off Elgin Avenue.
+~z~If anything does not go to plan, you do your best to walk out of there with the codes.
+MPCDE_AVAA
