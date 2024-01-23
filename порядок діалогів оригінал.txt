@@ -1,0 +1,320 @@
+~z~Oh, ah, yes. Come in, come in.
+~z~It's ah...
+~z~good to see you...
+~z~again, uh...
+~z~been a while
+~z~Yeah, I've never been good at small talk.
+~z~I don't have many friends, uh...
+~z~I do sometimes meet people online
+~z~and then I arrange to meet them out in the real world,
+~z~and then I go there but I just hide and I watch them...
+~z~and I think...
+~z~Wow!
+~z~Now you are experiencing one percent of what I felt my entire childhood when I spoke to a girl.
+~z~Wow!
+~z~I've never told anyone that before.
+~z~It feels good to talk.
+~z~So, uh...
+~z~I know you've been complaining but you weren't ready.
+~z~But now, maybe...
+~z~just maybe you are, ready to do real work!
+~z~I mean, are you interested?
+~z~Because if you are I have a few things coming down the wire, soon-ish,
+~z~if you want.
+~z~I'll contact you...
+~z~but don't let me down on this.
+~z~I'm putting my neck on the line and I like my neck.
+~z~It's my best feature.
+~z~Aside from my sparkling conversation.
+
+~z~Ah, ah. Yes, yes, this will er...
+~z~do very nicely. Very nice place you've got. Very er... chic.
+~z~Nothing like a bourgeois bank robber to remind me
+~z~of how strange Los Santos has become!
+~z~In my day the psychos at least had the dignity to be psychotic.
+~z~Nowadays it's all about er...
+~z~home furnishings and going straight. Right, you ready?
+~z~Because this is it. Well, it's... it's not it, but er...
+~z~it's something, it's something er... very big.
+~z~It's not quite ready yet, but I wanted to see how you're doing.
+~z~What I've got is a Fleeca Bank franchise.
+~z~It's nothing too complicated, there's no buy in.
+~z~Now normally, there would be a buy in, you would put in money up front,
+~z~we would arrange the job and you would pull it off, but this time I'll er...
+~z~cover the upfront costs. Call it the er...
+~z~price of getting a look at you. And there's no risk to you.
+~z~Unless of course you count getting locked up or shot.
+~z~So, you ready? Now, what do you think? You er...
+~z~got questions, comments, concerns?
+~z~Alright, what are you waiting for? Let's go see this place.
+
+~z~There's a Fleeca franchise on the Western Highway near Chumash. Take us there.
+~z~Word of warning, we're on the job right now, so don't let the cops notice you.
+~z~If they come after us, we call it off.
+~z~So, my taciturn friends, I suppose you want to know how we're doing this.
+~z~Well, funny you should ask. We're driving out to the bank, taking a look at it,
+~z~picking up some equipment, and then heading back to make our plans. Not very complex at all.
+~z~We're not going in, we're not poking it with a stick, we're just sitting back and taking a look.
+~z~You see, I like my scores like I like my dates -
+~z~across the street and unaware they're being watched.
+~z~Alright, so why this bank, over all the other banks in the state, why does fortune favor this one?
+~z~Another good question. You're full of good questions.
+~z~You're like a child whose parents think it's clever, or the IRS.
+~z~Well, this bank's got some safety deposit boxes,
+~z~and in one of those safety deposit boxes are some bonds being hidden from the taxman
+~z~that no one's going to report missing. All starting to make sense?
+~z~Security should be light, well, relatively light.
+~z~Light if your day dreams are raids on the Union Depository.
+~z~Quite heavy if your day job is turning over liquor stores and gas stations.
+~z~And the bonds in the box will be worth more than a few rumpled notes from a till so,
+~z~the minor escalation is worth it... if you can handle it.
+~z~Plus, you know, the sea view. Nothing like staring at the ocean while you contemplate money and power and
+~z~incarceration, and homicide, all those weighty issues surrounding your first foray into serious armed robbery.
+~z~I'm assuming you're a kind of cerebral crew, because otherwise, this whole not talking deal just kind of
+~z~puts you on the spectrum, right? Okay, well, how about we just get there and see where we're at.
+
+~z~There it is. Take a look. Drink it in.
+~z~I've patched into their security feed on my cell. Take a look.
+~z~What are we looking at? Small joint. Not much security.
+~z~Staff won't give a crap, especially about the deposit boxes.
+~z~Customers'll probably be thinking how to turn this into a screenplay.
+~z~The boxes are in the back behind a safe door.
+~z~We want box number 167.
+~z~It's right on the highway with good access. That works for you, you can get out quick.
+~z~But it'll also work for the cops, speed up their response time.
+~z~Okay? Okay.
+~z~Enough of this peeper crap. Let's go to the garment factory.
+
+~z~Now, when you hit the bank, you're going to need to hack into its security system,
+~z~I've written a neat little program that'll do most of the work for you, but
+~z~it's probably a good idea for you to familiarize yourselves with it.
+~z~You in the passenger seat, I've sent it to your phone.
+~z~Take it for a dry run, keep your hands steady, and maybe the wet run won't be a disaster.
+~z~I'm calling Paige. She's my assistant.
+~z~First she's going to get us what we need, then she's going to saw me in half.
+~z~No? You didn't like that one? You don't make it easy.
+~z~Paige, it's Lester...
+~z~The place looked good. Nothing we weren't expecting...
+~z~Can you get the intel together? Hard copies to go on a notice board...
+~z~Yeah. Plus all the equipment we spoke about. I'll be over to collect it with those people...
+~z~Yeah...
+~z~Mmm. Charming as ever...
+~z~Okay, see you soon.
+~z~Passenger seat, did you get into their network? Good work.
+~z~She's loading the hardware into the back of a truck.
+~z~Tools for the job, things for you to wear.
+~z~On a job, your attire will depend on the role you're performing.
+~z~As the jobs get more complicated, so will the uniforms.
+~z~If you're likely to be seen by civilians, you'll be provided with a couple of masks;
+~z~then, when you go into the bank, you can choose one that... goes with your eyes.
+~z~And hey,
+~z~there's the added bonus of none of your favorite comic convention outfits being linked to a major crime.
+~z~Whoop dee doo.
+~z~Where were we? Masks! Paige! Oh yeah.
+~z~We'll go over there, pick her up, and go back to your place to plan this thing.
+
+~z~There's Paige. We're leaving this car, taking the truck.
+~z~I should be using my cane.
+~z~Nice to meet you.
+
+~z~Come on. Back to your place.
+~z~Is it all there?
+~z~I think so...
+~z~You wanna get out and check, go down the inventory?
+~z~Or are you happy sitting there making a perfect butt imprint in your easy-wipe seat?
+~z~I'll take your word for it.
+~z~Thank you.
+~z~It should all be there. The clothes. Guns. Headsets. Holdalls. Masks. The drill.
+~z~The files with all the photos and surveillance work.
+~z~Hey, there's enough here to make us all look real suspicious.
+~z~Nice little conspiracy to commit robbery charge waiting to happen.
+~z~What, they gonna charge us with thought crime?
+~z~Not so much thought as everything-but-the-deed-crime.
+~z~We'd be caught with our pants down and a hard-on out to here.
+~z~Well, we're not getting caught. These are professionals.
+~z~So I hear. The cheapest professionals money can buy.
+
+~z~Okay, okay, okay...
+~z~Now, Paige will set up a board for you.
+~z~Won't you, Paige?
+~z~I'd let you do it if you could reach,
+~z~I mean I didn't see any milk crates for you to stand on.
+~z~The most important thing to look for in an employee is respect.
+~z~You can't get anything done without respect.
+~z~Now where was I? Oh, yes, yes, er...
+~z~the room. Now Paige is setting up this board on which you will plan your scores,
+~z~you'll use it to er... set out all the prep work you need to do,
+~z~select your crew, figure out how the take from a score should be split up.
+~z~So you need a crew to take a score,
+~z~but only one person can be in charge. Respect, hmm?
+~z~Isn't that right, Paige?
+~z~Blow me.
+~z~Alright, it's... funny.
+~z~You're only gonna need er... one thing,
+~z~for this er... for this job.
+~z~It's a high speed, armored car.
+~z~Now instead of getting one legitimately,
+~z~leaving a nice long paper trail to your front door,
+~z~you're gonna be jacking one from a nasty Korean crew
+~z~and leaving a nice long paper trail to their door instead.
+~z~This is good to go.
+~z~Okay, here's your board.
+~z~Good, good, good.
+~z~Now when you're ready to move on the car,
+~z~go over it, study the plan, tick it off the list.
+~z~You must be methodical. This isn't just a dumb crime.
+~z~Well there... there is an element of that, huh?
+~z~And when you've got the car, we'll come back here and talk bank jobs.
+~z~Bank jobs... bank jobs...
+
+~z~Hello. Can you hear me?
+~z~I'll be here to talk you through all these jobs.
+~z~Oh, what have we got here? Oh, yeah, the car. Okay.
+~z~You're on the way to Del Perro.
+~z~A Koreatown stickup crew's been using a parking lot as a base for scores.
+~z~They're into extortion, credit fraud, stolen cars,
+~z~and some mini major robberies.
+~z~I'd expect them to be packing and I'd expect them to be paranoid.
+~z~Come to think of it, you won't find a bulletproof car in the hands of anyone who doesn't have a healthy dose of paranoia.
+
+~z~You almost there? Remember, you can do this however you like as long as you're careful.
+~z~If you're not careful, they'll clock you, and then you won't get any choice how this is going down.
+~z~They're meant to be on the top level of this garage on the north side.
+~z~So, I see two ways of doing it - you go up the north ramps and hit 'em hard and quick.
+~z~Or you go up the south ramps, get in position, and try to get the drop on them from cover.
+~z~Eh, you can do it however you like, as long as you get it done.
+~z~And, oh yeah, we don't want anyone looking for you, so put on masks before saying "hi".
+
+~z~You got the car?
+~z~Now drop any cops or gangsters or whoever you've got coming after you, and bring it to my garment factory.
+~z~And try not to damage the car too much. You can't rob a bank in a wrecked car.
+~z~How's it driving?
+~z~I don't want to call this an idiot-proof heist car, I mean there's no limit to some people's stupidity,
+~z~but you gotta be very fucking dumb to let the cops catch you in one of these.
+~z~It's got muscle, traction, light weight armor that shouldn't compromise performance,
+~z~this is the one for us.
+~z~Now get it back in one piece and I'll shut up about it.
+~z~How you doing? Paige's going to meet you under the bridge near the factory.
+~z~This score is coming together.
+
+~z~Okay, I'll look after this.
+~z~Lester will come by your place when you're ready to go.
+
+
+~z~Ah...
+~z~your er...
+~z~your first time...
+~z~You know the er... the first times,
+~z~well it's never easy, there won't exactly be er...
+~z~fireworks, you know?
+~z~It'll be er...
+~z~it'll be vaguely awkward and er...
+~z~disappointing, you know?
+~z~You'll probably stick the wrong thing in the wrong part
+~z~and then you'll finish too early and... and you won't be able to...
+~z~to make eye contact afterwards, but er...
+~z~but new worlds will... will open up.
+~z~Something will have changed, you know? New er...
+~z~opportunities, er... new risks.
+~z~And that's when you'll remember that old Uncle Lester was here for you,
+~z~holding your hand, you know?
+~z~Guiding you through it.
+~z~And then you'll feel a little creeped out, but,
+~z~but you're gonna repress it. Squash it down,
+~z~and we'll never talk about it, okay? Okay?
+~z~Hmm, okay. First time, Fleeca! Woo!
+~z~It's a two man score, right?
+~z~One of you drives, keeps the heat off of you.
+~z~The other goes into the bank, goes to the specific safety deposit box
+~z~and then you get out of there. You get in that fast armored car
+~z~and you get the hell out of that place.
+~z~Then once you're clean, once you've got no heat on you,
+~z~come see me, give me the box and you get paid, hmm?
+~z~Okay.
+~z~You know what, like I said, it is your first time, so er...
+~z~don't expect too much. There are erm...
+~z~wild...
+~z~insane...
+~z~mind blowing orgies in your future!
+~z~Orgies!
+~z~But er...
+~z~you know, we all gotta start somewhere.
+~z~Good luck.
+
+
+~z~Okay. Here we go. I'm excited for you.
+~z~I've got goose bumps up my arms and butterflies in my stomach and a light film of sweat on my upper lip.
+~z~You know where you left the car.
+~z~At least I hope you do.
+~z~You weren't drunk on painkillers were you?
+~z~Oh no, that was me.
+
+~z~Driller, I'm sending you that hacking program.
+~z~When you get in the car, you need to get on it, and start breaking into their system.
+~z~You got the wheels? Alright, go to the bank.
+~z~Driller, start hacking their network. You need to establish a connection before you get to the bank.
+~z~Then you'll be able to trigger the vault door remotely.
+~z~The hacking program's cleaning up after you,
+~z~so you can take as many shots as you want, and they won't know they're being attacked.
+~z~Once you walk through those doors, there's no turning back.
+~z~Well, actually, there's no turning back right now because I've put a lot of work into this, and I'll be really,
+~z~really annoyed with you if you don't go through with it.
+~z~You know, I'd probably refuse to speak to you for a week, and then spread nasty rumors behind your back,
+~z~maybe set up a Lifeinvader page about what a creep you are.
+~z~It'd be scarier if I threatened to kill you, wouldn't it?
+~z~But in the age of the internet, when nothing is forgotten, and humiliation is worse than death.
+~z~In a way? No it's not, is it?
+~z~I should have made a death threat, or, like, at least a mutilation threat,
+~z~said I'd, you know, cut off your nose or I'd use your ass for an ashtray, or do something with your tongue,
+~z~not that you use your tongue.
+~z~The next pair of mutes I try to help into a career in crime, I'll make sure I threaten.
+
+~z~So, since we're actually doing this, I'm going to talk you through it one last time.
+~z~We've given you pump action shotguns to take in.
+~z~They should look intimidating enough. You both go in, you go in hard.
+~z~There are four security cameras in the foyer.
+~z~Driver, take them out as soon as you walk in the door. Then you're on crowd control.
+~z~Driller, when you're in the network, you'll be able to open the vault door on your phone.
+~z~Go back to the safety deposit room, and start drilling.
+~z~You at the bank? You need to wait until the driller's got into their network before making a move.
+~z~How's the hack coming? You should have this done by now.
+
+~z~Okay, time to open the vault. Take out your phone, and trigger the door.
+~z~Here we go. Put a mask on if you haven't already, and get inside.
+~z~Take out the cameras - quick. You'll be broadcasting live to the LSPD if you don't shut 'em down now.
+~z~Okay. Now, find the safety deposit box.
+~z~There it is. Drill it.
+~z~You found the box? Okay, go in your bag, get out the drill.
+
+~z~Don't go too quick, or it's going to overheat.
+~z~If you see smoke ease off. If the drill burns out, this whole thing will take too long.
+~z~Keep going. We need that box.
+~z~You need to hurry this up.
+~z~How you doing with that drill?
+
+~z~That's the box. Be ready to move.
+
+~z~Go! Go! Go! You didn't come this far to end up in the back of a squad car.
+~z~I've got my getaway guy waiting for you on Zancudo Bridge. He's got a plan for the cops if you can just get there.
+~z~Guy's name is Eddie Toh, he's a professional, he'll take care of everything.
+
+~z~Hey, come in. This is your getaway guy. Lester tells me you are inbound.
+~z~Keep driving for the bridge. I got this under control.
+~z~We have lift off. Let's go.
+
+~z~Show it to me.
+~z~Oh yes, it is the holiday season at the Crest residence,
+~z~and daddy's out drinking.
+~z~I gotta say...
+~z~you passed.
+~z~And if that thing I talked about comes up I'll call you
+~z~and in the meantime if anyone comes to me
+~z~I'll mention you as a reliable pair of hands.
+~z~Hey!
+~z~For a first time that wasn't bad, but don't get clingy.
+
+
+~z~There's your FSA fine, Fleeca fucks!
+~z~Uh, you'll sleep well tonight. We all will. Enjoy the spoils while you can.
+~z~I'll be back in touch if there's more work down the road.
+
